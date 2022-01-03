@@ -1,0 +1,2806 @@
+{
+    "label": "Copy of Delphi Splits",
+    "mobileDisabled": false,
+    "state": {
+        "dataSourceLinks": [],
+        "filters": [],
+        "gridLayouts": [
+            {
+                "name": "Default",
+                "numColumns": 12,
+                "pages": [
+                    {
+                        "label": "Untitled",
+                        "name": "da9046a0-b550-4eba-bf51-17ae4fe459ac",
+                        "navigationHidden": false,
+                        "widgets": [
+                            {
+                                "colspan": 9,
+                                "column": 3,
+                                "name": "pillbox_1",
+                                "row": 0,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "borderColor": "#7D98B3",
+                                    "borderEdges": [
+                                        "all"
+                                    ]
+                                }
+                            },
+                            {
+                                "colspan": 4,
+                                "column": 8,
+                                "name": "pillbox_2",
+                                "row": 16,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "backgroundColor": "#FFFFFF",
+                                    "borderColor": "#7D98B3",
+                                    "borderEdges": [
+                                        "all"
+                                    ],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            },
+                            {
+                                "colspan": 4,
+                                "column": 3,
+                                "name": "pillbox_3",
+                                "row": 1,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "backgroundColor": "#FFFFFF",
+                                    "borderColor": "#7D98B3",
+                                    "borderEdges": [
+                                        "all"
+                                    ],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            },
+                            {
+                                "colspan": 3,
+                                "column": 9,
+                                "name": "pillbox_4",
+                                "row": 1,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "backgroundColor": "#FFFFFF",
+                                    "borderColor": "#7D98B3",
+                                    "borderEdges": [
+                                        "all"
+                                    ],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            },
+                            {
+                                "colspan": 2,
+                                "column": 0,
+                                "name": "listselector_1",
+                                "row": 17,
+                                "rowspan": 1,
+                                "widgetStyle": {}
+                            },
+                            {
+                                "colspan": 2,
+                                "column": 0,
+                                "name": "listselector_2",
+                                "row": 16,
+                                "rowspan": 1,
+                                "widgetStyle": {}
+                            },
+                            {
+                                "colspan": 2,
+                                "column": 0,
+                                "name": "listselector_4",
+                                "row": 20,
+                                "rowspan": 1,
+                                "widgetStyle": {}
+                            },
+                            {
+                                "colspan": 2,
+                                "column": 0,
+                                "name": "listselector_8",
+                                "row": 4,
+                                "rowspan": 1,
+                                "widgetStyle": {}
+                            },
+                            {
+                                "colspan": 9,
+                                "column": 3,
+                                "name": "pillbox_5",
+                                "row": 2,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "backgroundColor": "#FFFFFF",
+                                    "borderColor": "#7D98B3",
+                                    "borderEdges": [
+                                        "all"
+                                    ],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            },
+                            {
+                                "colspan": 2,
+                                "column": 0,
+                                "name": "listselector_5",
+                                "row": 6,
+                                "rowspan": 1,
+                                "widgetStyle": {}
+                            },
+                            {
+                                "colspan": 2,
+                                "column": 0,
+                                "name": "listselector_6",
+                                "row": 21,
+                                "rowspan": 1,
+                                "widgetStyle": {}
+                            },
+                            {
+                                "colspan": 2,
+                                "column": 0,
+                                "name": "listselector_10",
+                                "row": 18,
+                                "rowspan": 1,
+                                "widgetStyle": {}
+                            },
+                            {
+                                "colspan": 2,
+                                "column": 0,
+                                "name": "listselector_11",
+                                "row": 19,
+                                "rowspan": 1,
+                                "widgetStyle": {}
+                            },
+                            {
+                                "colspan": 2,
+                                "column": 0,
+                                "name": "listselector_12",
+                                "row": 14,
+                                "rowspan": 1,
+                                "widgetStyle": {}
+                            },
+                            {
+                                "colspan": 2,
+                                "column": 0,
+                                "name": "listselector_13",
+                                "row": 7,
+                                "rowspan": 1,
+                                "widgetStyle": {}
+                            },
+                            {
+                                "colspan": 2,
+                                "column": 0,
+                                "name": "listselector_14",
+                                "row": 8,
+                                "rowspan": 1,
+                                "widgetStyle": {}
+                            },
+                            {
+                                "colspan": 2,
+                                "column": 0,
+                                "name": "listselector_15",
+                                "row": 9,
+                                "rowspan": 1,
+                                "widgetStyle": {}
+                            },
+                            {
+                                "colspan": 2,
+                                "column": 0,
+                                "name": "listselector_16",
+                                "row": 10,
+                                "rowspan": 1,
+                                "widgetStyle": {}
+                            },
+                            {
+                                "colspan": 2,
+                                "column": 0,
+                                "name": "listselector_17",
+                                "row": 11,
+                                "rowspan": 1,
+                                "widgetStyle": {}
+                            },
+                            {
+                                "colspan": 2,
+                                "column": 0,
+                                "name": "listselector_18",
+                                "row": 12,
+                                "rowspan": 1,
+                                "widgetStyle": {}
+                            },
+                            {
+                                "colspan": 2,
+                                "column": 0,
+                                "name": "listselector_19",
+                                "row": 13,
+                                "rowspan": 1,
+                                "widgetStyle": {}
+                            },
+                            {
+                                "colspan": 2,
+                                "column": 0,
+                                "name": "listselector_9",
+                                "row": 3,
+                                "rowspan": 1,
+                                "widgetStyle": {}
+                            },
+                            {
+                                "colspan": 2,
+                                "column": 0,
+                                "name": "listselector_20",
+                                "row": 5,
+                                "rowspan": 1,
+                                "widgetStyle": {}
+                            },
+                            {
+                                "colspan": 1,
+                                "column": 2,
+                                "name": "text_1",
+                                "row": 0,
+                                "rowspan": 1,
+                                "widgetStyle": {}
+                            },
+                            {
+                                "colspan": 1,
+                                "column": 2,
+                                "name": "text_2",
+                                "row": 1,
+                                "rowspan": 1,
+                                "widgetStyle": {}
+                            },
+                            {
+                                "colspan": 2,
+                                "column": 0,
+                                "name": "container_4",
+                                "row": 15,
+                                "rowspan": 8,
+                                "widgetStyle": {
+                                    "backgroundColor": "#FFFFFF",
+                                    "borderColor": "#7D98B3",
+                                    "borderEdges": [
+                                        "all"
+                                    ],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            },
+                            {
+                                "colspan": 2,
+                                "column": 0,
+                                "name": "text_4",
+                                "row": 15,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "backgroundColor": "#C6D3E1",
+                                    "borderColor": "rgb(0, 0, 0)",
+                                    "borderEdges": [
+                                        "bottom"
+                                    ],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            },
+                            {
+                                "colspan": 10,
+                                "column": 2,
+                                "name": "container_5",
+                                "row": 0,
+                                "rowspan": 3,
+                                "widgetStyle": {
+                                    "backgroundColor": "#FFFFFF",
+                                    "borderColor": "#7D98B3",
+                                    "borderEdges": [
+                                        "all"
+                                    ],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            },
+                            {
+                                "colspan": 2,
+                                "column": 0,
+                                "name": "container_1",
+                                "row": 2,
+                                "rowspan": 13,
+                                "widgetStyle": {
+                                    "backgroundColor": "#FFFFFF",
+                                    "borderColor": "#7D98B3",
+                                    "borderEdges": [
+                                        "all"
+                                    ],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            },
+                            {
+                                "colspan": 2,
+                                "column": 0,
+                                "name": "text_5",
+                                "row": 2,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "backgroundColor": "#C6D3E1",
+                                    "borderColor": "rgb(0, 0, 0)",
+                                    "borderEdges": [
+                                        "bottom"
+                                    ],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            },
+                            {
+                                "colspan": 2,
+                                "column": 0,
+                                "name": "image_1",
+                                "row": 0,
+                                "rowspan": 2,
+                                "widgetStyle": {
+                                    "backgroundColor": "#FFFFFF",
+                                    "borderColor": "#7D98B3",
+                                    "borderEdges": [
+                                        "all"
+                                    ],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            },
+                            {
+                                "colspan": 1,
+                                "column": 2,
+                                "name": "text_6",
+                                "row": 16,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "backgroundColor": "#FFFFFF",
+                                    "borderColor": "#E6ECF2",
+                                    "borderEdges": [],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            },
+                            {
+                                "colspan": 5,
+                                "column": 3,
+                                "name": "pillbox_6",
+                                "row": 16,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "backgroundColor": "#FFFFFF",
+                                    "borderColor": "#7D98B3",
+                                    "borderEdges": [
+                                        "all"
+                                    ],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            },
+                            {
+                                "colspan": 2,
+                                "column": 0,
+                                "name": "listselector_3",
+                                "row": 22,
+                                "rowspan": 1,
+                                "widgetStyle": {}
+                            },
+                            {
+                                "colspan": 5,
+                                "column": 2,
+                                "name": "chart_1",
+                                "row": 3,
+                                "rowspan": 13,
+                                "widgetStyle": {
+                                    "borderColor": "#7D98B3",
+                                    "borderEdges": [
+                                        "all"
+                                    ]
+                                }
+                            },
+                            {
+                                "colspan": 5,
+                                "column": 7,
+                                "name": "chart_2",
+                                "row": 3,
+                                "rowspan": 13,
+                                "widgetStyle": {
+                                    "backgroundColor": "#FFFFFF",
+                                    "borderColor": "#7D98B3",
+                                    "borderEdges": [
+                                        "all"
+                                    ],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            },
+                            {
+                                "colspan": 10,
+                                "column": 2,
+                                "name": "table_1",
+                                "row": 17,
+                                "rowspan": 14,
+                                "widgetStyle": {
+                                    "backgroundColor": "#FFFFFF",
+                                    "borderColor": "#7D98B3",
+                                    "borderEdges": [
+                                        "all"
+                                    ],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            },
+                            {
+                                "colspan": 1,
+                                "column": 8,
+                                "name": "text_3",
+                                "row": 1,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "backgroundColor": "#FFFFFF",
+                                    "borderColor": "#E6ECF2",
+                                    "borderEdges": [],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            },
+                            {
+                                "colspan": 1,
+                                "column": 2,
+                                "name": "text_7",
+                                "row": 2,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "backgroundColor": "#FFFFFF",
+                                    "borderColor": "#E6ECF2",
+                                    "borderEdges": [],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "rowHeight": "normal",
+                "selectors": [],
+                "style": {
+                    "alignmentX": "left",
+                    "alignmentY": "top",
+                    "backgroundColor": "#F2F6FA",
+                    "cellSpacingX": 8,
+                    "cellSpacingY": 8,
+                    "fit": "original",
+                    "gutterColor": "#C5D3E0"
+                },
+                "version": 1
+            }
+        ],
+        "layouts": [],
+        "steps": {
+            "Major_1": {
+                "broadcastFacet": true,
+                "datasets": [
+                    {
+                        "id": "0Fb1E000000oLkySAE",
+                        "label": "SKU Data",
+                        "name": "SKU_Data",
+                        "url": "/services/data/v53.0/wave/datasets/0Fb1E000000oLkySAE"
+                    }
+                ],
+                "isGlobal": false,
+                "query": {
+                    "measures": [
+                        [
+                            "count",
+                            "*"
+                        ]
+                    ],
+                    "groups": [
+                        "Major"
+                    ]
+                },
+                "receiveFacetSource": {
+                    "mode": "all",
+                    "steps": []
+                },
+                "selectMode": "multi",
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "options": {}
+                }
+            },
+            "Customer_Group_1": {
+                "broadcastFacet": true,
+                "datasets": [
+                    {
+                        "id": "0Fb1E000000oLkySAE",
+                        "label": "SKU Data",
+                        "name": "SKU_Data",
+                        "url": "/services/data/v53.0/wave/datasets/0Fb1E000000oLkySAE"
+                    }
+                ],
+                "isGlobal": false,
+                "query": {
+                    "measures": [
+                        [
+                            "count",
+                            "*"
+                        ]
+                    ],
+                    "groups": [
+                        "Customer_Group"
+                    ]
+                },
+                "receiveFacetSource": {
+                    "mode": "all",
+                    "steps": []
+                },
+                "selectMode": "multi",
+                "start": [],
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "options": {}
+                }
+            },
+            "AZ_SKU_1": {
+                "broadcastFacet": true,
+                "datasets": [
+                    {
+                        "id": "0Fb1E000000oLkySAE",
+                        "label": "SKU Data",
+                        "name": "SKU_Data",
+                        "url": "/services/data/v53.0/wave/datasets/0Fb1E000000oLkySAE"
+                    }
+                ],
+                "isGlobal": false,
+                "query": {
+                    "measures": [
+                        [
+                            "count",
+                            "*"
+                        ]
+                    ],
+                    "groups": [
+                        "AZ_SKU"
+                    ]
+                },
+                "receiveFacetSource": {
+                    "mode": "all",
+                    "steps": []
+                },
+                "selectMode": "multi",
+                "start": [],
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "options": {}
+                }
+            },
+            "Category_1": {
+                "broadcastFacet": true,
+                "datasets": [
+                    {
+                        "id": "0Fb1E000000oLkySAE",
+                        "label": "SKU Data",
+                        "name": "SKU_Data",
+                        "url": "/services/data/v53.0/wave/datasets/0Fb1E000000oLkySAE"
+                    }
+                ],
+                "isGlobal": false,
+                "query": {
+                    "measures": [
+                        [
+                            "count",
+                            "*"
+                        ]
+                    ],
+                    "groups": [
+                        "Category"
+                    ]
+                },
+                "receiveFacetSource": {
+                    "mode": "all",
+                    "steps": []
+                },
+                "selectMode": "multi",
+                "start": [],
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "options": {}
+                }
+            },
+            "donut_1": {
+                "broadcastFacet": false,
+                "datasets": [
+                    {
+                        "id": "0Fb1E000000oLkySAE",
+                        "label": "SKU Data",
+                        "name": "SKU_Data",
+                        "url": "/services/data/v53.0/wave/datasets/0Fb1E000000oLkySAE"
+                    }
+                ],
+                "isGlobal": false,
+                "query": {
+                    "pigql": " sku_data = load \"SKU_Data\";      prior_ytd = filter sku_data by 'month' <= {{cell(current_timing.result, 0, \"Current Month\").asObject()}}; prior_ytd = filter prior_ytd by 'year' == {{cell(current_year.result, 0, \"Current Year\").asObject()}} - 1; temp = group sku_data by {{cell(id_selector.selection, 0, \"var\").asObject()}} left, prior_ytd by {{cell(id_selector.selection, 0, \"var\").asObject()}}; ytd = foreach temp generate sum(prior_ytd::{{cell(unit_selector.selection, 0, \"var\").asObject()}}) as 'units', sku_data::{{cell(id_selector.selection, 0, \"var\").asOrder()}} as 'group';     prior_year_period = filter sku_data by 'month' == {{cell(current_timing.result, 0, \"Current Month\").asObject()}}; prior_year_period = filter prior_year_period by 'year' == {{cell(current_year.result, 0, \"Current Year\").asObject()}} - 1; temp = group sku_data by {{cell(id_selector.selection, 0, \"var\").asObject()}} left, prior_year_period by {{cell(id_selector.selection, 0, \"var\").asObject()}}; last_year = foreach temp generate sum(prior_year_period::{{cell(unit_selector.selection, 0, \"var\").asObject()}}) as 'units', sku_data::{{cell(id_selector.selection, 0, \"var\").asOrder()}} as 'group';      prior_year_quarter = filter sku_data by 'quarter' == {{cell(current_timing.result, 0, \"Current Quarter\").asObject()}}; prior_year_quarter = filter prior_year_quarter by 'year' == {{cell(current_timing.result, 0, \"Current Quarter Year\").asObject()}} - 1; temp = group sku_data by {{cell(id_selector.selection, 0, \"var\").asObject()}} left, prior_year_quarter by {{cell(id_selector.selection, 0, \"var\").asObject()}}; last_year_quarter = foreach temp generate sum(prior_year_quarter::{{cell(unit_selector.selection, 0, \"var\").asObject()}}) as 'units', sku_data::{{cell(id_selector.selection, 0, \"var\").asOrder()}} as 'group';       prior_period = filter sku_data by 'month' == {{cell(current_timing.result, 0, \"Prior Month\").asObject()}}; prior_period = filter prior_period by 'year' == {{cell(current_timing.result, 0, \"Prior Month Year\").asObject()}}; temp = group sku_data by {{cell(id_selector.selection, 0, \"var\").asObject()}} left, prior_period by {{cell(id_selector.selection, 0, \"var\").asObject()}}; last_period = foreach temp generate sum(prior_period::{{cell(unit_selector.selection, 0, \"var\").asObject()}}) as 'units', sku_data::{{cell(id_selector.selection, 0, \"var\").asOrder()}} as 'group';     prior_quarter = filter sku_data by 'quarter' == {{cell(current_timing.result, 0, \"Prior Quarter\").asObject()}}; prior_quarter = filter prior_quarter by 'year' == {{cell(current_timing.result, 0, \"Prior Quarter Year\").asObject()}}; temp = group sku_data by {{cell(id_selector.selection, 0, \"var\").asObject()}} left, prior_quarter by {{cell(id_selector.selection, 0, \"var\").asObject()}}; last_quarter = foreach temp generate sum(prior_quarter::{{cell(unit_selector.selection, 0, \"var\").asObject()}}) as 'units', sku_data::{{cell(id_selector.selection, 0, \"var\").asOrder()}} as 'group';       prior_R12_1 = filter sku_data by 'month' <= {{cell(current_timing.result, 0, \"Current Month\").asObject()}}; prior_R12_1 = filter prior_R12_1 by 'year' == {{cell(current_year.result, 0, \"Current Year\").asObject()}} - 1; prior_R12_2 = filter sku_data by 'month' > {{cell(current_timing.result, 0, \"Current Month\").asObject()}}; prior_R12_2 = filter prior_R12_2 by 'year' == {{cell(current_year.result, 0, \"Current Year\").asObject()}} - 2;    temp = group sku_data by {{cell(id_selector.selection, 0, \"var\").asObject()}} full, prior_R12_1 by {{cell(id_selector.selection, 0, \"var\").asObject()}} full,  prior_R12_2 by {{cell(id_selector.selection, 0, \"var\").asObject()}};  R12 = foreach temp generate coalesce(sum(prior_R12_1::{{cell(unit_selector.selection, 0, \"var\").asObject()}}),0) + coalesce(sum(prior_R12_2::{{cell(unit_selector.selection, 0, \"var\").asObject()}}),0)  as 'units', sku_data::{{cell(id_selector.selection, 0, \"var\").asOrder()}} as 'group';      final = foreach {{cell(timing_selector.selection, 0, \"var\").asObject()}} generate 'units', 'group';    ",
+                    "measures": [
+                        [
+                            "count",
+                            "*",
+                            "units"
+                        ]
+                    ],
+                    "groups": [
+                        [
+                            "group"
+                        ]
+                    ]
+                },
+                "receiveFacetSource": {
+                    "mode": "all",
+                    "steps": []
+                },
+                "selectMode": "multi",
+                "start": [],
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "options": {}
+                }
+            },
+            "donut_2": {
+                "broadcastFacet": false,
+                "datasets": [
+                    {
+                        "id": "0Fb1E000000oLkySAE",
+                        "label": "SKU Data",
+                        "name": "SKU_Data",
+                        "url": "/services/data/v53.0/wave/datasets/0Fb1E000000oLkySAE"
+                    }
+                ],
+                "isGlobal": false,
+                "query": {
+                    "pigql": " sku_data = load \"SKU_Data\";      current_ytd = filter sku_data by 'month' <= {{cell(current_timing.result, 0, \"Current Month\").asObject()}}; current_ytd = filter current_ytd by 'year' == {{cell(current_year.result, 0, \"Current Year\").asObject()}}; temp = group sku_data by {{cell(id_selector.selection, 0, \"var\").asObject()}} left, current_ytd by {{cell(id_selector.selection, 0, \"var\").asObject()}}; ytd = foreach temp generate sum(current_ytd::{{cell(unit_selector.selection, 0, \"var\").asObject()}}) as 'units', sku_data::{{cell(id_selector.selection, 0, \"var\").asOrder()}} as 'group';     current_year_period = filter sku_data by 'month' == {{cell(current_timing.result, 0, \"Current Month\").asObject()}}; current_year_period = filter current_year_period by 'year' == {{cell(current_year.result, 0, \"Current Year\").asObject()}}; temp = group sku_data by {{cell(id_selector.selection, 0, \"var\").asObject()}} left, current_year_period by {{cell(id_selector.selection, 0, \"var\").asObject()}}; last_year = foreach temp generate sum(current_year_period::{{cell(unit_selector.selection, 0, \"var\").asObject()}}) as 'units', sku_data::{{cell(id_selector.selection, 0, \"var\").asOrder()}} as 'group';      current_year_quarter = filter sku_data by 'quarter' == {{cell(current_timing.result, 0, \"Current Quarter\").asObject()}}; current_year_quarter = filter current_year_quarter by 'year' == {{cell(current_timing.result, 0, \"Current Quarter Year\").asObject()}}; temp = group sku_data by {{cell(id_selector.selection, 0, \"var\").asObject()}} left, current_year_quarter by {{cell(id_selector.selection, 0, \"var\").asObject()}}; last_year_quarter = foreach temp generate sum(current_year_quarter::{{cell(unit_selector.selection, 0, \"var\").asObject()}}) as 'units', sku_data::{{cell(id_selector.selection, 0, \"var\").asOrder()}} as 'group';       current_period = filter sku_data by 'month' == {{cell(current_timing.result, 0, \"Current Month\").asObject()}}; current_period = filter current_period by 'year' == {{cell(current_year.result, 0, \"Current Year\").asObject()}}; temp = group sku_data by {{cell(id_selector.selection, 0, \"var\").asObject()}} left, current_period by {{cell(id_selector.selection, 0, \"var\").asObject()}}; last_period = foreach temp generate sum(current_period::{{cell(unit_selector.selection, 0, \"var\").asObject()}}) as 'units', sku_data::{{cell(id_selector.selection, 0, \"var\").asOrder()}} as 'group';     current_quarter = filter sku_data by 'quarter' == {{cell(current_timing.result, 0, \"Current Quarter\").asObject()}}; current_quarter = filter current_quarter by 'year' == {{cell(current_timing.result, 0, \"Current Quarter Year\").asObject()}}; temp = group sku_data by {{cell(id_selector.selection, 0, \"var\").asObject()}} left, current_quarter by {{cell(id_selector.selection, 0, \"var\").asObject()}}; last_quarter = foreach temp generate sum(current_quarter::{{cell(unit_selector.selection, 0, \"var\").asObject()}}) as 'units', sku_data::{{cell(id_selector.selection, 0, \"var\").asOrder()}} as 'group';       current_R12_1 = filter sku_data by 'month' <= {{cell(current_timing.result, 0, \"Current Month\").asObject()}}; current_R12_1 = filter current_R12_1 by 'year' == {{cell(current_year.result, 0, \"Current Year\").asObject()}}; current_R12_2 = filter sku_data by 'month' > {{cell(current_timing.result, 0, \"Current Month\").asObject()}}; current_R12_2 = filter current_R12_2 by 'year' == {{cell(current_year.result, 0, \"Current Year\").asObject()}} - 1;    temp = group sku_data by {{cell(id_selector.selection, 0, \"var\").asObject()}} full, current_R12_1 by {{cell(id_selector.selection, 0, \"var\").asObject()}} full,  current_R12_2 by {{cell(id_selector.selection, 0, \"var\").asObject()}};  R12 = foreach temp generate coalesce(sum(current_R12_1::{{cell(unit_selector.selection, 0, \"var\").asObject()}}),0) + coalesce(sum(current_R12_2::{{cell(unit_selector.selection, 0, \"var\").asObject()}}),0)  as 'units', sku_data::{{cell(id_selector.selection, 0, \"var\").asOrder()}} as 'group';      final = foreach {{cell(timing_selector.selection, 0, \"var\").asObject()}} generate 'units', 'group';    ",
+                    "measures": [
+                        [
+                            "count",
+                            "*",
+                            "units"
+                        ]
+                    ],
+                    "groups": [
+                        [
+                            "group"
+                        ]
+                    ]
+                },
+                "receiveFacetSource": {
+                    "mode": "all",
+                    "steps": []
+                },
+                "selectMode": "multi",
+                "start": [],
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "options": {}
+                }
+            },
+            "unit_selector": {
+                "broadcastFacet": true,
+                "columns": {},
+                "isGlobal": false,
+                "selectMode": "singlerequired",
+                "start": {
+                    "display": [
+                        "Net Revenue"
+                    ]
+                },
+                "type": "staticflex",
+                "useGlobal": false,
+                "values": [
+                    {
+                        "display": "Net Revenue",
+                        "var": "net_revenue",
+                        "dataset": "net_rev"
+                    },
+                    {
+                        "display": "Net Units",
+                        "var": "units",
+                        "dataset": "net_units"
+                    },
+                    {
+                        "display": "Avg Unit Price",
+                        "var": "unit_price",
+                        "dataset": "unit_price"
+                    }
+                ],
+                "numbers": [],
+                "strings": [],
+                "groups": []
+            },
+            "ship_to_state_2": {
+                "broadcastFacet": true,
+                "datasets": [
+                    {
+                        "id": "0Fb1E000000oLkySAE",
+                        "label": "SKU Data",
+                        "name": "SKU_Data",
+                        "url": "/services/data/v53.0/wave/datasets/0Fb1E000000oLkySAE"
+                    }
+                ],
+                "isGlobal": false,
+                "query": {
+                    "measures": [
+                        [
+                            "count",
+                            "*"
+                        ]
+                    ],
+                    "groups": [
+                        "ship_to_state"
+                    ]
+                },
+                "receiveFacetSource": {
+                    "mode": "all",
+                    "steps": []
+                },
+                "selectMode": "multi",
+                "start": [],
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "options": {}
+                }
+            },
+            "ship_to_state_1": {
+                "broadcastFacet": true,
+                "datasets": [
+                    {
+                        "id": "0Fb1E000000oLkySAE",
+                        "label": "SKU Data",
+                        "name": "SKU_Data",
+                        "url": "/services/data/v53.0/wave/datasets/0Fb1E000000oLkySAE"
+                    }
+                ],
+                "isGlobal": false,
+                "query": {
+                    "measures": [
+                        [
+                            "count",
+                            "*"
+                        ]
+                    ],
+                    "groups": [
+                        "ship_to_state"
+                    ]
+                },
+                "receiveFacetSource": {
+                    "mode": "all",
+                    "steps": []
+                },
+                "selectMode": "multi",
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "options": {}
+                }
+            },
+            "AZ_part_num_1": {
+                "broadcastFacet": true,
+                "datasets": [
+                    {
+                        "id": "0Fb1E000000oLkySAE",
+                        "label": "SKU Data",
+                        "name": "SKU_Data",
+                        "url": "/services/data/v53.0/wave/datasets/0Fb1E000000oLkySAE"
+                    }
+                ],
+                "isGlobal": false,
+                "query": {
+                    "measures": [
+                        [
+                            "count",
+                            "*"
+                        ]
+                    ],
+                    "groups": [
+                        "AZ_part_num"
+                    ]
+                },
+                "receiveFacetSource": {
+                    "mode": "all",
+                    "steps": []
+                },
+                "selectMode": "multi",
+                "start": [],
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "options": {}
+                }
+            },
+            "current_year": {
+                "broadcastFacet": false,
+                "datasets": [
+                    {
+                        "id": "0Fb1E000000oLkySAE",
+                        "label": "SKU Data",
+                        "name": "SKU_Data",
+                        "url": "/services/data/v53.0/wave/datasets/0Fb1E000000oLkySAE"
+                    }
+                ],
+                "isGlobal": false,
+                "query": {
+                    "pigql": " sku_data = load \"SKU_Data\"; sku_data_current_year = group sku_data by all; sku_data_current_year = foreach sku_data_current_year generate max('year') as 'Current Year';   ",
+                    "measures": [
+                        [
+                            "count",
+                            "*",
+                            "Current Year"
+                        ]
+                    ]
+                },
+                "receiveFacetSource": {
+                    "mode": "none",
+                    "steps": []
+                },
+                "selectMode": "multi",
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "options": {}
+                }
+            },
+            "dynamic_names": {
+                "broadcastFacet": false,
+                "datasets": [
+                    {
+                        "id": "0Fb1E000000oLkySAE",
+                        "label": "SKU Data",
+                        "name": "SKU_Data",
+                        "url": "/services/data/v53.0/wave/datasets/0Fb1E000000oLkySAE"
+                    }
+                ],
+                "isGlobal": false,
+                "query": {
+                    "pigql": " sku_data = load \"SKU_Data\"; sku_data_current_timing = group sku_data by all; sku_data_current_timing = filter sku_data_current_timing by 'year' == {{cell(current_year.result, 0, \"Current Year\").asObject()}}; last_period = foreach sku_data_current_timing generate number_to_string(max('month'),\"00\") + \"/\" + number_to_string(max('year'),\"####\") as 'curr', (case when max('month') == 1 then \"12/\" + number_to_string(max('year') - 1,\"####\") else number_to_string(max('month')-1,\"00\") + \"/\" + number_to_string(max('year'),\"####\") end) as 'prior'; last_year = foreach sku_data_current_timing generate number_to_string(max('month'),\"00\") + \"/\" + number_to_string(max('year'),\"####\") as 'curr', number_to_string(max('month'),\"00\") + \"/\" + number_to_string(max('year')-1,\"####\") as 'prior'; ytd = foreach sku_data_current_timing generate number_to_string(min('month'),\"00\") + \"/\" + number_to_string(max('year'),\"####\") + \" - \" + number_to_string(max('month'),\"00\") + \"/\" + number_to_string(max('year'),\"####\") as 'curr', number_to_string(min('month'),\"00\") + \"/\" + number_to_string(max('year')-1,\"####\") + \" - \" + number_to_string(max('month'),\"00\") + \"/\" + number_to_string(max('year')-1,\"####\") as 'prior'; R12 = foreach sku_data_current_timing generate (case when max('month') == 12 then number_to_string(1,\"00\") + \"/\" + number_to_string(max('year'),\"####\") + \" - \" + number_to_string(max('month'),\"00\") + \"/\" + number_to_string(max('year'),\"####\") else number_to_string(max('month') + 1,\"00\") + \"/\" + number_to_string(max('year') - 1,\"####\") + \" - \" + number_to_string(max('month'),\"00\") + \"/\" + number_to_string(max('year'),\"####\") end) as 'curr', (case when max('month') == 12 then number_to_string(1,\"00\") + \"/\" + number_to_string(max('year') - 1,\"####\") + \" - \" + number_to_string(max('month'),\"00\") + \"/\" + number_to_string(max('year')-1,\"####\") else number_to_string(max('month') + 1,\"00\") + \"/\" + number_to_string(max('year') - 2,\"####\") + \" - \" + number_to_string(max('month'),\"00\") + \"/\" + number_to_string(max('year')-1,\"####\") end) as 'prior'; last_year_quarter = foreach sku_data_current_timing generate (case when max('month') < 3 then number_to_string(max('year') - 1,\"####\") + \" Q4\" else number_to_string(max('year'),\"####\") + \" Q\" + \"{{cell(current_timing.result, 0, \"Current Quarter\").asObject()}}\" end) as 'curr', (case when max('month') < 3 then number_to_string(max('year')-2,\"####\") + \" Q4\" else    number_to_string(max('year')-1,\"####\") + \" Q\" + \"{{cell(current_timing.result, 0, \"Current Quarter\").asObject()}}\" end) as 'prior' ; last_quarter = foreach sku_data_current_timing generate \"{{cell(current_timing.result, 0, \"Prior Quarter Year\").asObject()}}\" + \" Q\" + \"{{cell(current_timing.result, 0, \"Prior Quarter\").asObject()}}\" as 'prior', \"{{cell(current_timing.result, 0, \"Current Quarter Year\").asObject()}}\" + \" Q\" + \"{{cell(current_timing.result, 0, \"Current Quarter\").asObject()}}\" as 'curr'; final = foreach {{cell(timing_selector.selection, 0, \"var\").asObject()}} generate 'curr', 'prior' ; ",
+                    "measures": [
+                        [
+                            "count",
+                            "*",
+                            "curr"
+                        ],
+                        [
+                            "count",
+                            "*",
+                            "prior"
+                        ]
+                    ]
+                },
+                "receiveFacetSource": {
+                    "mode": "none",
+                    "steps": []
+                },
+                "selectMode": "multi",
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "options": {}
+                }
+            },
+            "Product_Line_1": {
+                "broadcastFacet": true,
+                "datasets": [
+                    {
+                        "id": "0Fb1E000000oLkySAE",
+                        "label": "SKU Data",
+                        "name": "SKU_Data",
+                        "url": "/services/data/v53.0/wave/datasets/0Fb1E000000oLkySAE"
+                    }
+                ],
+                "isGlobal": false,
+                "query": {
+                    "measures": [
+                        [
+                            "count",
+                            "*"
+                        ]
+                    ],
+                    "groups": [
+                        "Product_Line"
+                    ]
+                },
+                "receiveFacetSource": {
+                    "mode": "all",
+                    "steps": []
+                },
+                "selectMode": "multi",
+                "start": [],
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "options": {}
+                }
+            },
+            "all_1": {
+                "broadcastFacet": true,
+                "datasets": [
+                    {
+                        "id": "0Fb1E000000oLkySAE",
+                        "label": "SKU Data",
+                        "name": "SKU_Data",
+                        "url": "/services/data/v53.0/wave/datasets/0Fb1E000000oLkySAE"
+                    }
+                ],
+                "isGlobal": false,
+                "query": {
+                    "measures": [
+                        [
+                            "count",
+                            "*"
+                        ]
+                    ]
+                },
+                "receiveFacetSource": {
+                    "mode": "all",
+                    "steps": []
+                },
+                "selectMode": "single",
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "parameters": {
+                        "autoFitMode": "keepLabels",
+                        "showValues": true,
+                        "bins": {
+                            "breakpoints": {
+                                "high": 100,
+                                "low": 0
+                            },
+                            "bands": {
+                                "high": {
+                                    "color": "#008000",
+                                    "label": ""
+                                },
+                                "low": {
+                                    "color": "#B22222",
+                                    "label": ""
+                                },
+                                "medium": {
+                                    "color": "#ffa500",
+                                    "label": ""
+                                }
+                            }
+                        },
+                        "legend": {
+                            "descOrder": false,
+                            "showHeader": true,
+                            "show": true,
+                            "customSize": "auto",
+                            "position": "right-top",
+                            "inside": false
+                        },
+                        "axisMode": "multi",
+                        "tooltip": {
+                            "content": {
+                                "legend": {
+                                    "showBinLabel": true,
+                                    "measures": [],
+                                    "showNullValues": true,
+                                    "customizeLegend": false,
+                                    "showPercentage": true,
+                                    "showDimensions": true,
+                                    "showMeasures": true,
+                                    "dimensions": []
+                                }
+                            }
+                        },
+                        "visualizationType": "hbar",
+                        "title": {
+                            "fontSize": 14,
+                            "subtitleFontSize": 11,
+                            "label": "",
+                            "align": "center",
+                            "subtitleLabel": ""
+                        },
+                        "binValues": false,
+                        "trellis": {
+                            "flipLabels": false,
+                            "showGridLines": true,
+                            "size": [
+                                100,
+                                100
+                            ],
+                            "enable": false,
+                            "type": "x",
+                            "chartsPerLine": 4
+                        },
+                        "columnMap": {
+                            "trellis": [],
+                            "dimensionAxis": [],
+                            "plots": [
+                                "count"
+                            ]
+                        },
+                        "showActionMenu": true,
+                        "measureAxis2": {
+                            "sqrtScale": false,
+                            "showTitle": true,
+                            "showAxis": true,
+                            "title": "",
+                            "customDomain": {
+                                "showDomain": false
+                            }
+                        },
+                        "measureAxis1": {
+                            "sqrtScale": false,
+                            "showTitle": true,
+                            "showAxis": true,
+                            "title": "",
+                            "customDomain": {
+                                "showDomain": false
+                            }
+                        },
+                        "theme": "wave",
+                        "dimensionAxis": {
+                            "showTitle": true,
+                            "customSize": "auto",
+                            "showAxis": true,
+                            "title": "",
+                            "icons": {
+                                "useIcons": false,
+                                "iconProps": {
+                                    "fit": "cover",
+                                    "column": "",
+                                    "type": "round"
+                                }
+                            }
+                        },
+                        "applyConditionalFormatting": true
+                    },
+                    "type": "chart",
+                    "options": {}
+                }
+            },
+            "sold_to_name_1": {
+                "broadcastFacet": true,
+                "datasets": [
+                    {
+                        "id": "0Fb1E000000oLkySAE",
+                        "label": "SKU Data",
+                        "name": "SKU_Data",
+                        "url": "/services/data/v53.0/wave/datasets/0Fb1E000000oLkySAE"
+                    }
+                ],
+                "isGlobal": false,
+                "query": {
+                    "measures": [
+                        [
+                            "count",
+                            "*"
+                        ]
+                    ],
+                    "groups": [
+                        "sold_to_name"
+                    ]
+                },
+                "receiveFacetSource": {
+                    "mode": "all",
+                    "steps": []
+                },
+                "selectMode": "multi",
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "options": {}
+                }
+            },
+            "product_description_1": {
+                "broadcastFacet": true,
+                "datasets": [
+                    {
+                        "id": "0Fb1E000000oLkySAE",
+                        "label": "SKU Data",
+                        "name": "SKU_Data",
+                        "url": "/services/data/v53.0/wave/datasets/0Fb1E000000oLkySAE"
+                    }
+                ],
+                "isGlobal": false,
+                "query": {
+                    "measures": [
+                        [
+                            "count",
+                            "*"
+                        ]
+                    ],
+                    "groups": [
+                        "product_description"
+                    ]
+                },
+                "receiveFacetSource": {
+                    "mode": "all",
+                    "steps": []
+                },
+                "selectMode": "multi",
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "options": {}
+                }
+            },
+            "sort_order": {
+                "broadcastFacet": true,
+                "columns": {},
+                "isGlobal": false,
+                "selectMode": "singlerequired",
+                "start": {
+                    "display": [
+                        "Descending"
+                    ]
+                },
+                "type": "staticflex",
+                "useGlobal": false,
+                "values": [
+                    {
+                        "display": "Descending",
+                        "var": "desc"
+                    },
+                    {
+                        "display": "Ascending",
+                        "var": "asc"
+                    }
+                ],
+                "numbers": [],
+                "strings": [],
+                "groups": []
+            },
+            "Sold_to_City_1": {
+                "broadcastFacet": true,
+                "datasets": [
+                    {
+                        "id": "0Fb1E000000oLkySAE",
+                        "label": "SKU Data",
+                        "name": "SKU_Data",
+                        "url": "/services/data/v53.0/wave/datasets/0Fb1E000000oLkySAE"
+                    }
+                ],
+                "isGlobal": false,
+                "query": {
+                    "measures": [
+                        [
+                            "count",
+                            "*"
+                        ]
+                    ],
+                    "groups": [
+                        "Sold_to_City"
+                    ]
+                },
+                "receiveFacetSource": {
+                    "mode": "all",
+                    "steps": []
+                },
+                "selectMode": "multi",
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "options": {}
+                }
+            },
+            "ship_to_sales_office_1": {
+                "broadcastFacet": true,
+                "datasets": [
+                    {
+                        "id": "0Fb1E000000oLkySAE",
+                        "label": "SKU Data",
+                        "name": "SKU_Data",
+                        "url": "/services/data/v53.0/wave/datasets/0Fb1E000000oLkySAE"
+                    }
+                ],
+                "isGlobal": false,
+                "query": {
+                    "measures": [
+                        [
+                            "count",
+                            "*"
+                        ]
+                    ],
+                    "groups": [
+                        "ship_to_sales_office_desc"
+                    ]
+                },
+                "receiveFacetSource": {
+                    "mode": "all",
+                    "steps": []
+                },
+                "selectMode": "multi",
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "options": {}
+                }
+            },
+            "Product_Hierarchy_De_1": {
+                "broadcastFacet": true,
+                "datasets": [
+                    {
+                        "id": "0Fb1E000000oLkySAE",
+                        "label": "SKU Data",
+                        "name": "SKU_Data",
+                        "url": "/services/data/v53.0/wave/datasets/0Fb1E000000oLkySAE"
+                    }
+                ],
+                "isGlobal": false,
+                "query": {
+                    "measures": [
+                        [
+                            "count",
+                            "*"
+                        ]
+                    ],
+                    "groups": [
+                        "Product_Hierarchy_Description"
+                    ]
+                },
+                "receiveFacetSource": {
+                    "mode": "all",
+                    "steps": []
+                },
+                "selectMode": "multi",
+                "start": [],
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "options": {}
+                }
+            },
+            "ship_to_name_1": {
+                "broadcastFacet": true,
+                "datasets": [
+                    {
+                        "id": "0Fb1E000000oLkySAE",
+                        "label": "SKU Data",
+                        "name": "SKU_Data",
+                        "url": "/services/data/v53.0/wave/datasets/0Fb1E000000oLkySAE"
+                    }
+                ],
+                "isGlobal": false,
+                "query": {
+                    "measures": [
+                        [
+                            "count",
+                            "*"
+                        ]
+                    ],
+                    "groups": [
+                        "ship_to_name"
+                    ]
+                },
+                "receiveFacetSource": {
+                    "mode": "all",
+                    "steps": []
+                },
+                "selectMode": "multi",
+                "start": [],
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "options": {}
+                }
+            },
+            "part_num_2": {
+                "broadcastFacet": true,
+                "datasets": [
+                    {
+                        "id": "0Fb1E000000oLkySAE",
+                        "label": "SKU Data",
+                        "name": "SKU_Data",
+                        "url": "/services/data/v53.0/wave/datasets/0Fb1E000000oLkySAE"
+                    }
+                ],
+                "isGlobal": false,
+                "query": {
+                    "measures": [
+                        [
+                            "count",
+                            "*"
+                        ]
+                    ],
+                    "groups": [
+                        "part_num"
+                    ]
+                },
+                "receiveFacetSource": {
+                    "mode": "all",
+                    "steps": []
+                },
+                "selectMode": "multi",
+                "start": [],
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "options": {}
+                }
+            },
+            "part_num_1": {
+                "broadcastFacet": true,
+                "datasets": [
+                    {
+                        "id": "0Fb1E000000oLkySAE",
+                        "label": "SKU Data",
+                        "name": "SKU_Data",
+                        "url": "/services/data/v53.0/wave/datasets/0Fb1E000000oLkySAE"
+                    }
+                ],
+                "isGlobal": false,
+                "query": {
+                    "measures": [
+                        [
+                            "count",
+                            "*"
+                        ]
+                    ],
+                    "groups": [
+                        "part_num"
+                    ]
+                },
+                "receiveFacetSource": {
+                    "mode": "all",
+                    "steps": []
+                },
+                "selectMode": "multi",
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "options": {}
+                }
+            },
+            "Ship_to_City_1": {
+                "broadcastFacet": true,
+                "datasets": [
+                    {
+                        "id": "0Fb1E000000oLkySAE",
+                        "label": "SKU Data",
+                        "name": "SKU_Data",
+                        "url": "/services/data/v53.0/wave/datasets/0Fb1E000000oLkySAE"
+                    }
+                ],
+                "isGlobal": false,
+                "query": {
+                    "measures": [
+                        [
+                            "count",
+                            "*"
+                        ]
+                    ],
+                    "groups": [
+                        "Ship_to_City_State"
+                    ]
+                },
+                "receiveFacetSource": {
+                    "mode": "all",
+                    "steps": []
+                },
+                "selectMode": "multi",
+                "start": [],
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "options": {}
+                }
+            },
+            "all_periods": {
+                "broadcastFacet": false,
+                "datasets": [
+                    {
+                        "id": "0Fb1E000000oLkySAE",
+                        "label": "SKU Data",
+                        "name": "SKU_Data",
+                        "url": "/services/data/v53.0/wave/datasets/0Fb1E000000oLkySAE"
+                    }
+                ],
+                "isGlobal": false,
+                "query": {
+                    "pigql": " sku_data = load \"SKU_Data\"; sku_data = filter sku_data by 'Buying_Group' in {{cell(id_selector.selection, 0, \"az_filter\").asString()}}; current_ytd = filter sku_data by 'month' <= {{cell(current_timing.result, 0, \"Current Month\").asObject()}}; current_ytd = filter current_ytd by 'year' == {{cell(current_year.result, 0, \"Current Year\").asObject()}}; prior_ytd = filter sku_data by 'month' <= {{cell(current_timing.result, 0, \"Current Month\").asObject()}}; prior_ytd = filter prior_ytd by 'year' == {{cell(current_year.result, 0, \"Current Year\").asObject()}} - 1; temp = group sku_data by {{cell(id_selector.selection, 0, \"var\").asObject()}} left, current_ytd by {{cell(id_selector.selection, 0, \"var\").asObject()}} left, prior_ytd by {{cell(id_selector.selection, 0, \"var\").asObject()}}; net_rev = foreach temp generate number_to_string(coalesce(sum(current_ytd['net_revenue']), 0), \"$#,##0;-$#,##0\") as {{cell(dynamic_names.result, 0, \"curr\").asOrder()}}, number_to_string(coalesce(sum(prior_ytd['net_revenue']),0), \"$#,##0;-$#,##0\") as {{cell(dynamic_names.result, 0, \"prior\").asOrder()}}, sku_data::{{cell(id_selector.selection, 0, \"var\").asObject()}} as {{cell(id_selector.selection, 0, \"display\").asOrder()}}, number_to_string(coalesce(sum(current_ytd['net_revenue']), 0) - coalesce(sum(prior_ytd['net_revenue']),0), \"$#,##0;-$#,##0\") as 'Difference', number_to_string(coalesce((coalesce(sum(current_ytd['net_revenue']), 0) - coalesce(sum(prior_ytd['net_revenue']),0))/abs(coalesce(sum(prior_ytd['net_revenue']),sum(current_ytd['net_revenue']))), 0), \"#0%\") as '%Difference', coalesce(sum(current_ytd['net_revenue']), 0) - coalesce(sum(prior_ytd['net_revenue']),0) as 'sort_Difference', coalesce((coalesce(sum(current_ytd['net_revenue']), 0) - coalesce(sum(prior_ytd['net_revenue']),0))/abs(coalesce(sum(prior_ytd['net_revenue']),sum(current_ytd['net_revenue']))), 0) as 'sort_%Difference', coalesce(sum(current_ytd['net_revenue']), 0) as 'current', coalesce(sum(prior_ytd['net_revenue']),0) as 'last'; net_units = foreach temp generate number_to_string(coalesce(sum(current_ytd['units']), 0), \"#,##0\") as {{cell(dynamic_names.result, 0, \"curr\").asOrder()}}, number_to_string(coalesce(sum(prior_ytd['units']),0), \"#,##0\") as {{cell(dynamic_names.result, 0, \"prior\").asOrder()}}, sku_data::{{cell(id_selector.selection, 0, \"var\").asObject()}} as {{cell(id_selector.selection, 0, \"display\").asOrder()}}, number_to_string(coalesce(sum(current_ytd['units']), 0) - coalesce(sum(prior_ytd['units']),0), \"#,##0\") as 'Difference', number_to_string(coalesce((coalesce(sum(current_ytd['units']), 0) - coalesce(sum(prior_ytd['units']),0)) / abs(coalesce(sum(prior_ytd['units']),sum(current_ytd['units']))), 0), \"#0%\") as '%Difference', coalesce(sum(current_ytd['units']), 0) - coalesce(sum(prior_ytd['units']),0) as 'sort_Difference', coalesce((coalesce(sum(current_ytd['units']), 0) - coalesce(sum(prior_ytd['units']),0)) / abs(coalesce(sum(prior_ytd['units']),sum(current_ytd['units']))), 0) as 'sort_%Difference', coalesce(sum(current_ytd['units']), 0) as 'current', coalesce(sum(prior_ytd['units']),0) as 'last' ; unit_price = foreach temp generate number_to_string(coalesce(sum(current_ytd['net_revenue'])/sum(current_ytd['units']), 0), \"$#,##0;-$#,##0\") as {{cell(dynamic_names.result, 0, \"curr\").asOrder()}}, number_to_string(coalesce(sum(prior_ytd['net_revenue'])/sum(prior_ytd['units']),0), \"$#,##0;-$#,##0\") as {{cell(dynamic_names.result, 0, \"prior\").asOrder()}}, sku_data::{{cell(id_selector.selection, 0, \"var\").asObject()}} as {{cell(id_selector.selection, 0, \"display\").asOrder()}}, number_to_string(coalesce(sum(current_ytd['net_revenue'])/sum(current_ytd['units']), 0) - coalesce(sum(prior_ytd['net_revenue'])/sum(prior_ytd['units']),0), \"$#,##0;-$#,##0\") as 'Difference', number_to_string(coalesce((coalesce(sum(current_ytd['net_revenue'])/sum(current_ytd['units']), 0) - coalesce(sum(prior_ytd['net_revenue'])/sum(prior_ytd['units']),0))/abs(coalesce(sum(prior_ytd['net_revenue'])/sum(prior_ytd['units']),sum(current_ytd['net_revenue'])/sum(current_ytd['units']))), 0), \"#0%\") as '%Difference', coalesce(sum(current_ytd['net_revenue'])/sum(current_ytd['units']), 0) - coalesce(sum(prior_ytd['net_revenue'])/sum(prior_ytd['units']),0) as 'sort_Difference', coalesce((coalesce(sum(current_ytd['net_revenue'])/sum(current_ytd['units']), 0) - coalesce(sum(prior_ytd['net_revenue'])/sum(prior_ytd['units']),0))/abs(coalesce(sum(prior_ytd['net_revenue'])/sum(prior_ytd['units']),sum(current_ytd['net_revenue'])/sum(current_ytd['units']))), 0) as 'sort_%Difference', coalesce(sum(current_ytd['net_revenue'])/sum(current_ytd['units']), 0) as 'current', coalesce(sum(prior_ytd['net_revenue'])/sum(prior_ytd['units']),0) as 'last'; ytd = order {{cell(unit_selector.selection, 0, \"dataset\").asObject()}} by ({{cell(difference.selection, 0, \"var\").asOrder()}} {{cell(sort_order.selection, 0, \"var\").asObject()}}, 'sort_Difference' {{cell(sort_order.selection, 0, \"var\").asObject()}}); ytd = filter ytd by 'last' != {{cell(remove_zeros.selection, 0, \"value\").asObject()}}; ytd = filter ytd by 'current' != {{cell(remove_zeros.selection, 0, \"value\").asObject()}};                         current_year_period = filter sku_data by 'month' == {{cell(current_timing.result, 0, \"Current Month\").asObject()}}; current_year_period = filter current_year_period by 'year' == {{cell(current_year.result, 0, \"Current Year\").asObject()}}; prior_year_period = filter sku_data by 'month' == {{cell(current_timing.result, 0, \"Current Month\").asObject()}}; prior_year_period = filter prior_year_period by 'year' == {{cell(current_year.result, 0, \"Current Year\").asObject()}} - 1; temp = group sku_data by {{cell(id_selector.selection, 0, \"var\").asObject()}} left, current_year_period by {{cell(id_selector.selection, 0, \"var\").asObject()}} left, prior_year_period by {{cell(id_selector.selection, 0, \"var\").asObject()}}; net_rev = foreach temp generate number_to_string(coalesce(sum(current_year_period['net_revenue']), 0), \"$#,##0;-$#,##0\") as {{cell(dynamic_names.result, 0, \"curr\").asOrder()}}, number_to_string(coalesce(sum(prior_year_period['net_revenue']),0), \"$#,##0;-$#,##0\") as {{cell(dynamic_names.result, 0, \"prior\").asOrder()}}, sku_data::{{cell(id_selector.selection, 0, \"var\").asObject()}} as {{cell(id_selector.selection, 0, \"display\").asOrder()}}, number_to_string(coalesce(sum(current_year_period['net_revenue']), 0) - coalesce(sum(prior_year_period['net_revenue']),0), \"$#,##0;-$#,##0\") as 'Difference', number_to_string(coalesce((coalesce(sum(current_year_period['net_revenue']), 0) - coalesce(sum(prior_year_period['net_revenue']),0))/abs(coalesce(sum(prior_year_period['net_revenue']),sum(current_year_period['net_revenue']))), 0), \"#0%\") as '%Difference', coalesce(sum(current_year_period['net_revenue']), 0) - coalesce(sum(prior_year_period['net_revenue']),0) as 'sort_Difference', coalesce((coalesce(sum(current_year_period['net_revenue']), 0) - coalesce(sum(prior_year_period['net_revenue']),0))/abs(coalesce(sum(prior_year_period['net_revenue']),sum(current_year_period['net_revenue']))),0) as 'sort_%Difference', coalesce(sum(current_year_period['net_revenue']), 0) as 'current', coalesce(sum(prior_year_period['net_revenue']), 0) as 'last' ; net_units = foreach temp generate number_to_string(coalesce(sum(current_year_period['units']), 0), \"#,##0\") as {{cell(dynamic_names.result, 0, \"curr\").asOrder()}}, number_to_string(coalesce(sum(prior_year_period['units']),0), \"#,##0\") as {{cell(dynamic_names.result, 0, \"prior\").asOrder()}}, sku_data::{{cell(id_selector.selection, 0, \"var\").asObject()}} as {{cell(id_selector.selection, 0, \"display\").asOrder()}}, number_to_string(coalesce(sum(current_year_period['units']), 0) - coalesce(sum(prior_year_period['units']),0), \"#,##0\") as 'Difference', number_to_string(coalesce((coalesce(sum(current_year_period['units']), 0) - coalesce(sum(prior_year_period['units']),0))/abs(coalesce(sum(prior_year_period['units']),sum(current_year_period['units']))), 0), \"#0%\") as '%Difference', coalesce(sum(current_year_period['units']), 0) - coalesce(sum(prior_year_period['units']),0) as 'sort_Difference', coalesce((coalesce(sum(current_year_period['units']), 0) - coalesce(sum(prior_year_period['units']),0))/abs(coalesce(sum(prior_year_period['units']),sum(current_year_period['units']))), 0) as 'sort_%Difference', coalesce(sum(current_year_period['units']), 0) as 'current', coalesce(sum(prior_year_period['units']),0) as 'last'; unit_price = foreach temp generate number_to_string(coalesce(sum(current_year_period['net_revenue'])/sum(current_year_period['units']), 0), \"$#,##0;-$#,##0\") as {{cell(dynamic_names.result, 0, \"curr\").asOrder()}}, number_to_string(coalesce(sum(prior_year_period['net_revenue'])/sum(prior_year_period['units']),0), \"$#,##0;-$#,##0\") as {{cell(dynamic_names.result, 0, \"prior\").asOrder()}}, sku_data::{{cell(id_selector.selection, 0, \"var\").asObject()}} as {{cell(id_selector.selection, 0, \"display\").asOrder()}}, number_to_string(coalesce(sum(current_year_period['net_revenue'])/sum(current_year_period['units']), 0) - coalesce(sum(prior_year_period['net_revenue'])/sum(prior_year_period['units']),0), \"$#,##0;-$#,##0\") as 'Difference', number_to_string(coalesce((coalesce(sum(current_year_period['net_revenue'])/sum(current_year_period['units']), 0) - coalesce(sum(prior_year_period['net_revenue'])/sum(prior_year_period['units']),0))/abs(coalesce(sum(prior_year_period['net_revenue'])/sum(prior_year_period['units']),sum(current_year_period['net_revenue'])/sum(current_year_period['units']))), 0), \"#0%\") as '%Difference', coalesce(sum(current_year_period['net_revenue'])/sum(current_year_period['units']), 0) - coalesce(sum(prior_year_period['net_revenue'])/sum(prior_year_period['units']),0) as 'sort_Difference', coalesce((coalesce(sum(current_year_period['net_revenue'])/sum(current_year_period['units']), 0) - coalesce(sum(prior_year_period['net_revenue'])/sum(prior_year_period['units']),0))/abs(coalesce(sum(prior_year_period['net_revenue'])/sum(prior_year_period['units']),sum(current_year_period['net_revenue'])/sum(current_year_period['units']))), 0) as 'sort_%Difference', coalesce(sum(current_year_period['net_revenue'])/sum(current_year_period['units']), 0) as 'current', coalesce(sum(prior_year_period['net_revenue'])/sum(prior_year_period['units']),0) as 'last'; last_year = order {{cell(unit_selector.selection, 0, \"dataset\").asObject()}} by ({{cell(difference.selection, 0, \"var\").asOrder()}} {{cell(sort_order.selection, 0, \"var\").asObject()}}, 'sort_Difference' {{cell(sort_order.selection, 0, \"var\").asObject()}}); last_year = filter last_year by 'last' != {{cell(remove_zeros.selection, 0, \"value\").asObject()}}; last_year = filter last_year by 'current' != {{cell(remove_zeros.selection, 0, \"value\").asObject()}};                                           current_year_quarter = filter sku_data by 'quarter' == {{cell(current_timing.result, 0, \"Current Quarter\").asObject()}}; current_year_quarter = filter current_year_quarter by 'year' == {{cell(current_timing.result, 0, \"Current Quarter Year\").asObject()}}; prior_year_quarter = filter sku_data by 'quarter' == {{cell(current_timing.result, 0, \"Current Quarter\").asObject()}}; prior_year_quarter = filter prior_year_quarter by 'year' == {{cell(current_timing.result, 0, \"Current Quarter Year\").asObject()}} - 1; temp = group sku_data by {{cell(id_selector.selection, 0, \"var\").asObject()}} left, current_year_quarter by {{cell(id_selector.selection, 0, \"var\").asObject()}} left, prior_year_quarter by {{cell(id_selector.selection, 0, \"var\").asObject()}}; net_rev = foreach temp generate number_to_string(coalesce(sum(current_year_quarter['net_revenue']), 0), \"$#,##0;-$#,##0\") as {{cell(dynamic_names.result, 0, \"curr\").asOrder()}}, number_to_string(coalesce(sum(prior_year_quarter['net_revenue']),0), \"$#,##0;-$#,##0\") as {{cell(dynamic_names.result, 0, \"prior\").asOrder()}}, sku_data::{{cell(id_selector.selection, 0, \"var\").asObject()}} as {{cell(id_selector.selection, 0, \"display\").asOrder()}}, number_to_string(coalesce(sum(current_year_quarter['net_revenue']), 0) - coalesce(sum(prior_year_quarter['net_revenue']),0), \"$#,##0;-$#,##0\") as 'Difference', number_to_string(coalesce((coalesce(sum(current_year_quarter['net_revenue']), 0) - coalesce(sum(prior_year_quarter['net_revenue']),0))/abs(coalesce(sum(prior_year_quarter['net_revenue']),sum(current_year_quarter['net_revenue']))), 0), \"#0%\") as '%Difference', coalesce(sum(current_year_quarter['net_revenue']), 0) - coalesce(sum(prior_year_quarter['net_revenue']),0) as 'sort_Difference', coalesce((coalesce(sum(current_year_quarter['net_revenue']), 0) - coalesce(sum(prior_year_quarter['net_revenue']),0))/abs(coalesce(sum(prior_year_quarter['net_revenue']),sum(current_year_quarter['net_revenue']))), 0) as 'sort_%Difference', coalesce(sum(current_year_quarter['net_revenue']), 0) as 'current', coalesce(sum(prior_year_quarter['net_revenue']), 0) as 'last' ; net_units = foreach temp generate number_to_string(coalesce(sum(current_year_quarter['units']), 0), \"#,##0\") as {{cell(dynamic_names.result, 0, \"curr\").asOrder()}}, number_to_string(coalesce(sum(prior_year_quarter['units']),0), \"#,##0\") as {{cell(dynamic_names.result, 0, \"prior\").asOrder()}}, sku_data::{{cell(id_selector.selection, 0, \"var\").asObject()}} as {{cell(id_selector.selection, 0, \"display\").asOrder()}}, number_to_string(coalesce(sum(current_year_quarter['units']), 0) - coalesce(sum(prior_year_quarter['units']),0), \"#,##0\") as 'Difference', number_to_string(coalesce((coalesce(sum(current_year_quarter['units']), 0) - coalesce(sum(prior_year_quarter['units']),0))/abs(coalesce(sum(prior_year_quarter['units']),sum(current_year_quarter['units']))), 0), \"#0%\") as '%Difference', coalesce(sum(current_year_quarter['units']), 0) - coalesce(sum(prior_year_quarter['units']),0) as 'sort_Difference', coalesce((coalesce(sum(current_year_quarter['units']), 0) - coalesce(sum(prior_year_quarter['units']),0))/abs(coalesce(sum(prior_year_quarter['units']),sum(current_year_quarter['units']))), 0) as 'sort_%Difference', coalesce(sum(current_year_quarter['units']), 0) as 'current', coalesce(sum(prior_year_quarter['units']),0) as 'last'; unit_price = foreach temp generate number_to_string(coalesce(sum(current_year_quarter['net_revenue'])/sum(current_year_quarter['units']), 0), \"$#,##0;-$#,##0\") as {{cell(dynamic_names.result, 0, \"curr\").asOrder()}}, number_to_string(coalesce(sum(prior_year_quarter['net_revenue'])/sum(prior_year_quarter['units']),0), \"$#,##0;-$#,##0\") as {{cell(dynamic_names.result, 0, \"prior\").asOrder()}}, sku_data::{{cell(id_selector.selection, 0, \"var\").asObject()}} as {{cell(id_selector.selection, 0, \"display\").asOrder()}}, number_to_string(coalesce(sum(current_year_quarter['net_revenue'])/sum(current_year_quarter['units']), 0) - coalesce(sum(prior_year_quarter['net_revenue'])/sum(prior_year_quarter['units']),0), \"$#,##0;-$#,##0\") as 'Difference', number_to_string(coalesce((coalesce(sum(current_year_quarter['net_revenue'])/sum(current_year_quarter['units']), 0) - coalesce(sum(prior_year_quarter['net_revenue'])/sum(prior_year_quarter['units']),0))/abs(coalesce(sum(prior_year_quarter['net_revenue'])/sum(prior_year_quarter['units']),sum(current_year_quarter['net_revenue'])/sum(current_year_quarter['units']))), 0), \"#0%\") as '%Difference', coalesce(sum(current_year_quarter['net_revenue'])/sum(current_year_quarter['units']), 0) - coalesce(sum(prior_year_quarter['net_revenue'])/sum(prior_year_quarter['units']),0) as 'sort_Difference', coalesce((coalesce(sum(current_year_quarter['net_revenue'])/sum(current_year_quarter['units']), 0) - coalesce(sum(prior_year_quarter['net_revenue'])/sum(prior_year_quarter['units']),0))/abs(coalesce(sum(prior_year_quarter['net_revenue'])/sum(prior_year_quarter['units']),sum(current_year_quarter['net_revenue'])/sum(current_year_quarter['units']))), 0) as 'sort_%Difference', coalesce(sum(current_year_quarter['net_revenue'])/sum(current_year_quarter['units']), 0) as 'current', coalesce(sum(prior_year_quarter['net_revenue'])/sum(prior_year_quarter['units']),0) as 'last'; last_year_quarter = order {{cell(unit_selector.selection, 0, \"dataset\").asObject()}} by ({{cell(difference.selection, 0, \"var\").asOrder()}} {{cell(sort_order.selection, 0, \"var\").asObject()}}, 'sort_Difference' {{cell(sort_order.selection, 0, \"var\").asObject()}}); last_year_quarter = filter last_year_quarter by 'last' != {{cell(remove_zeros.selection, 0, \"value\").asObject()}}; last_year_quarter = filter last_year_quarter by 'current' != {{cell(remove_zeros.selection, 0, \"value\").asObject()}};                                   current_period = filter sku_data by 'month' == {{cell(current_timing.result, 0, \"Current Month\").asObject()}}; current_period = filter current_period by 'year' == {{cell(current_year.result, 0, \"Current Year\").asObject()}}; prior_period = filter sku_data by 'month' == {{cell(current_timing.result, 0, \"Prior Month\").asObject()}}; prior_period = filter prior_period by 'year' == {{cell(current_timing.result, 0, \"Prior Month Year\").asObject()}}; temp = group sku_data by {{cell(id_selector.selection, 0, \"var\").asObject()}} left, current_period by {{cell(id_selector.selection, 0, \"var\").asObject()}} left, prior_period by {{cell(id_selector.selection, 0, \"var\").asObject()}}; net_rev = foreach temp generate number_to_string(coalesce(sum(current_period['net_revenue']), 0), \"$#,##0;-$#,##0\") as {{cell(dynamic_names.result, 0, \"curr\").asOrder()}}, number_to_string(coalesce(sum(prior_period['net_revenue']),0), \"$#,##0;-$#,##0\") as {{cell(dynamic_names.result, 0, \"prior\").asOrder()}}, sku_data::{{cell(id_selector.selection, 0, \"var\").asObject()}} as {{cell(id_selector.selection, 0, \"display\").asOrder()}}, number_to_string(coalesce(sum(current_period['net_revenue']), 0) - coalesce(sum(prior_period['net_revenue']),0), \"$#,##0;-$#,##0\") as 'Difference', number_to_string(coalesce((coalesce(sum(current_period['net_revenue']), 0) - coalesce(sum(prior_period['net_revenue']),0)) / abs(coalesce(sum(prior_period['net_revenue']),sum(current_period['net_revenue']))), 0), \"#0%\") as '%Difference', coalesce(sum(current_period['net_revenue']), 0) - coalesce(sum(prior_period['net_revenue']),0) as 'sort_Difference', coalesce((coalesce(sum(current_period['net_revenue']), 0) - coalesce(sum(prior_period['net_revenue']),0)) / abs(coalesce(sum(prior_period['net_revenue']),sum(current_period['net_revenue']))), 0) as 'sort_%Difference', coalesce(sum(current_period['net_revenue']), 0) as 'current', coalesce(sum(prior_period['net_revenue']),0) as 'last'; net_units = foreach temp generate number_to_string(coalesce(sum(current_period['units']), 0), \"#,##0\") as {{cell(dynamic_names.result, 0, \"curr\").asOrder()}}, number_to_string(coalesce(sum(prior_period['units']),0), \"#,##0\") as {{cell(dynamic_names.result, 0, \"prior\").asOrder()}}, sku_data::{{cell(id_selector.selection, 0, \"var\").asObject()}} as {{cell(id_selector.selection, 0, \"display\").asOrder()}}, number_to_string(coalesce(sum(current_period['units']), 0) - coalesce(sum(prior_period['units']),0), \"#,##0\") as 'Difference', number_to_string(coalesce((coalesce(sum(current_period['units']), 0) - coalesce(sum(prior_period['units']),0)) / abs(coalesce(sum(prior_period['units']),sum(current_period['units']))), 0), \"#0%\") as '%Difference', coalesce(sum(current_period['units']), 0) - coalesce(sum(prior_period['units']),0) as 'sort_Difference', coalesce((coalesce(sum(current_period['units']), 0) - coalesce(sum(prior_period['units']),0)) / abs(coalesce(sum(prior_period['units']),sum(current_period['units']))), 0) as 'sort_%Difference', coalesce(sum(current_period['units']), 0) as 'current', coalesce(sum(prior_period['units']),0) as 'last' ; unit_price = foreach temp generate number_to_string(coalesce(sum(current_period['net_revenue'])/sum(current_period['units']), 0), \"$#,##0;-$#,##0\") as {{cell(dynamic_names.result, 0, \"curr\").asOrder()}}, number_to_string(coalesce(sum(prior_period['net_revenue'])/sum(prior_period['units']),0), \"$#,##0;-$#,##0\") as {{cell(dynamic_names.result, 0, \"prior\").asOrder()}}, sku_data::{{cell(id_selector.selection, 0, \"var\").asObject()}} as {{cell(id_selector.selection, 0, \"display\").asOrder()}}, number_to_string(coalesce(sum(current_period['net_revenue'])/sum(current_period['units']), 0) - coalesce(sum(prior_period['net_revenue'])/sum(prior_period['units']),0), \"$#,##0;-$#,##0\") as 'Difference', number_to_string(coalesce((coalesce(sum(current_period['net_revenue'])/sum(current_period['units']), 0) - coalesce(sum(prior_period['net_revenue'])/sum(prior_period['units']),0))/ abs(coalesce(sum(prior_period['net_revenue'])/sum(prior_period['units']),sum(current_period['net_revenue'])/sum(current_period['units']))), 0), \"#0%\") as '%Difference', coalesce(sum(current_period['net_revenue'])/sum(current_period['units']), 0) - coalesce(sum(prior_period['net_revenue'])/sum(prior_period['units']),0) as 'sort_Difference', coalesce((coalesce(sum(current_period['net_revenue'])/sum(current_period['units']), 0) - coalesce(sum(prior_period['net_revenue'])/sum(prior_period['units']),0))/ abs(coalesce(sum(prior_period['net_revenue'])/sum(prior_period['units']),sum(current_period['net_revenue'])/sum(current_period['units']))), 0) as 'sort_%Difference', coalesce(sum(current_period['net_revenue'])/sum(current_period['units']), 0) as 'current', coalesce(sum(prior_period['net_revenue'])/sum(prior_period['units']),0) as 'last'; last_period = order {{cell(unit_selector.selection, 0, \"dataset\").asObject()}} by ({{cell(difference.selection, 0, \"var\").asOrder()}} {{cell(sort_order.selection, 0, \"var\").asObject()}}, 'sort_Difference' {{cell(sort_order.selection, 0, \"var\").asObject()}}); last_period = filter last_period by 'last' != {{cell(remove_zeros.selection, 0, \"value\").asObject()}}; last_period = filter last_period by 'current' != {{cell(remove_zeros.selection, 0, \"value\").asObject()}};                                                        current_quarter = filter sku_data by 'quarter' == {{cell(current_timing.result, 0, \"Current Quarter\").asObject()}}; current_quarter = filter current_quarter by 'year' == {{cell(current_timing.result, 0, \"Current Quarter Year\").asObject()}}; prior_quarter = filter sku_data by 'quarter' == {{cell(current_timing.result, 0, \"Prior Quarter\").asObject()}}; prior_quarter = filter prior_quarter by 'year' == {{cell(current_timing.result, 0, \"Prior Quarter Year\").asObject()}}; temp = group sku_data by {{cell(id_selector.selection, 0, \"var\").asObject()}} left, current_quarter by {{cell(id_selector.selection, 0, \"var\").asObject()}} left, prior_quarter by {{cell(id_selector.selection, 0, \"var\").asObject()}}; net_rev = foreach temp generate number_to_string(coalesce(sum(current_quarter['net_revenue']), 0), \"$#,##0;-$#,##0\") as {{cell(dynamic_names.result, 0, \"curr\").asOrder()}}, number_to_string(coalesce(sum(prior_quarter['net_revenue']),0), \"$#,##0;-$#,##0\") as {{cell(dynamic_names.result, 0, \"prior\").asOrder()}}, sku_data::{{cell(id_selector.selection, 0, \"var\").asObject()}} as {{cell(id_selector.selection, 0, \"display\").asOrder()}}, number_to_string(coalesce(sum(current_quarter['net_revenue']), 0) - coalesce(sum(prior_quarter['net_revenue']),0), \"$#,##0;-$#,##0\") as 'Difference', number_to_string(coalesce((coalesce(sum(current_quarter['net_revenue']), 0) - coalesce(sum(prior_quarter['net_revenue']),0)) / abs(coalesce(sum(prior_quarter['net_revenue']),sum(current_quarter['net_revenue']))), 0), \"#0%\") as '%Difference', coalesce(sum(current_quarter['net_revenue']), 0) - coalesce(sum(prior_quarter['net_revenue']),0) as 'sort_Difference', coalesce((coalesce(sum(current_quarter['net_revenue']), 0) - coalesce(sum(prior_quarter['net_revenue']),0)) / abs(coalesce(sum(prior_quarter['net_revenue']),sum(current_quarter['net_revenue']))), 0) as 'sort_%Difference', coalesce(sum(current_quarter['net_revenue']), 0) as 'current', coalesce(sum(prior_quarter['net_revenue']),0) as 'last'; net_units = foreach temp generate number_to_string(coalesce(sum(current_quarter['units']), 0), \"#,##0\") as {{cell(dynamic_names.result, 0, \"curr\").asOrder()}}, number_to_string(coalesce(sum(prior_quarter['units']),0), \"#,##0\") as {{cell(dynamic_names.result, 0, \"prior\").asOrder()}}, sku_data::{{cell(id_selector.selection, 0, \"var\").asObject()}} as {{cell(id_selector.selection, 0, \"display\").asOrder()}}, number_to_string(coalesce(sum(current_quarter['units']), 0) - coalesce(sum(prior_quarter['units']),0), \"#,##0\") as 'Difference', number_to_string(coalesce((coalesce(sum(current_quarter['units']), 0) - coalesce(sum(prior_quarter['units']),0)) / abs(coalesce(sum(prior_quarter['units']),sum(current_quarter['units']))), 0), \"#0%\") as '%Difference', coalesce(sum(current_quarter['units']), 0) - coalesce(sum(prior_quarter['units']),0) as 'sort_Difference', coalesce((coalesce(sum(current_quarter['units']), 0) - coalesce(sum(prior_quarter['units']),0)) / abs(coalesce(sum(prior_quarter['units']),sum(current_quarter['units']))), 0) as 'sort_%Difference', coalesce(sum(current_quarter['units']), 0) as 'current', coalesce(sum(prior_quarter['units']),0) as 'last' ; unit_price = foreach temp generate number_to_string(coalesce(sum(current_quarter['net_revenue'])/sum(current_quarter['units']), 0), \"$#,##0;-$#,##0\") as {{cell(dynamic_names.result, 0, \"curr\").asOrder()}}, number_to_string(coalesce(sum(prior_quarter['net_revenue'])/sum(prior_quarter['units']),0), \"$#,##0;-$#,##0\") as {{cell(dynamic_names.result, 0, \"prior\").asOrder()}}, sku_data::{{cell(id_selector.selection, 0, \"var\").asObject()}} as {{cell(id_selector.selection, 0, \"display\").asOrder()}}, number_to_string(coalesce(sum(current_quarter['net_revenue'])/sum(current_quarter['units']), 0) - coalesce(sum(prior_quarter['net_revenue'])/sum(prior_quarter['units']),0), \"$#,##0;-$#,##0\") as 'Difference', number_to_string(coalesce((coalesce(sum(current_quarter['net_revenue'])/sum(current_quarter['units']), 0) - coalesce(sum(prior_quarter['net_revenue'])/sum(prior_quarter['units']),0))/ abs(coalesce(sum(prior_quarter['net_revenue'])/sum(prior_quarter['units']),sum(current_quarter['net_revenue'])/sum(current_quarter['units']))), 0), \"#0%\") as '%Difference', coalesce(sum(current_quarter['net_revenue'])/sum(current_quarter['units']), 0) - coalesce(sum(prior_quarter['net_revenue'])/sum(prior_quarter['units']),0) as 'sort_Difference', coalesce((coalesce(sum(current_quarter['net_revenue'])/sum(current_quarter['units']), 0) - coalesce(sum(prior_quarter['net_revenue'])/sum(prior_quarter['units']),0))/ abs(coalesce(sum(prior_quarter['net_revenue'])/sum(prior_quarter['units']),sum(current_quarter['net_revenue'])/sum(current_quarter['units']))), 0) as 'sort_%Difference', coalesce(sum(current_quarter['net_revenue'])/sum(current_quarter['units']), 0) as 'current', coalesce(sum(prior_quarter['net_revenue'])/sum(prior_quarter['units']),0) as 'last'; last_quarter = order {{cell(unit_selector.selection, 0, \"dataset\").asObject()}} by ({{cell(difference.selection, 0, \"var\").asOrder()}} {{cell(sort_order.selection, 0, \"var\").asObject()}}, 'sort_Difference' {{cell(sort_order.selection, 0, \"var\").asObject()}}); last_quarter = filter last_quarter by 'last' != {{cell(remove_zeros.selection, 0, \"value\").asObject()}}; last_quarter = filter last_quarter by 'current' != {{cell(remove_zeros.selection, 0, \"value\").asObject()}};                             current_R12 = filter sku_data by 'rolling_month_num' > ({{cell(current_timing.result, 0, \"curr_rolling_month_num\").asObject()}} - 12); prior_R12 = filter sku_data by 'rolling_month_num' > ({{cell(current_timing.result, 0, \"curr_rolling_month_num\").asObject()}} - 24); prior_R12 = filter prior_R12 by 'rolling_month_num' < ({{cell(current_timing.result, 0, \"curr_rolling_month_num\").asObject()}} - 11); temp = group sku_data by {{cell(id_selector.selection, 0, \"var\").asObject()}} left, current_R12 by {{cell(id_selector.selection, 0, \"var\").asObject()}} left, prior_R12 by {{cell(id_selector.selection, 0, \"var\").asObject()}}; net_rev = foreach temp generate number_to_string(coalesce(sum(current_R12['net_revenue']), 0), \"$#,##0;-$#,##0\") as {{cell(dynamic_names.result, 0, \"curr\").asOrder()}}, number_to_string(coalesce(sum(prior_R12['net_revenue']),0), \"$#,##0;-$#,##0\") as {{cell(dynamic_names.result, 0, \"prior\").asOrder()}}, sku_data::{{cell(id_selector.selection, 0, \"var\").asObject()}} as {{cell(id_selector.selection, 0, \"display\").asOrder()}}, number_to_string(coalesce(sum(current_R12['net_revenue']), 0) - coalesce(sum(prior_R12['net_revenue']),0), \"$#,##0;-$#,##0\") as 'Difference', number_to_string(coalesce((coalesce(sum(current_R12['net_revenue']), 0) - coalesce(sum(prior_R12['net_revenue']),0)) / abs(coalesce(sum(prior_R12['net_revenue']),sum(current_R12['net_revenue']))), 0), \"#0%\") as '%Difference', coalesce(sum(current_R12['net_revenue']), 0) - coalesce(sum(prior_R12['net_revenue']),0) as 'sort_Difference', coalesce((coalesce(sum(current_R12['net_revenue']), 0) - coalesce(sum(prior_R12['net_revenue']),0)) / abs(coalesce(sum(prior_R12['net_revenue']),sum(current_R12['net_revenue']))), 0) as 'sort_%Difference', coalesce(sum(current_R12['net_revenue']), 0) as 'current', coalesce(sum(prior_R12['net_revenue']),0) as 'last'; net_units = foreach temp generate number_to_string(coalesce(sum(current_R12['units']), 0), \"#,##0\") as {{cell(dynamic_names.result, 0, \"curr\").asOrder()}}, number_to_string(coalesce(sum(prior_R12['units']),0), \"#,##0\") as {{cell(dynamic_names.result, 0, \"prior\").asOrder()}}, sku_data::{{cell(id_selector.selection, 0, \"var\").asObject()}} as {{cell(id_selector.selection, 0, \"display\").asOrder()}}, number_to_string(coalesce(sum(current_R12['units']), 0) - coalesce(sum(prior_R12['units']),0), \"#,##0\") as 'Difference', number_to_string(coalesce((coalesce(sum(current_R12['units']), 0) - coalesce(sum(prior_R12['units']),0)) / abs(coalesce(sum(prior_R12['units']),sum(current_R12['units']))), 0), \"#0%\") as '%Difference', coalesce(sum(current_R12['units']), 0) - coalesce(sum(prior_R12['units']),0) as 'sort_Difference', coalesce((coalesce(sum(current_R12['units']), 0) - coalesce(sum(prior_R12['units']),0)) / abs(coalesce(sum(prior_R12['units']),sum(current_R12['units']))), 0) as 'sort_%Difference', coalesce(sum(current_R12['units']), 0) as 'current', coalesce(sum(prior_R12['units']),0) as 'last' ; unit_price = foreach temp generate number_to_string(coalesce(sum(current_R12['net_revenue'])/sum(current_R12['units']), 0), \"$#,##0;-$#,##0\") as {{cell(dynamic_names.result, 0, \"curr\").asOrder()}}, number_to_string(coalesce(sum(prior_R12['net_revenue'])/sum(prior_R12['units']),0), \"$#,##0;-$#,##0\") as {{cell(dynamic_names.result, 0, \"prior\").asOrder()}}, sku_data::{{cell(id_selector.selection, 0, \"var\").asObject()}} as {{cell(id_selector.selection, 0, \"display\").asOrder()}}, number_to_string(coalesce(sum(current_R12['net_revenue'])/sum(current_R12['units']), 0) - coalesce(sum(prior_R12['net_revenue'])/sum(prior_R12['units']),0), \"$#,##0;-$#,##0\") as 'Difference', number_to_string(coalesce((coalesce(sum(current_R12['net_revenue'])/sum(current_R12['units']), 0) - coalesce(sum(prior_R12['net_revenue'])/sum(prior_R12['units']),0))/ abs(coalesce(sum(prior_R12['net_revenue'])/sum(prior_R12['units']),sum(current_R12['net_revenue'])/sum(current_R12['units']))), 0), \"#0%\") as '%Difference', coalesce(sum(current_R12['net_revenue'])/sum(current_R12['units']), 0) - coalesce(sum(prior_R12['net_revenue'])/sum(prior_R12['units']),0) as 'sort_Difference', coalesce((coalesce(sum(current_R12['net_revenue'])/sum(current_R12['units']), 0) - coalesce(sum(prior_R12['net_revenue'])/sum(prior_R12['units']),0))/ abs(coalesce(sum(prior_R12['net_revenue'])/sum(prior_R12['units']),sum(current_R12['net_revenue'])/sum(current_R12['units']))), 0) as 'sort_%Difference', coalesce(sum(current_R12['net_revenue'])/sum(current_R12['units']), 0) as 'current', coalesce(sum(prior_R12['net_revenue'])/sum(prior_R12['units']),0) as 'last'; R12 = order {{cell(unit_selector.selection, 0, \"dataset\").asObject()}} by ({{cell(difference.selection, 0, \"var\").asOrder()}} {{cell(sort_order.selection, 0, \"var\").asObject()}}, 'sort_Difference' {{cell(sort_order.selection, 0, \"var\").asObject()}}); R12 = filter R12 by 'last' != {{cell(remove_zeros.selection, 0, \"value\").asObject()}}; R12 = filter R12 by 'current' != {{cell(remove_zeros.selection, 0, \"value\").asObject()}};                                                                                                                                                          final = foreach {{cell(timing_selector.selection, 0, \"var\").asObject()}} generate {{cell(id_selector.selection, 0, \"display\").asOrder()}}, {{cell(dynamic_names.result, 0, \"curr\").asOrder()}}, {{cell(dynamic_names.result, 0, \"prior\").asOrder()}}, 'Difference', '%Difference' ",
+                    "measures": [
+                        [
+                            "count",
+                            "*",
+                            "{{cell(id_selector.selection, 0, \"display\").asObject()}}"
+                        ],
+                        [
+                            "count",
+                            "*",
+                            "{{cell(dynamic_names.result, 0, \"prior\").asObject()}}"
+                        ],
+                        [
+                            "count",
+                            "*",
+                            "{{cell(dynamic_names.result, 0, \"curr\").asObject()}}"
+                        ],
+                        [
+                            "count",
+                            "*",
+                            "Difference"
+                        ],
+                        [
+                            "count",
+                            "*",
+                            "%Difference"
+                        ]
+                    ]
+                },
+                "receiveFacetSource": {
+                    "mode": "all",
+                    "steps": []
+                },
+                "selectMode": "multi",
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "options": {}
+                }
+            },
+            "Minor_1": {
+                "broadcastFacet": true,
+                "datasets": [
+                    {
+                        "id": "0Fb1E000000oLkySAE",
+                        "label": "SKU Data",
+                        "name": "SKU_Data",
+                        "url": "/services/data/v53.0/wave/datasets/0Fb1E000000oLkySAE"
+                    }
+                ],
+                "isGlobal": false,
+                "query": {
+                    "measures": [
+                        [
+                            "count",
+                            "*"
+                        ]
+                    ],
+                    "groups": [
+                        "Minor"
+                    ]
+                },
+                "receiveFacetSource": {
+                    "mode": "all",
+                    "steps": []
+                },
+                "selectMode": "multi",
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "options": {}
+                }
+            },
+            "id_selector": {
+                "broadcastFacet": true,
+                "columns": {},
+                "isGlobal": false,
+                "selectMode": "singlerequired",
+                "start": {
+                    "display": [
+                        "Level 0"
+                    ]
+                },
+                "type": "staticflex",
+                "useGlobal": false,
+                "values": [
+                    {
+                        "display": "Part Number",
+                        "var": "part_num",
+                        "az_filter": "all"
+                    },
+                    {
+                        "display": "AZ SKU",
+                        "var": "AZ_SKU",
+                        "az_filter": "[\"AUTOZONE\"]"
+                    },
+                    {
+                        "display": "AZ Part Number",
+                        "var": "AZ_part_num",
+                        "az_filter": "[\"AUTOZONE\"]"
+                    },
+                    {
+                        "display": "Category",
+                        "var": "Category",
+                        "az_filter": "all"
+                    },
+                    {
+                        "display": "Product Line",
+                        "var": "Product_Line",
+                        "az_filter": "all"
+                    },
+                    {
+                        "display": "Level 0",
+                        "var": "Level_0",
+                        "az_filter": "all"
+                    },
+                    {
+                        "display": "Buying Group",
+                        "var": "Buying_Group",
+                        "az_filter": "all"
+                    },
+                    {
+                        "display": "Customer Group",
+                        "var": "Customer_Group",
+                        "az_filter": "all"
+                    },
+                    {
+                        "display": "Sales Reason Code",
+                        "var": "Sales_Reason_Code",
+                        "az_filter": "all"
+                    },
+                    {
+                        "display": "Ship to City",
+                        "var": "Ship_to_City_State",
+                        "az_filter": "all"
+                    },
+                    {
+                        "display": "Ship to State",
+                        "var": "ship_to_state",
+                        "az_filter": "all"
+                    }
+                ],
+                "numbers": [],
+                "strings": [],
+                "groups": []
+            },
+            "Sales_Reason_Code_1": {
+                "broadcastFacet": true,
+                "datasets": [
+                    {
+                        "id": "0Fb1E000000oLkySAE",
+                        "label": "SKU Data",
+                        "name": "SKU_Data",
+                        "url": "/services/data/v53.0/wave/datasets/0Fb1E000000oLkySAE"
+                    }
+                ],
+                "isGlobal": false,
+                "query": {
+                    "measures": [
+                        [
+                            "count",
+                            "*"
+                        ]
+                    ],
+                    "groups": [
+                        "Sales_Reason_Code"
+                    ]
+                },
+                "receiveFacetSource": {
+                    "mode": "all",
+                    "steps": []
+                },
+                "selectMode": "multi",
+                "start": [],
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "options": {}
+                }
+            },
+            "order_reason_desc_1": {
+                "broadcastFacet": true,
+                "datasets": [
+                    {
+                        "id": "0Fb1E000000oLkySAE",
+                        "label": "SKU Data",
+                        "name": "SKU_Data",
+                        "url": "/services/data/v53.0/wave/datasets/0Fb1E000000oLkySAE"
+                    }
+                ],
+                "isGlobal": false,
+                "query": {
+                    "measures": [
+                        [
+                            "count",
+                            "*"
+                        ]
+                    ],
+                    "groups": [
+                        "order_reason_desc"
+                    ]
+                },
+                "receiveFacetSource": {
+                    "mode": "all",
+                    "steps": []
+                },
+                "selectMode": "multi",
+                "start": [],
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "options": {}
+                }
+            },
+            "current_timing": {
+                "broadcastFacet": false,
+                "datasets": [
+                    {
+                        "id": "0Fb1E000000oLkySAE",
+                        "label": "SKU Data",
+                        "name": "SKU_Data",
+                        "url": "/services/data/v53.0/wave/datasets/0Fb1E000000oLkySAE"
+                    }
+                ],
+                "isGlobal": false,
+                "query": {
+                    "pigql": " sku_data = load \"SKU_Data\"; sku_data_current_timing = group sku_data by all; sku_data_current_timing = filter sku_data_current_timing by 'year' == {{cell(current_year.result, 0, \"Current Year\").asObject()}}; sku_data_current_timing = foreach sku_data_current_timing generate max('month') as 'Current Month', (case when max('month') == 1 then 12 else max('month') - 1 end) as 'Prior Month', (case when max('month') == 1 then {{cell(current_year.result, 0, \"Current Year\").asObject()}} - 1 else {{cell(current_year.result, 0, \"Current Year\").asObject()}} end) as 'Prior Month Year', (case when max('month') < 3 then 4 else floor(max('month')/3) end) as 'Current Quarter', (case when max('month') < 3 then {{cell(current_year.result, 0, \"Current Year\").asObject()}} - 1 else {{cell(current_year.result, 0, \"Current Year\").asObject()}} end) as 'Current Quarter Year', (case when max('month') < 3 then 3 when max('month') < 6 then 4 else floor(max('month')/3) -1 end) as 'Prior Quarter', (case when max('month') < 6 then {{cell(current_year.result, 0, \"Current Year\").asObject()}} - 1 else {{cell(current_year.result, 0, \"Current Year\").asObject()}} end) as 'Prior Quarter Year', max('week') as 'Current Week', max('rolling_month_num') as 'curr_rolling_month_num'; ",
+                    "measures": [
+                        [
+                            "count",
+                            "*",
+                            "Current Quarter"
+                        ],
+                        [
+                            "count",
+                            "*",
+                            "Prior Quarter"
+                        ],
+                        [
+                            "count",
+                            "*",
+                            "Prior Quarter Year"
+                        ],
+                        [
+                            "count",
+                            "*",
+                            "Current Month"
+                        ],
+                        [
+                            "count",
+                            "*",
+                            "Prior Month"
+                        ],
+                        [
+                            "count",
+                            "*",
+                            "Prior Month Year"
+                        ],
+                        [
+                            "count",
+                            "*",
+                            "Current Week"
+                        ]
+                    ]
+                },
+                "receiveFacetSource": {
+                    "mode": "none",
+                    "steps": []
+                },
+                "selectMode": "multi",
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "options": {}
+                }
+            },
+            "Level_5_1": {
+                "broadcastFacet": true,
+                "datasets": [
+                    {
+                        "id": "0Fb1E000000oLkySAE",
+                        "label": "SKU Data",
+                        "name": "SKU_Data",
+                        "url": "/services/data/v53.0/wave/datasets/0Fb1E000000oLkySAE"
+                    }
+                ],
+                "isGlobal": false,
+                "query": {
+                    "measures": [
+                        [
+                            "count",
+                            "*"
+                        ]
+                    ],
+                    "groups": [
+                        "Level_5"
+                    ]
+                },
+                "receiveFacetSource": {
+                    "mode": "all",
+                    "steps": []
+                },
+                "selectMode": "multi",
+                "start": [],
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "options": {}
+                }
+            },
+            "timing_selector": {
+                "broadcastFacet": true,
+                "columns": {},
+                "isGlobal": false,
+                "selectMode": "singlerequired",
+                "start": {
+                    "display": [
+                        "Current Month vs Prior Month"
+                    ]
+                },
+                "type": "staticflex",
+                "useGlobal": false,
+                "values": [
+                    {
+                        "display": "Current Month vs Prior Month",
+                        "var": "last_period"
+                    },
+                    {
+                        "display": "Current Quarter vs Prior Quarter",
+                        "var": "last_quarter"
+                    },
+                    {
+                        "display": "Current Month vs Month Prior Year",
+                        "var": "last_year"
+                    },
+                    {
+                        "display": "Current Quarter vs Quarter Prior Year",
+                        "var": "last_year_quarter"
+                    },
+                    {
+                        "display": "YTD vs Prior YTD",
+                        "var": "ytd"
+                    },
+                    {
+                        "display": "R12 vs Prior R12",
+                        "var": "R12"
+                    }
+                ],
+                "numbers": [],
+                "strings": [],
+                "groups": []
+            },
+            "Level_3_1": {
+                "broadcastFacet": true,
+                "datasets": [
+                    {
+                        "id": "0Fb1E000000oLkySAE",
+                        "label": "SKU Data",
+                        "name": "SKU_Data",
+                        "url": "/services/data/v53.0/wave/datasets/0Fb1E000000oLkySAE"
+                    }
+                ],
+                "isGlobal": false,
+                "query": {
+                    "measures": [
+                        [
+                            "count",
+                            "*"
+                        ]
+                    ],
+                    "groups": [
+                        "Level_3"
+                    ]
+                },
+                "receiveFacetSource": {
+                    "mode": "all",
+                    "steps": []
+                },
+                "selectMode": "multi",
+                "start": [],
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "options": {}
+                }
+            },
+            "Level_4_1": {
+                "broadcastFacet": true,
+                "datasets": [
+                    {
+                        "id": "0Fb1E000000oLkySAE",
+                        "label": "SKU Data",
+                        "name": "SKU_Data",
+                        "url": "/services/data/v53.0/wave/datasets/0Fb1E000000oLkySAE"
+                    }
+                ],
+                "isGlobal": false,
+                "query": {
+                    "measures": [
+                        [
+                            "count",
+                            "*"
+                        ]
+                    ],
+                    "groups": [
+                        "Level_4"
+                    ]
+                },
+                "receiveFacetSource": {
+                    "mode": "all",
+                    "steps": []
+                },
+                "selectMode": "multi",
+                "start": [],
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "options": {}
+                }
+            },
+            "Level_1_1": {
+                "broadcastFacet": true,
+                "datasets": [
+                    {
+                        "id": "0Fb1E000000oLkySAE",
+                        "label": "SKU Data",
+                        "name": "SKU_Data",
+                        "url": "/services/data/v53.0/wave/datasets/0Fb1E000000oLkySAE"
+                    }
+                ],
+                "isGlobal": false,
+                "query": {
+                    "measures": [
+                        [
+                            "count",
+                            "*"
+                        ]
+                    ],
+                    "groups": [
+                        "Level_1"
+                    ]
+                },
+                "receiveFacetSource": {
+                    "mode": "all",
+                    "steps": []
+                },
+                "selectMode": "multi",
+                "start": [],
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "options": {}
+                }
+            },
+            "Level_2_1": {
+                "broadcastFacet": true,
+                "datasets": [
+                    {
+                        "id": "0Fb1E000000oLkySAE",
+                        "label": "SKU Data",
+                        "name": "SKU_Data",
+                        "url": "/services/data/v53.0/wave/datasets/0Fb1E000000oLkySAE"
+                    }
+                ],
+                "isGlobal": false,
+                "query": {
+                    "measures": [
+                        [
+                            "count",
+                            "*"
+                        ]
+                    ],
+                    "groups": [
+                        "Level_2"
+                    ]
+                },
+                "receiveFacetSource": {
+                    "mode": "all",
+                    "steps": []
+                },
+                "selectMode": "multi",
+                "start": [],
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "options": {}
+                }
+            },
+            "difference": {
+                "broadcastFacet": true,
+                "columns": {},
+                "isGlobal": false,
+                "selectMode": "singlerequired",
+                "start": {
+                    "display": [
+                        "Difference"
+                    ]
+                },
+                "type": "staticflex",
+                "useGlobal": false,
+                "values": [
+                    {
+                        "display": "Difference",
+                        "var": "sort_Difference"
+                    },
+                    {
+                        "display": "%Difference",
+                        "var": "sort_%Difference"
+                    }
+                ],
+                "numbers": [],
+                "strings": [],
+                "groups": []
+            },
+            "Level_0_1": {
+                "broadcastFacet": true,
+                "datasets": [
+                    {
+                        "id": "0Fb1E000000oLkySAE",
+                        "label": "SKU Data",
+                        "name": "SKU_Data",
+                        "url": "/services/data/v53.0/wave/datasets/0Fb1E000000oLkySAE"
+                    }
+                ],
+                "isGlobal": false,
+                "query": {
+                    "measures": [
+                        [
+                            "count",
+                            "*"
+                        ]
+                    ],
+                    "groups": [
+                        "Level_0"
+                    ]
+                },
+                "receiveFacetSource": {
+                    "mode": "all",
+                    "steps": []
+                },
+                "selectMode": "multi",
+                "start": [],
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "options": {}
+                }
+            },
+            "remove_zeros": {
+                "broadcastFacet": true,
+                "columns": {},
+                "isGlobal": false,
+                "selectMode": "singlerequired",
+                "start": {
+                    "display": [
+                        "All Data"
+                    ]
+                },
+                "type": "staticflex",
+                "useGlobal": false,
+                "values": [
+                    {
+                        "display": "All Data",
+                        "value": "-9999999999"
+                    },
+                    {
+                        "display": "Remove Zeros",
+                        "value": "0"
+                    }
+                ],
+                "numbers": [],
+                "strings": [],
+                "groups": []
+            },
+            "Buying_Group_1": {
+                "broadcastFacet": true,
+                "datasets": [
+                    {
+                        "id": "0Fb1E000000oLkySAE",
+                        "label": "SKU Data",
+                        "name": "SKU_Data",
+                        "url": "/services/data/v53.0/wave/datasets/0Fb1E000000oLkySAE"
+                    }
+                ],
+                "isGlobal": false,
+                "query": {
+                    "measures": [
+                        [
+                            "count",
+                            "*"
+                        ]
+                    ],
+                    "groups": [
+                        "Buying_Group"
+                    ]
+                },
+                "receiveFacetSource": {
+                    "mode": "all",
+                    "steps": []
+                },
+                "selectMode": "multi",
+                "start": [],
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "options": {}
+                }
+            }
+        },
+        "widgetStyle": {
+            "backgroundColor": "#FFFFFF",
+            "borderColor": "#E6ECF2",
+            "borderEdges": [],
+            "borderRadius": 0,
+            "borderWidth": 1
+        },
+        "widgets": {
+            "container_1": {
+                "parameters": {
+                    "alignmentX": "left",
+                    "alignmentY": "top",
+                    "fit": "original"
+                },
+                "type": "container"
+            },
+            "container_4": {
+                "parameters": {
+                    "alignmentX": "left",
+                    "alignmentY": "top",
+                    "fit": "original"
+                },
+                "type": "container"
+            },
+            "container_5": {
+                "parameters": {
+                    "alignmentX": "left",
+                    "alignmentY": "top",
+                    "fit": "original"
+                },
+                "type": "container"
+            },
+            "text_3": {
+                "parameters": {
+                    "content": {
+                        "richTextContent": [
+                            {
+                                "attributes": {
+                                    "size": "18px",
+                                    "color": "#091A3E",
+                                    "align": "right"
+                                },
+                                "insert": "Zeroes:"
+                            }
+                        ]
+                    },
+                    "showActionMenu": false
+                },
+                "type": "text"
+            },
+            "text_2": {
+                "parameters": {
+                    "content": {
+                        "richTextContent": [
+                            {
+                                "attributes": {
+                                    "size": "18px",
+                                    "color": "#091A3E",
+                                    "align": "right"
+                                },
+                                "insert": "Data:"
+                            }
+                        ]
+                    },
+                    "showActionMenu": false
+                },
+                "type": "text"
+            },
+            "text_5": {
+                "parameters": {
+                    "content": {
+                        "richTextContent": [
+                            {
+                                "attributes": {
+                                    "size": "20px",
+                                    "color": "#091A3E",
+                                    "align": "center"
+                                },
+                                "insert": "Product Filters"
+                            }
+                        ]
+                    },
+                    "showActionMenu": false
+                },
+                "type": "text"
+            },
+            "listselector_20": {
+                "parameters": {
+                    "compact": false,
+                    "displayMode": "combo",
+                    "exploreLink": false,
+                    "filterStyle": {
+                        "titleColor": "#091A3E",
+                        "valueColor": "#17324D"
+                    },
+                    "instant": true,
+                    "measureField": "count",
+                    "showActionMenu": false,
+                    "step": "AZ_part_num_1",
+                    "title": "AZ Part Num"
+                },
+                "type": "listselector"
+            },
+            "text_4": {
+                "parameters": {
+                    "content": {
+                        "richTextContent": [
+                            {
+                                "attributes": {
+                                    "size": "20px",
+                                    "color": "#091A3E",
+                                    "align": "center"
+                                },
+                                "insert": "Customer & Order Filters"
+                            }
+                        ]
+                    },
+                    "showActionMenu": false
+                },
+                "type": "text"
+            },
+            "chart_2": {
+                "parameters": {
+                    "centerText": "",
+                    "legend": {
+                        "descOrder": false,
+                        "showHeader": false,
+                        "show": true,
+                        "customSize": "auto",
+                        "position": "left-top",
+                        "inside": false
+                    },
+                    "showMeasureTitle": false,
+                    "tooltip": {
+                        "content": {
+                            "legend": {
+                                "showBinLabel": true,
+                                "measures": [],
+                                "showNullValues": true,
+                                "customizeLegend": false,
+                                "showPercentage": true,
+                                "showDimensions": true,
+                                "showMeasures": true,
+                                "dimensions": []
+                            }
+                        }
+                    },
+                    "visualizationType": "pie",
+                    "exploreLink": true,
+                    "title": {
+                        "fontSize": 20,
+                        "subtitleFontSize": 16,
+                        "label": "{{cell(dynamic_names.result, 0, \"curr\").asObject()}}",
+                        "align": "center",
+                        "subtitleLabel": "{{cell(unit_selector.selection, 0, \"display\").asObject()}}"
+                    },
+                    "trellis": {
+                        "flipLabels": false,
+                        "showGridLines": true,
+                        "size": [
+                            100,
+                            100
+                        ],
+                        "enable": false,
+                        "type": "x",
+                        "chartsPerLine": 4
+                    },
+                    "inner": 40,
+                    "columnMap": {
+                        "trellis": [],
+                        "dimension": [
+                            "group"
+                        ],
+                        "plots": [
+                            "units"
+                        ]
+                    },
+                    "showActionMenu": false,
+                    "centerValueType": "number",
+                    "valueType": "compactNumber",
+                    "theme": "wave",
+                    "step": "donut_2",
+                    "applyConditionalFormatting": true
+                },
+                "type": "chart"
+            },
+            "text_7": {
+                "parameters": {
+                    "content": {
+                        "richTextContent": [
+                            {
+                                "attributes": {
+                                    "size": "18px",
+                                    "color": "#091A3E",
+                                    "align": "right"
+                                },
+                                "insert": "Timing:"
+                            }
+                        ]
+                    },
+                    "showActionMenu": false
+                },
+                "type": "text"
+            },
+            "text_6": {
+                "parameters": {
+                    "content": {
+                        "richTextContent": [
+                            {
+                                "attributes": {
+                                    "size": "18px",
+                                    "color": "#091A3E",
+                                    "align": "right"
+                                },
+                                "insert": "Order:"
+                            }
+                        ]
+                    },
+                    "showActionMenu": true
+                },
+                "type": "text"
+            },
+            "chart_1": {
+                "parameters": {
+                    "centerText": "",
+                    "legend": {
+                        "descOrder": false,
+                        "showHeader": false,
+                        "show": true,
+                        "customSize": "auto",
+                        "position": "left-top",
+                        "inside": false
+                    },
+                    "showMeasureTitle": false,
+                    "tooltip": {
+                        "content": {
+                            "legend": {
+                                "showBinLabel": true,
+                                "measures": [],
+                                "showNullValues": true,
+                                "customizeLegend": false,
+                                "showPercentage": true,
+                                "showDimensions": true,
+                                "showMeasures": true,
+                                "dimensions": []
+                            }
+                        }
+                    },
+                    "visualizationType": "pie",
+                    "exploreLink": true,
+                    "title": {
+                        "fontSize": 20,
+                        "subtitleFontSize": 16,
+                        "label": "{{cell(dynamic_names.result, 0, \"prior\").asObject()}}",
+                        "align": "center",
+                        "subtitleLabel": "{{cell(unit_selector.selection, 0, \"display\").asObject()}}"
+                    },
+                    "trellis": {
+                        "flipLabels": false,
+                        "showGridLines": true,
+                        "size": [
+                            100,
+                            100
+                        ],
+                        "enable": false,
+                        "type": "x",
+                        "chartsPerLine": 4
+                    },
+                    "inner": 40,
+                    "columnMap": {
+                        "trellis": [],
+                        "dimension": [
+                            "group"
+                        ],
+                        "plots": [
+                            "units"
+                        ]
+                    },
+                    "showActionMenu": false,
+                    "centerValueType": "number",
+                    "valueType": "compactNumber",
+                    "theme": "wave",
+                    "step": "donut_1",
+                    "applyConditionalFormatting": true
+                },
+                "type": "chart"
+            },
+            "listselector_6": {
+                "parameters": {
+                    "compact": false,
+                    "displayMode": "combo",
+                    "exploreLink": false,
+                    "filterStyle": {
+                        "titleColor": "#091A3E",
+                        "valueColor": "#17324D"
+                    },
+                    "instant": true,
+                    "measureField": "count",
+                    "showActionMenu": false,
+                    "step": "Ship_to_City_1",
+                    "title": "Ship to City"
+                },
+                "type": "listselector"
+            },
+            "listselector_9": {
+                "parameters": {
+                    "compact": false,
+                    "displayMode": "combo",
+                    "exploreLink": false,
+                    "filterStyle": {
+                        "titleColor": "#091A3E",
+                        "valueColor": "#17324D"
+                    },
+                    "instant": true,
+                    "measureField": "count",
+                    "showActionMenu": false,
+                    "step": "part_num_2",
+                    "title": "Part Num"
+                },
+                "type": "listselector"
+            },
+            "listselector_8": {
+                "parameters": {
+                    "compact": false,
+                    "displayMode": "combo",
+                    "exploreLink": false,
+                    "filterStyle": {
+                        "titleColor": "#091A3E",
+                        "valueColor": "#17324D"
+                    },
+                    "instant": true,
+                    "measureField": "count",
+                    "showActionMenu": false,
+                    "step": "AZ_SKU_1",
+                    "title": "AZ SKU"
+                },
+                "type": "listselector"
+            },
+            "listselector_3": {
+                "parameters": {
+                    "compact": false,
+                    "displayMode": "combo",
+                    "exploreLink": false,
+                    "filterStyle": {
+                        "titleColor": "#091A3E",
+                        "valueColor": "#17324D"
+                    },
+                    "instant": true,
+                    "measureField": "count",
+                    "showActionMenu": false,
+                    "step": "ship_to_state_2",
+                    "title": "Ship to State"
+                },
+                "type": "listselector"
+            },
+            "listselector_2": {
+                "parameters": {
+                    "compact": false,
+                    "displayMode": "combo",
+                    "exploreLink": false,
+                    "filterStyle": {
+                        "titleColor": "#091A3E",
+                        "valueColor": "#17324D"
+                    },
+                    "instant": true,
+                    "measureField": "count",
+                    "showActionMenu": false,
+                    "step": "Sales_Reason_Code_1",
+                    "title": "Sales Reason Code"
+                },
+                "type": "listselector"
+            },
+            "listselector_5": {
+                "parameters": {
+                    "compact": false,
+                    "displayMode": "combo",
+                    "exploreLink": false,
+                    "filterStyle": {
+                        "titleColor": "#091A3E",
+                        "valueColor": "#17324D"
+                    },
+                    "instant": true,
+                    "measureField": "count",
+                    "showActionMenu": false,
+                    "step": "Category_1",
+                    "title": "Category"
+                },
+                "type": "listselector"
+            },
+            "text_1": {
+                "parameters": {
+                    "content": {
+                        "richTextContent": [
+                            {
+                                "attributes": {
+                                    "size": "18px",
+                                    "color": "#091A3E",
+                                    "align": "right"
+                                },
+                                "insert": "Group by:"
+                            }
+                        ]
+                    },
+                    "showActionMenu": false
+                },
+                "type": "text"
+            },
+            "listselector_4": {
+                "parameters": {
+                    "compact": false,
+                    "displayMode": "combo",
+                    "exploreLink": false,
+                    "filterStyle": {
+                        "titleColor": "#091A3E",
+                        "valueColor": "#17324D"
+                    },
+                    "instant": true,
+                    "measureField": "count",
+                    "showActionMenu": false,
+                    "step": "ship_to_name_1",
+                    "title": "Ship to Name"
+                },
+                "type": "listselector"
+            },
+            "table_1": {
+                "parameters": {
+                    "borderColor": "#e0e5ee",
+                    "borderWidth": 1,
+                    "cell": {
+                        "backgroundColor": "#ffffff",
+                        "fontColor": "rgb(0, 0, 0)",
+                        "fontSize": 14
+                    },
+                    "columnProperties": {},
+                    "columns": [],
+                    "customBulkActions": [],
+                    "exploreLink": true,
+                    "header": {
+                        "backgroundColor": "#C6D3E1",
+                        "fontColor": "rgb(0, 0, 0)",
+                        "fontSize": 18
+                    },
+                    "innerMajorBorderColor": "#a8b7c7",
+                    "innerMinorBorderColor": "#e0e5ee",
+                    "mode": "fittocontainer",
+                    "numberOfLines": 1,
+                    "showActionMenu": true,
+                    "showRowIndexColumn": false,
+                    "step": "all_periods",
+                    "verticalPadding": 8,
+                    "evenRowColor": null,
+                    "oddRowColor": null
+                },
+                "type": "table"
+            },
+            "listselector_19": {
+                "parameters": {
+                    "compact": false,
+                    "displayMode": "combo",
+                    "exploreLink": false,
+                    "filterStyle": {
+                        "titleColor": "#091A3E",
+                        "valueColor": "#17324D"
+                    },
+                    "instant": true,
+                    "measureField": "count",
+                    "showActionMenu": false,
+                    "step": "Level_5_1",
+                    "title": "Level 5"
+                },
+                "type": "listselector"
+            },
+            "listselector_18": {
+                "parameters": {
+                    "compact": false,
+                    "displayMode": "combo",
+                    "exploreLink": false,
+                    "filterStyle": {
+                        "titleColor": "#091A3E",
+                        "valueColor": "#17324D"
+                    },
+                    "instant": true,
+                    "measureField": "count",
+                    "showActionMenu": false,
+                    "step": "Level_4_1",
+                    "title": "Level 4"
+                },
+                "type": "listselector"
+            },
+            "listselector_17": {
+                "parameters": {
+                    "compact": false,
+                    "displayMode": "combo",
+                    "exploreLink": false,
+                    "filterStyle": {
+                        "titleColor": "#091A3E",
+                        "valueColor": "#17324D"
+                    },
+                    "instant": true,
+                    "measureField": "count",
+                    "showActionMenu": false,
+                    "step": "Level_3_1",
+                    "title": "Level 3"
+                },
+                "type": "listselector"
+            },
+            "pillbox_2": {
+                "parameters": {
+                    "compact": false,
+                    "exploreLink": false,
+                    "fontSize": 14,
+                    "measureField": "count",
+                    "selectedTab": {
+                        "backgroundColor": "rgb(0, 0, 255)",
+                        "borderColor": "#C6D3E1",
+                        "borderEdges": [
+                            "all"
+                        ],
+                        "borderWidth": 1,
+                        "textColor": "#FFFFFF"
+                    },
+                    "showActionMenu": false,
+                    "step": "sort_order",
+                    "textColor": "rgb(0, 0, 255)"
+                },
+                "type": "pillbox"
+            },
+            "pillbox_1": {
+                "parameters": {
+                    "compact": false,
+                    "exploreLink": false,
+                    "fontSize": 12,
+                    "measureField": "count",
+                    "selectedTab": {
+                        "backgroundColor": "rgb(0, 0, 255)",
+                        "borderColor": "#C6D3E1",
+                        "borderEdges": [
+                            "all"
+                        ],
+                        "borderWidth": 1,
+                        "textColor": "#FFFFFF"
+                    },
+                    "showActionMenu": false,
+                    "step": "id_selector",
+                    "textColor": "rgb(0, 0, 255)"
+                },
+                "type": "pillbox"
+            },
+            "pillbox_4": {
+                "parameters": {
+                    "compact": false,
+                    "exploreLink": false,
+                    "fontSize": 14,
+                    "measureField": "count",
+                    "selectedTab": {
+                        "backgroundColor": "rgb(0, 0, 255)",
+                        "borderColor": "#C6D3E1",
+                        "borderEdges": [
+                            "all"
+                        ],
+                        "borderWidth": 1,
+                        "textColor": "#FFFFFF"
+                    },
+                    "showActionMenu": false,
+                    "step": "remove_zeros",
+                    "textColor": "rgb(0, 0, 255)"
+                },
+                "type": "pillbox"
+            },
+            "pillbox_3": {
+                "parameters": {
+                    "compact": false,
+                    "exploreLink": false,
+                    "fontSize": 14,
+                    "measureField": "count",
+                    "selectedTab": {
+                        "backgroundColor": "rgb(0, 0, 255)",
+                        "borderColor": "#C6D3E1",
+                        "borderEdges": [
+                            "all"
+                        ],
+                        "borderWidth": 1,
+                        "textColor": "#FFFFFF"
+                    },
+                    "showActionMenu": false,
+                    "step": "unit_selector",
+                    "textColor": "rgb(0, 0, 255)"
+                },
+                "type": "pillbox"
+            },
+            "listselector_12": {
+                "parameters": {
+                    "compact": false,
+                    "displayMode": "combo",
+                    "exploreLink": false,
+                    "filterStyle": {
+                        "titleColor": "#091A3E",
+                        "valueColor": "#17324D"
+                    },
+                    "instant": true,
+                    "measureField": "count",
+                    "showActionMenu": false,
+                    "step": "Product_Hierarchy_De_1",
+                    "title": "Prod Hierarchy Desc"
+                },
+                "type": "listselector"
+            },
+            "image_1": {
+                "parameters": {
+                    "alignmentX": "center",
+                    "alignmentY": "center",
+                    "fit": "fitheight",
+                    "image": {
+                        "name": "Delphi_Logopng5",
+                        "namespace": ""
+                    }
+                },
+                "type": "image"
+            },
+            "pillbox_6": {
+                "parameters": {
+                    "compact": false,
+                    "exploreLink": false,
+                    "fontSize": 14,
+                    "measureField": "count",
+                    "selectedTab": {
+                        "backgroundColor": "rgb(0, 0, 255)",
+                        "borderColor": "#C6D3E1",
+                        "borderEdges": [
+                            "all"
+                        ],
+                        "borderWidth": 1,
+                        "textColor": "#FFFFFF"
+                    },
+                    "showActionMenu": false,
+                    "step": "difference",
+                    "textColor": "rgb(0, 0, 255)"
+                },
+                "type": "pillbox"
+            },
+            "pillbox_5": {
+                "parameters": {
+                    "compact": false,
+                    "exploreLink": false,
+                    "fontSize": 12,
+                    "measureField": "count",
+                    "selectedTab": {
+                        "backgroundColor": "rgb(0, 0, 255)",
+                        "borderColor": "#C6D3E1",
+                        "borderEdges": [
+                            "all"
+                        ],
+                        "borderWidth": 1,
+                        "textColor": "#FFFFFF"
+                    },
+                    "showActionMenu": false,
+                    "step": "timing_selector",
+                    "textColor": "rgb(0, 0, 255)"
+                },
+                "type": "pillbox"
+            },
+            "listselector_11": {
+                "parameters": {
+                    "compact": false,
+                    "displayMode": "combo",
+                    "exploreLink": false,
+                    "filterStyle": {
+                        "titleColor": "#091A3E",
+                        "valueColor": "#17324D"
+                    },
+                    "instant": true,
+                    "measureField": "count",
+                    "showActionMenu": false,
+                    "step": "Customer_Group_1",
+                    "title": "Customer Group"
+                },
+                "type": "listselector"
+            },
+            "listselector_1": {
+                "parameters": {
+                    "compact": false,
+                    "displayMode": "combo",
+                    "exploreLink": false,
+                    "filterStyle": {
+                        "titleColor": "#091A3E",
+                        "valueColor": "#17324D"
+                    },
+                    "instant": true,
+                    "measureField": "count",
+                    "showActionMenu": false,
+                    "step": "order_reason_desc_1",
+                    "title": "Order Reason Desc"
+                },
+                "type": "listselector"
+            },
+            "listselector_10": {
+                "parameters": {
+                    "compact": false,
+                    "displayMode": "combo",
+                    "exploreLink": false,
+                    "filterStyle": {
+                        "titleColor": "#091A3E",
+                        "valueColor": "#17324D"
+                    },
+                    "instant": true,
+                    "measureField": "count",
+                    "showActionMenu": false,
+                    "step": "Buying_Group_1",
+                    "title": "Buying Group"
+                },
+                "type": "listselector"
+            },
+            "listselector_16": {
+                "parameters": {
+                    "compact": false,
+                    "displayMode": "combo",
+                    "exploreLink": false,
+                    "filterStyle": {
+                        "titleColor": "#091A3E",
+                        "valueColor": "#17324D"
+                    },
+                    "instant": true,
+                    "measureField": "count",
+                    "showActionMenu": false,
+                    "step": "Level_2_1",
+                    "title": "Level 2"
+                },
+                "type": "listselector"
+            },
+            "listselector_15": {
+                "parameters": {
+                    "compact": false,
+                    "displayMode": "combo",
+                    "exploreLink": false,
+                    "filterStyle": {
+                        "titleColor": "#091A3E",
+                        "valueColor": "#17324D"
+                    },
+                    "instant": true,
+                    "measureField": "count",
+                    "showActionMenu": false,
+                    "step": "Level_1_1",
+                    "title": "Level 1"
+                },
+                "type": "listselector"
+            },
+            "listselector_14": {
+                "parameters": {
+                    "compact": false,
+                    "displayMode": "combo",
+                    "exploreLink": false,
+                    "filterStyle": {
+                        "titleColor": "#091A3E",
+                        "valueColor": "#17324D"
+                    },
+                    "instant": true,
+                    "measureField": "count",
+                    "showActionMenu": false,
+                    "step": "Level_0_1",
+                    "title": "Level 0"
+                },
+                "type": "listselector"
+            },
+            "listselector_13": {
+                "parameters": {
+                    "compact": false,
+                    "displayMode": "combo",
+                    "exploreLink": false,
+                    "filterStyle": {
+                        "titleColor": "#091A3E",
+                        "valueColor": "#17324D"
+                    },
+                    "instant": true,
+                    "measureField": "count",
+                    "showActionMenu": false,
+                    "step": "Product_Line_1",
+                    "title": "Product Line"
+                },
+                "type": "listselector"
+            }
+        }
+    },
+    "datasets": [
+        {
+            "id": "0Fb1E000000oLkySAE",
+            "label": "SKU Data",
+            "name": "SKU_Data",
+            "url": "/services/data/v53.0/wave/datasets/0Fb1E000000oLkySAE"
+        }
+    ]
+}
