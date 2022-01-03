@@ -1,0 +1,859 @@
+{
+    "label": "Copy of YoY",
+    "mobileDisabled": false,
+    "state": {
+        "dataSourceLinks": [],
+        "filters": [],
+        "gridLayouts": [
+            {
+                "name": "Default",
+                "numColumns": 12,
+                "pages": [
+                    {
+                        "label": "Untitled",
+                        "name": "f0991c8b-4580-492a-9727-d804e0c86782",
+                        "navigationHidden": false,
+                        "widgets": [
+                            {
+                                "colspan": 9,
+                                "column": 0,
+                                "name": "chart_1",
+                                "row": 2,
+                                "rowspan": 8,
+                                "widgetStyle": {
+                                    "borderColor": "rgb(0, 0, 0)",
+                                    "borderEdges": [
+                                        "all"
+                                    ]
+                                }
+                            },
+                            {
+                                "colspan": 2,
+                                "column": 2,
+                                "name": "pillbox_2",
+                                "row": 0,
+                                "rowspan": 2,
+                                "widgetStyle": {
+                                    "backgroundColor": "#FFFFFF",
+                                    "borderColor": "#000000",
+                                    "borderEdges": [
+                                        "all"
+                                    ],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            },
+                            {
+                                "colspan": 1,
+                                "column": 4,
+                                "name": "listselector_1",
+                                "row": 0,
+                                "rowspan": 1,
+                                "widgetStyle": {}
+                            },
+                            {
+                                "colspan": 1,
+                                "column": 4,
+                                "name": "listselector_2",
+                                "row": 1,
+                                "rowspan": 1,
+                                "widgetStyle": {}
+                            },
+                            {
+                                "colspan": 2,
+                                "column": 5,
+                                "name": "listselector_3",
+                                "row": 0,
+                                "rowspan": 1,
+                                "widgetStyle": {}
+                            },
+                            {
+                                "colspan": 2,
+                                "column": 7,
+                                "name": "listselector_4",
+                                "row": 0,
+                                "rowspan": 1,
+                                "widgetStyle": {}
+                            },
+                            {
+                                "colspan": 2,
+                                "column": 5,
+                                "name": "listselector_5",
+                                "row": 1,
+                                "rowspan": 1,
+                                "widgetStyle": {}
+                            },
+                            {
+                                "colspan": 9,
+                                "column": 0,
+                                "name": "container_1",
+                                "row": 0,
+                                "rowspan": 2,
+                                "widgetStyle": {
+                                    "backgroundColor": "#FFFFFF",
+                                    "borderColor": "rgb(0, 0, 0)",
+                                    "borderEdges": [
+                                        "all"
+                                    ],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            },
+                            {
+                                "colspan": 2,
+                                "column": 10,
+                                "name": "text_1",
+                                "row": 2,
+                                "rowspan": 7,
+                                "widgetStyle": {
+                                    "backgroundColor": "#FFFFFF",
+                                    "borderColor": "rgb(0, 0, 0)",
+                                    "borderEdges": [
+                                        "all"
+                                    ],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            },
+                            {
+                                "colspan": 2,
+                                "column": 0,
+                                "name": "image_1",
+                                "row": 0,
+                                "rowspan": 2,
+                                "widgetStyle": {}
+                            },
+                            {
+                                "colspan": 1,
+                                "column": 9,
+                                "name": "table_1",
+                                "row": 2,
+                                "rowspan": 7,
+                                "widgetStyle": {
+                                    "backgroundColor": "#FFFFFF",
+                                    "borderColor": "#7D98B3",
+                                    "borderEdges": [
+                                        "all"
+                                    ],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            },
+                            {
+                                "colspan": 2,
+                                "column": 9,
+                                "name": "text_2",
+                                "row": 0,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "backgroundColor": "#FFFFFF",
+                                    "borderColor": "#091A3E",
+                                    "borderEdges": [
+                                        "all"
+                                    ],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            },
+                            {
+                                "colspan": 2,
+                                "column": 7,
+                                "name": "listselector_6",
+                                "row": 1,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "backgroundColor": "#FFFFFF",
+                                    "borderColor": "#E6ECF2",
+                                    "borderEdges": [],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "rowHeight": "normal",
+                "selectors": [],
+                "style": {
+                    "alignmentX": "left",
+                    "alignmentY": "top",
+                    "backgroundColor": "#F2F6FA",
+                    "cellSpacingX": 8,
+                    "cellSpacingY": 8,
+                    "fit": "original",
+                    "gutterColor": "#C5D3E0"
+                },
+                "version": 1
+            }
+        ],
+        "layouts": [],
+        "steps": {
+            "Yearly_Sales": {
+                "broadcastFacet": true,
+                "datasets": [
+                    {
+                        "id": "0Fb1E000000fxaZSAQ",
+                        "label": "POS Weekly",
+                        "name": "POS_Weekly_Emergency",
+                        "url": "/services/data/v53.0/wave/datasets/0Fb1E000000fxaZSAQ"
+                    }
+                ],
+                "isGlobal": false,
+                "label": "Yearly_Sales",
+                "query": {
+                    "pigql": " POS_Data = load \"POS_Weekly_Emergency\"; POS_2019 = filter POS_Data by 'Year' == 2019; POS_2020 = filter POS_Data by 'Year' == 2020; POS_2021 = filter POS_Data by 'Year' == 2021; POS_Final = group POS_Data by filter_week left, POS_2020 by filter_week left, POS_2019 by filter_week left, POS_2021 by filter_week; POS_Final = foreach POS_Final generate POS_Data['filter_week'] as 'filter_week', sum(POS_2020::{{cell(Sales_Display.selection, 0, \"groupName\").asObject()}}) as '_2020', sum(POS_2019::{{cell(Sales_Display.selection, 0, \"groupName\").asObject()}}) as '_2019', sum(POS_2021::{{cell(Sales_Display.selection, 0, \"groupName\").asObject()}}) as '_2021';  ",
+                    "measures": [
+                        [
+                            "count",
+                            "*",
+                            "_2021"
+                        ],
+                        [
+                            "count",
+                            "*",
+                            "_2020"
+                        ],
+                        [
+                            "count",
+                            "*",
+                            "_2019"
+                        ]
+                    ],
+                    "groups": [
+                        "filter_week"
+                    ]
+                },
+                "receiveFacetSource": {
+                    "mode": "all",
+                    "steps": []
+                },
+                "selectMode": "single",
+                "start": [],
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "options": {},
+                    "parameters": {},
+                    "type": "chart",
+                    "visualizationType": "time"
+                }
+            },
+            "Customer_1": {
+                "broadcastFacet": true,
+                "datasets": [
+                    {
+                        "id": "0Fb1E000000fxaZSAQ",
+                        "label": "POS Weekly",
+                        "name": "POS_Weekly_Emergency",
+                        "url": "/services/data/v53.0/wave/datasets/0Fb1E000000fxaZSAQ"
+                    }
+                ],
+                "isGlobal": false,
+                "query": {
+                    "measures": [
+                        [
+                            "count",
+                            "*"
+                        ]
+                    ],
+                    "groups": [
+                        "Customer"
+                    ]
+                },
+                "receiveFacetSource": {
+                    "mode": "all",
+                    "steps": []
+                },
+                "selectMode": "multi",
+                "start": [],
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "options": {}
+                }
+            },
+            "Sales_Display": {
+                "broadcastFacet": true,
+                "columns": {},
+                "isGlobal": false,
+                "selectMode": "singlerequired",
+                "start": {
+                    "display": [
+                        "Net Units"
+                    ]
+                },
+                "type": "staticflex",
+                "useGlobal": false,
+                "values": [
+                    {
+                        "display": "Net Dollars",
+                        "displayPlural": "Net_Sales",
+                        "groupNameProject": "'Net_Sales' as 'Net_Sales'",
+                        "groupName": "Net_Sales",
+                        "groupNameAlias": "'Net_Sales'",
+                        "groupNameCompact": "Net_Sales"
+                    },
+                    {
+                        "display": "Net Units",
+                        "displayPlural": "POS_Units",
+                        "groupNameProject": "'POS_Units' as 'POS_Units'",
+                        "groupName": "POS_Units",
+                        "groupNameAlias": "'POS_Units'",
+                        "groupNameCompact": "POS_Units"
+                    }
+                ],
+                "numbers": [],
+                "strings": [],
+                "groups": []
+            },
+            "Part_1": {
+                "broadcastFacet": true,
+                "datasets": [
+                    {
+                        "id": "0Fb1E000000fxaZSAQ",
+                        "label": "POS Weekly",
+                        "name": "POS_Weekly_Emergency",
+                        "url": "/services/data/v53.0/wave/datasets/0Fb1E000000fxaZSAQ"
+                    }
+                ],
+                "isGlobal": false,
+                "query": {
+                    "measures": [
+                        [
+                            "count",
+                            "*"
+                        ]
+                    ],
+                    "groups": [
+                        "Part"
+                    ]
+                },
+                "receiveFacetSource": {
+                    "mode": "all",
+                    "steps": []
+                },
+                "selectMode": "multi",
+                "start": [],
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "options": {}
+                }
+            },
+            "Category_Manager_1": {
+                "broadcastFacet": true,
+                "datasets": [
+                    {
+                        "id": "0Fb1E000000fxaZSAQ",
+                        "label": "POS Weekly",
+                        "name": "POS_Weekly_Emergency",
+                        "url": "/services/data/v53.0/wave/datasets/0Fb1E000000fxaZSAQ"
+                    }
+                ],
+                "isGlobal": false,
+                "query": {
+                    "measures": [
+                        [
+                            "count",
+                            "*"
+                        ]
+                    ],
+                    "groups": [
+                        "Category_Manager"
+                    ]
+                },
+                "receiveFacetSource": {
+                    "mode": "all",
+                    "steps": []
+                },
+                "selectMode": "multi",
+                "start": [],
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "options": {}
+                }
+            },
+            "Customer_List": {
+                "broadcastFacet": true,
+                "datasets": [
+                    {
+                        "id": "0Fb1E000000fxaZSAQ",
+                        "label": "POS Weekly",
+                        "name": "POS_Weekly_Emergency",
+                        "url": "/services/data/v53.0/wave/datasets/0Fb1E000000fxaZSAQ"
+                    }
+                ],
+                "isGlobal": false,
+                "label": "Customer_List",
+                "query": {
+                    "pigql": " POS_Data = load \"POS_Weekly_Emergency\"; POS_Data = group POS_Data by 'Customer'; POS_Data = foreach POS_Data generate 'Customer' as 'Customer'; POS_Data = filter POS_Data by 'Customer' != \"Uni-Select CDN\";  ",
+                    "measures": [
+                        [
+                            "count",
+                            "*",
+                            "Customer"
+                        ]
+                    ]
+                },
+                "receiveFacetSource": {
+                    "mode": "all",
+                    "steps": []
+                },
+                "selectMode": "single",
+                "start": [],
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "options": {},
+                    "parameters": {},
+                    "type": "chart",
+                    "visualizationType": "time"
+                }
+            },
+            "Category_1": {
+                "broadcastFacet": true,
+                "datasets": [
+                    {
+                        "id": "0Fb1E000000fxaZSAQ",
+                        "label": "POS Weekly",
+                        "name": "POS_Weekly_Emergency",
+                        "url": "/services/data/v53.0/wave/datasets/0Fb1E000000fxaZSAQ"
+                    }
+                ],
+                "isGlobal": false,
+                "query": {
+                    "measures": [
+                        [
+                            "count",
+                            "*"
+                        ]
+                    ],
+                    "groups": [
+                        "Category"
+                    ]
+                },
+                "receiveFacetSource": {
+                    "mode": "all",
+                    "steps": []
+                },
+                "selectMode": "multi",
+                "start": [],
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "options": {}
+                }
+            },
+            "Product_Line_1": {
+                "broadcastFacet": true,
+                "datasets": [
+                    {
+                        "id": "0Fb1E000000fxaZSAQ",
+                        "label": "POS Weekly",
+                        "name": "POS_Weekly_Emergency",
+                        "url": "/services/data/v53.0/wave/datasets/0Fb1E000000fxaZSAQ"
+                    }
+                ],
+                "isGlobal": false,
+                "query": {
+                    "measures": [
+                        [
+                            "count",
+                            "*"
+                        ]
+                    ],
+                    "groups": [
+                        "Product_Line"
+                    ]
+                },
+                "receiveFacetSource": {
+                    "mode": "all",
+                    "steps": []
+                },
+                "selectMode": "multi",
+                "start": [],
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "options": {}
+                }
+            },
+            "Product_Group_1": {
+                "broadcastFacet": true,
+                "datasets": [
+                    {
+                        "id": "0Fb1E000000fxaZSAQ",
+                        "label": "POS Weekly",
+                        "name": "POS_Weekly_Emergency",
+                        "url": "/services/data/v53.0/wave/datasets/0Fb1E000000fxaZSAQ"
+                    }
+                ],
+                "isGlobal": false,
+                "query": {
+                    "measures": [
+                        [
+                            "count",
+                            "*"
+                        ]
+                    ],
+                    "groups": [
+                        "Product_Group"
+                    ]
+                },
+                "receiveFacetSource": {
+                    "mode": "all",
+                    "steps": []
+                },
+                "selectMode": "multi",
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "options": {}
+                }
+            }
+        },
+        "widgetStyle": {
+            "backgroundColor": "#FFFFFF",
+            "borderColor": "#E6ECF2",
+            "borderEdges": [],
+            "borderRadius": 0,
+            "borderWidth": 1
+        },
+        "widgets": {
+            "listselector_6": {
+                "parameters": {
+                    "compact": false,
+                    "displayMode": "combo",
+                    "exploreLink": false,
+                    "filterStyle": {
+                        "titleColor": "#091A3E",
+                        "valueColor": "#091A3E"
+                    },
+                    "instant": true,
+                    "measureField": "count",
+                    "showActionMenu": false,
+                    "step": "Product_Group_1",
+                    "title": "Product Group"
+                },
+                "type": "listselector"
+            },
+            "listselector_3": {
+                "parameters": {
+                    "compact": false,
+                    "displayMode": "combo",
+                    "exploreLink": false,
+                    "filterStyle": {
+                        "titleColor": "#091A3E",
+                        "valueColor": "#17324D"
+                    },
+                    "instant": true,
+                    "measureField": "count",
+                    "showActionMenu": false,
+                    "step": "Category_Manager_1",
+                    "title": "Category Manager"
+                },
+                "type": "listselector"
+            },
+            "listselector_2": {
+                "parameters": {
+                    "compact": false,
+                    "displayMode": "combo",
+                    "exploreLink": false,
+                    "filterStyle": {
+                        "titleColor": "#091A3E",
+                        "valueColor": "#17324D"
+                    },
+                    "instant": true,
+                    "measureField": "count",
+                    "showActionMenu": false,
+                    "step": "Part_1",
+                    "title": "Part"
+                },
+                "type": "listselector"
+            },
+            "listselector_5": {
+                "parameters": {
+                    "compact": false,
+                    "displayMode": "combo",
+                    "exploreLink": false,
+                    "filterStyle": {
+                        "titleColor": "#091A3E",
+                        "valueColor": "#17324D"
+                    },
+                    "instant": true,
+                    "measureField": "count",
+                    "showActionMenu": false,
+                    "step": "Product_Line_1",
+                    "title": "Product Line"
+                },
+                "type": "listselector"
+            },
+            "text_1": {
+                "parameters": {
+                    "content": {
+                        "richTextContent": [
+                            {
+                                "attributes": {
+                                    "size": "20px",
+                                    "color": "#091a3e"
+                                },
+                                "insert": "Uni-Select CDN POS does not report Unit Sales. Alliance, Federated and Pronto do not report Dollar Sales."
+                            },
+                            {
+                                "attributes": {
+                                    "align": "center"
+                                },
+                                "insert": "\n"
+                            }
+                        ]
+                    },
+                    "showActionMenu": false
+                },
+                "type": "text"
+            },
+            "listselector_4": {
+                "parameters": {
+                    "compact": false,
+                    "displayMode": "combo",
+                    "exploreLink": false,
+                    "filterStyle": {
+                        "titleColor": "#091A3E",
+                        "valueColor": "#17324D"
+                    },
+                    "instant": true,
+                    "measureField": "count",
+                    "showActionMenu": false,
+                    "step": "Category_1",
+                    "title": "Category"
+                },
+                "type": "listselector"
+            },
+            "table_1": {
+                "parameters": {
+                    "borderColor": "#e0e5ee",
+                    "borderWidth": 1,
+                    "cell": {
+                        "backgroundColor": "#ffffff",
+                        "fontColor": "rgb(0, 0, 0)",
+                        "fontSize": 14
+                    },
+                    "columnProperties": {},
+                    "columns": [],
+                    "customBulkActions": [],
+                    "exploreLink": true,
+                    "header": {
+                        "backgroundColor": "rgb(0, 0, 255)",
+                        "fontColor": "#FFFFFF",
+                        "fontSize": 16
+                    },
+                    "innerMajorBorderColor": "#a8b7c7",
+                    "innerMinorBorderColor": "#e0e5ee",
+                    "mode": "fittocontainer",
+                    "numberOfLines": 1,
+                    "showActionMenu": true,
+                    "showRowIndexColumn": false,
+                    "step": "Customer_List",
+                    "totals": true,
+                    "verticalPadding": 4,
+                    "evenRowColor": null,
+                    "oddRowColor": null
+                },
+                "type": "table"
+            },
+            "container_1": {
+                "parameters": {
+                    "alignmentX": "left",
+                    "alignmentY": "top",
+                    "fit": "original"
+                },
+                "type": "container"
+            },
+            "pillbox_2": {
+                "parameters": {
+                    "compact": false,
+                    "exploreLink": false,
+                    "fontSize": 16,
+                    "selectedTab": {
+                        "backgroundColor": "#677A97",
+                        "borderColor": "#C6D3E1",
+                        "borderEdges": [],
+                        "borderWidth": 1,
+                        "textColor": "#FFFFFF"
+                    },
+                    "showActionMenu": false,
+                    "step": "Sales_Display",
+                    "textColor": "#5C7A99"
+                },
+                "type": "pillbox"
+            },
+            "image_1": {
+                "parameters": {
+                    "alignmentX": "left",
+                    "alignmentY": "top",
+                    "fit": "original",
+                    "image": {
+                        "name": "Delphi_Logopng2",
+                        "namespace": ""
+                    }
+                },
+                "type": "image"
+            },
+            "text_2": {
+                "parameters": {
+                    "content": {
+                        "richTextContent": [
+                            {
+                                "attributes": {
+                                    "size": "16px",
+                                    "color": "#091A3E"
+                                },
+                                "insert": "Uni-Select CDN name is filtered from Customer table below."
+                            },
+                            {
+                                "attributes": {
+                                    "align": "left"
+                                },
+                                "insert": "\n"
+                            }
+                        ]
+                    },
+                    "showActionMenu": true
+                },
+                "type": "text"
+            },
+            "listselector_1": {
+                "parameters": {
+                    "compact": false,
+                    "displayMode": "combo",
+                    "exploreLink": false,
+                    "filterStyle": {
+                        "titleColor": "#091A3E",
+                        "valueColor": "#17324D"
+                    },
+                    "instant": true,
+                    "measureField": "count",
+                    "showActionMenu": false,
+                    "step": "Customer_1",
+                    "title": "Customer"
+                },
+                "type": "listselector"
+            },
+            "chart_1": {
+                "parameters": {
+                    "autoFitMode": "keepLabels",
+                    "showPoints": true,
+                    "legend": {
+                        "descOrder": false,
+                        "showHeader": true,
+                        "show": true,
+                        "customSize": "auto",
+                        "position": "right-top",
+                        "inside": false
+                    },
+                    "axisMode": "sync",
+                    "tooltip": {
+                        "content": {
+                            "legend": {
+                                "showBinLabel": true,
+                                "measures": [],
+                                "showNullValues": true,
+                                "customizeLegend": false,
+                                "showPercentage": true,
+                                "showDimensions": true,
+                                "showMeasures": true,
+                                "dimensions": []
+                            }
+                        }
+                    },
+                    "visualizationType": "line",
+                    "missingValue": "connect",
+                    "dashLine": {
+                        "measures": [
+                            "2020"
+                        ],
+                        "showDashLine": false
+                    },
+                    "exploreLink": true,
+                    "timeAxis": {
+                        "showTitle": true,
+                        "showAxis": true,
+                        "title": ""
+                    },
+                    "title": {
+                        "fontSize": 14,
+                        "subtitleFontSize": 11,
+                        "label": "{{column(Category_1.selection,[\"Category\"]).asObject()}} {{column(Customer_1.selection,[\"Customer\"]).asObject()}}",
+                        "align": "center",
+                        "subtitleLabel": "{{cell(Sales_Display.selection, 0, \"display\").asObject()}}"
+                    },
+                    "trellis": {
+                        "flipLabels": false,
+                        "showGridLines": true,
+                        "size": [
+                            100,
+                            100
+                        ],
+                        "enable": false,
+                        "type": "x",
+                        "chartsPerLine": 4
+                    },
+                    "fillArea": true,
+                    "showActionMenu": true,
+                    "showZero": false,
+                    "measureAxis2": {
+                        "sqrtScale": false,
+                        "showTitle": true,
+                        "showAxis": true,
+                        "title": "",
+                        "customDomain": {
+                            "showDomain": false
+                        }
+                    },
+                    "measureAxis1": {
+                        "sqrtScale": false,
+                        "showTitle": false,
+                        "showAxis": true,
+                        "title": "All Customers",
+                        "customDomain": {
+                            "showDomain": false
+                        }
+                    },
+                    "valueType": "none",
+                    "theme": "wave",
+                    "step": "Yearly_Sales",
+                    "applyConditionalFormatting": true,
+                    "dimensionAxis": {
+                        "showTitle": true,
+                        "customSize": "auto",
+                        "showAxis": true,
+                        "title": "Week",
+                        "icons": {
+                            "useIcons": false,
+                            "iconProps": {
+                                "fit": "cover",
+                                "column": "",
+                                "type": "round"
+                            }
+                        }
+                    },
+                    "drawArea": {
+                        "measure": "2020",
+                        "showDrawArea": false,
+                        "bounding1": "2020",
+                        "bounding2": "2020"
+                    }
+                },
+                "type": "chart"
+            }
+        }
+    },
+    "datasets": [
+        {
+            "id": "0Fb1E000000fxaZSAQ",
+            "label": "POS Weekly",
+            "name": "POS_Weekly_Emergency",
+            "url": "/services/data/v53.0/wave/datasets/0Fb1E000000fxaZSAQ"
+        }
+    ]
+}
