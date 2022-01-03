@@ -1,0 +1,2818 @@
+{
+    "label": "Current Year by Customer",
+    "mobileDisabled": false,
+    "state": {
+        "dataSourceLinks": [],
+        "filters": [],
+        "gridLayouts": [
+            {
+                "name": "Default",
+                "numColumns": 12,
+                "pages": [
+                    {
+                        "label": "Untitled",
+                        "name": "f0991c8b-4580-492a-9727-d804e0c86782",
+                        "navigationHidden": false,
+                        "widgets": [
+                            {
+                                "colspan": 9,
+                                "column": 0,
+                                "name": "chart_1",
+                                "row": 2,
+                                "rowspan": 8,
+                                "widgetStyle": {
+                                    "borderColor": "rgb(0, 0, 0)",
+                                    "borderEdges": [
+                                        "all"
+                                    ]
+                                }
+                            },
+                            {
+                                "colspan": 2,
+                                "column": 2,
+                                "name": "pillbox_2",
+                                "row": 0,
+                                "rowspan": 2,
+                                "widgetStyle": {
+                                    "backgroundColor": "#FFFFFF",
+                                    "borderColor": "#000000",
+                                    "borderEdges": [
+                                        "all"
+                                    ],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            },
+                            {
+                                "colspan": 1,
+                                "column": 4,
+                                "name": "listselector_1",
+                                "row": 0,
+                                "rowspan": 1,
+                                "widgetStyle": {}
+                            },
+                            {
+                                "colspan": 1,
+                                "column": 4,
+                                "name": "listselector_2",
+                                "row": 1,
+                                "rowspan": 1,
+                                "widgetStyle": {}
+                            },
+                            {
+                                "colspan": 2,
+                                "column": 5,
+                                "name": "listselector_3",
+                                "row": 0,
+                                "rowspan": 1,
+                                "widgetStyle": {}
+                            },
+                            {
+                                "colspan": 2,
+                                "column": 7,
+                                "name": "listselector_4",
+                                "row": 0,
+                                "rowspan": 1,
+                                "widgetStyle": {}
+                            },
+                            {
+                                "colspan": 2,
+                                "column": 5,
+                                "name": "listselector_5",
+                                "row": 1,
+                                "rowspan": 1,
+                                "widgetStyle": {}
+                            },
+                            {
+                                "colspan": 9,
+                                "column": 0,
+                                "name": "container_1",
+                                "row": 0,
+                                "rowspan": 2,
+                                "widgetStyle": {
+                                    "backgroundColor": "#FFFFFF",
+                                    "borderColor": "rgb(0, 0, 0)",
+                                    "borderEdges": [
+                                        "all"
+                                    ],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            },
+                            {
+                                "colspan": 2,
+                                "column": 10,
+                                "name": "text_1",
+                                "row": 2,
+                                "rowspan": 7,
+                                "widgetStyle": {
+                                    "backgroundColor": "#FFFFFF",
+                                    "borderColor": "rgb(0, 0, 0)",
+                                    "borderEdges": [
+                                        "all"
+                                    ],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            },
+                            {
+                                "colspan": 2,
+                                "column": 0,
+                                "name": "image_1",
+                                "row": 0,
+                                "rowspan": 2,
+                                "widgetStyle": {}
+                            },
+                            {
+                                "colspan": 9,
+                                "column": 0,
+                                "name": "chart_2",
+                                "row": 11,
+                                "rowspan": 4,
+                                "widgetStyle": {
+                                    "backgroundColor": "#FFFFFF",
+                                    "borderColor": "rgb(0, 0, 0)",
+                                    "borderEdges": [
+                                        "all"
+                                    ],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            },
+                            {
+                                "colspan": 1,
+                                "column": 9,
+                                "name": "table_1",
+                                "row": 2,
+                                "rowspan": 7,
+                                "widgetStyle": {
+                                    "backgroundColor": "#FFFFFF",
+                                    "borderColor": "#7D98B3",
+                                    "borderEdges": [
+                                        "all"
+                                    ],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            },
+                            {
+                                "colspan": 9,
+                                "column": 0,
+                                "name": "chart_3",
+                                "row": 15,
+                                "rowspan": 4,
+                                "widgetStyle": {
+                                    "backgroundColor": "#FFFFFF",
+                                    "borderColor": "rgb(0, 0, 0)",
+                                    "borderEdges": [
+                                        "all"
+                                    ],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            },
+                            {
+                                "colspan": 9,
+                                "column": 0,
+                                "name": "chart_4",
+                                "row": 19,
+                                "rowspan": 4,
+                                "widgetStyle": {
+                                    "backgroundColor": "#FFFFFF",
+                                    "borderColor": "rgb(0, 0, 0)",
+                                    "borderEdges": [
+                                        "all"
+                                    ],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            },
+                            {
+                                "colspan": 9,
+                                "column": 0,
+                                "name": "chart_5",
+                                "row": 23,
+                                "rowspan": 4,
+                                "widgetStyle": {
+                                    "backgroundColor": "#FFFFFF",
+                                    "borderColor": "rgb(0, 0, 0)",
+                                    "borderEdges": [
+                                        "all"
+                                    ],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            },
+                            {
+                                "colspan": 9,
+                                "column": 0,
+                                "name": "chart_6",
+                                "row": 27,
+                                "rowspan": 4,
+                                "widgetStyle": {
+                                    "backgroundColor": "#FFFFFF",
+                                    "borderColor": "rgb(0, 0, 0)",
+                                    "borderEdges": [
+                                        "all"
+                                    ],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            },
+                            {
+                                "colspan": 9,
+                                "column": 0,
+                                "name": "chart_7",
+                                "row": 43,
+                                "rowspan": 4,
+                                "widgetStyle": {
+                                    "backgroundColor": "#FFFFFF",
+                                    "borderColor": "rgb(0, 0, 0)",
+                                    "borderEdges": [
+                                        "all"
+                                    ],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            },
+                            {
+                                "colspan": 9,
+                                "column": 0,
+                                "name": "chart_8",
+                                "row": 31,
+                                "rowspan": 4,
+                                "widgetStyle": {
+                                    "backgroundColor": "#FFFFFF",
+                                    "borderColor": "rgb(0, 0, 0)",
+                                    "borderEdges": [
+                                        "all"
+                                    ],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            },
+                            {
+                                "colspan": 9,
+                                "column": 0,
+                                "name": "chart_9",
+                                "row": 35,
+                                "rowspan": 4,
+                                "widgetStyle": {
+                                    "backgroundColor": "#FFFFFF",
+                                    "borderColor": "rgb(0, 0, 0)",
+                                    "borderEdges": [
+                                        "all"
+                                    ],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            },
+                            {
+                                "colspan": 9,
+                                "column": 0,
+                                "name": "chart_10",
+                                "row": 39,
+                                "rowspan": 4,
+                                "widgetStyle": {
+                                    "backgroundColor": "#FFFFFF",
+                                    "borderColor": "rgb(0, 0, 0)",
+                                    "borderEdges": [
+                                        "all"
+                                    ],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            },
+                            {
+                                "colspan": 9,
+                                "column": 0,
+                                "name": "chart_11",
+                                "row": 47,
+                                "rowspan": 4,
+                                "widgetStyle": {
+                                    "backgroundColor": "#FFFFFF",
+                                    "borderColor": "rgb(0, 0, 0)",
+                                    "borderEdges": [
+                                        "all"
+                                    ],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            },
+                            {
+                                "colspan": 2,
+                                "column": 7,
+                                "name": "listselector_6",
+                                "row": 1,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "backgroundColor": "#FFFFFF",
+                                    "borderColor": "#E6ECF2",
+                                    "borderEdges": [],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "rowHeight": "normal",
+                "selectors": [],
+                "style": {
+                    "alignmentX": "left",
+                    "alignmentY": "top",
+                    "backgroundColor": "#F2F6FA",
+                    "cellSpacingX": 8,
+                    "cellSpacingY": 8,
+                    "fit": "original",
+                    "gutterColor": "#C5D3E0"
+                },
+                "version": 1
+            }
+        ],
+        "layouts": [],
+        "steps": {
+            "alliance": {
+                "broadcastFacet": true,
+                "datasets": [
+                    {
+                        "id": "0Fb1E000000fxaZSAQ",
+                        "label": "POS Weekly",
+                        "name": "POS_Weekly_Emergency",
+                        "url": "/services/data/v53.0/wave/datasets/0Fb1E000000fxaZSAQ"
+                    }
+                ],
+                "isGlobal": false,
+                "label": "Alliance",
+                "query": {
+                    "pigql": " POS_Data = load \"POS_Weekly_Emergency\"; POS_Data = filter POS_Data by 'Customer' == \"Alliance\"; POS_2021 = filter POS_Data by 'Year' == {{cell(max_year.result, 0, \"max_year\").asObject()}}; POS_Final = group POS_Data by 'Date' left, POS_2021 by 'Date'; POS_Final = foreach POS_Final generate POS_2021['Date'] as 'Date',  (case when \"{{cell(Chart_Display.selection, 0, \"groupNameCompact\").asString()}}\" == \"Unit_Price\" then sum(POS_2021['Net_Sales'])/sum(POS_2021['POS_Units']) else sum(POS_2021::{{cell(Chart_Display.selection, 0, \"groupName\").asObject()}}) end) as {{cell(year_selector.selection, 0, \"second_year_proj\").asObject()}};  ",
+                    "measures": [
+                        [
+                            "count",
+                            "*",
+                            "{{cell(year_selector.selection, 0, \"second_year\").asObject()}}"
+                        ]
+                    ],
+                    "groups": [
+                        [
+                            "Date"
+                        ]
+                    ]
+                },
+                "receiveFacetSource": {
+                    "mode": "all",
+                    "steps": []
+                },
+                "selectMode": "single",
+                "start": [],
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "options": {},
+                    "parameters": {},
+                    "type": "chart",
+                    "visualizationType": "time"
+                }
+            },
+            "pronto": {
+                "broadcastFacet": true,
+                "datasets": [
+                    {
+                        "id": "0Fb1E000000fxaZSAQ",
+                        "label": "POS Weekly",
+                        "name": "POS_Weekly_Emergency",
+                        "url": "/services/data/v53.0/wave/datasets/0Fb1E000000fxaZSAQ"
+                    }
+                ],
+                "isGlobal": false,
+                "label": "Pronto",
+                "query": {
+                    "pigql": " POS_Data = load \"POS_Weekly_Emergency\"; POS_Data = filter POS_Data by 'Customer' == \"Pronto\"; POS_2021 = filter POS_Data by 'Year' == {{cell(max_year.result, 0, \"max_year\").asObject()}}; POS_Final = group POS_Data by 'Date' left, POS_2021 by 'Date'; POS_Final = foreach POS_Final generate POS_2021['Date'] as 'Date',  (case when \"{{cell(Chart_Display.selection, 0, \"groupNameCompact\").asString()}}\" == \"Unit_Price\" then sum(POS_2021['Net_Sales'])/sum(POS_2021['POS_Units']) else sum(POS_2021::{{cell(Chart_Display.selection, 0, \"groupName\").asObject()}}) end) as {{cell(year_selector.selection, 0, \"second_year_proj\").asObject()}};  ",
+                    "measures": [
+                        [
+                            "count",
+                            "*",
+                            "{{cell(year_selector.selection, 0, \"second_year\").asObject()}}"
+                        ]
+                    ],
+                    "groups": [
+                        [
+                            "Date"
+                        ]
+                    ]
+                },
+                "receiveFacetSource": {
+                    "mode": "all",
+                    "steps": []
+                },
+                "selectMode": "single",
+                "start": [],
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "options": {},
+                    "parameters": {},
+                    "type": "chart",
+                    "visualizationType": "time"
+                }
+            },
+            "carquest": {
+                "broadcastFacet": true,
+                "datasets": [
+                    {
+                        "id": "0Fb1E000000fxaZSAQ",
+                        "label": "POS Weekly",
+                        "name": "POS_Weekly_Emergency",
+                        "url": "/services/data/v53.0/wave/datasets/0Fb1E000000fxaZSAQ"
+                    }
+                ],
+                "isGlobal": false,
+                "label": "CarQuest",
+                "query": {
+                    "pigql": " POS_Data = load \"POS_Weekly_Emergency\"; POS_Data = filter POS_Data by 'Customer' == \"CarQuest\"; POS_2021 = filter POS_Data by 'Year' == {{cell(max_year.result, 0, \"max_year\").asObject()}}; POS_Final = group POS_Data by 'Date' left, POS_2021 by 'Date'; POS_Final = foreach POS_Final generate POS_2021['Date'] as 'Date',  (case when \"{{cell(Chart_Display.selection, 0, \"groupNameCompact\").asString()}}\" == \"Unit_Price\" then sum(POS_2021['Net_Sales'])/sum(POS_2021['POS_Units']) else sum(POS_2021::{{cell(Chart_Display.selection, 0, \"groupName\").asObject()}}) end) as {{cell(year_selector.selection, 0, \"second_year_proj\").asObject()}};  ",
+                    "measures": [
+                        [
+                            "count",
+                            "*",
+                            "{{cell(year_selector.selection, 0, \"second_year\").asObject()}}"
+                        ]
+                    ],
+                    "groups": [
+                        [
+                            "Date"
+                        ]
+                    ]
+                },
+                "receiveFacetSource": {
+                    "mode": "all",
+                    "steps": []
+                },
+                "selectMode": "single",
+                "start": [],
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "options": {},
+                    "parameters": {},
+                    "type": "chart",
+                    "visualizationType": "time"
+                }
+            },
+            "Date_Quarter_Custome_1": {
+                "broadcastFacet": true,
+                "datasets": [
+                    {
+                        "id": "0Fb1E000000fxaZSAQ",
+                        "label": "POS Weekly",
+                        "name": "POS_Weekly_Emergency",
+                        "url": "/services/data/v53.0/wave/datasets/0Fb1E000000fxaZSAQ"
+                    }
+                ],
+                "isGlobal": false,
+                "query": {
+                    "measures": [
+                        [
+                            "sum",
+                            "Net_Sales"
+                        ]
+                    ],
+                    "groups": [
+                        "Date_Quarter",
+                        "Customer"
+                    ]
+                },
+                "receiveFacetSource": {
+                    "mode": "all",
+                    "steps": []
+                },
+                "selectMode": "single",
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "parameters": {
+                        "showPoints": false,
+                        "legend": {
+                            "descOrder": false,
+                            "showHeader": true,
+                            "show": true,
+                            "customSize": "auto",
+                            "position": "right-top",
+                            "inside": false
+                        },
+                        "axisMode": "multi",
+                        "tooltip": {
+                            "content": {
+                                "legend": {
+                                    "showBinLabel": true,
+                                    "measures": [],
+                                    "showNullValues": true,
+                                    "customizeLegend": false,
+                                    "showPercentage": true,
+                                    "showDimensions": true,
+                                    "showMeasures": true,
+                                    "dimensions": []
+                                }
+                            }
+                        },
+                        "visualizationType": "time",
+                        "missingValue": "connect",
+                        "dashLine": {
+                            "measures": "",
+                            "showDashLine": false
+                        },
+                        "timeAxis": {
+                            "showTitle": true,
+                            "showAxis": true,
+                            "title": ""
+                        },
+                        "title": {
+                            "fontSize": 14,
+                            "subtitleFontSize": 11,
+                            "label": "",
+                            "align": "center",
+                            "subtitleLabel": ""
+                        },
+                        "trellis": {
+                            "flipLabels": false,
+                            "showGridLines": true,
+                            "size": [
+                                100,
+                                100
+                            ],
+                            "enable": false,
+                            "type": "x",
+                            "chartsPerLine": 4
+                        },
+                        "columnMap": {
+                            "split": [
+                                "Customer"
+                            ],
+                            "timeAxis": [
+                                "Date_Quarter"
+                            ],
+                            "trellis": [],
+                            "plots": [
+                                "sum_Net_Sales"
+                            ]
+                        },
+                        "fillArea": true,
+                        "showActionMenu": true,
+                        "showZero": true,
+                        "measureAxis2": {
+                            "sqrtScale": false,
+                            "showTitle": true,
+                            "showAxis": true,
+                            "title": "",
+                            "customDomain": {
+                                "showDomain": false
+                            }
+                        },
+                        "measureAxis1": {
+                            "sqrtScale": false,
+                            "showTitle": true,
+                            "showAxis": true,
+                            "title": "",
+                            "customDomain": {
+                                "showDomain": false
+                            }
+                        },
+                        "valueType": "none",
+                        "theme": "wave",
+                        "applyConditionalFormatting": true,
+                        "drawArea": {
+                            "measure": "",
+                            "showDrawArea": false,
+                            "bounding1": "",
+                            "bounding2": ""
+                        }
+                    },
+                    "type": "chart",
+                    "options": {}
+                }
+            },
+            "Category_1": {
+                "broadcastFacet": true,
+                "datasets": [
+                    {
+                        "id": "0Fb1E000000fxaZSAQ",
+                        "label": "POS Weekly",
+                        "name": "POS_Weekly_Emergency",
+                        "url": "/services/data/v53.0/wave/datasets/0Fb1E000000fxaZSAQ"
+                    }
+                ],
+                "isGlobal": false,
+                "query": {
+                    "measures": [
+                        [
+                            "count",
+                            "*"
+                        ]
+                    ],
+                    "groups": [
+                        "Category"
+                    ]
+                },
+                "receiveFacetSource": {
+                    "mode": "all",
+                    "steps": []
+                },
+                "selectMode": "multi",
+                "start": [],
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "options": {}
+                }
+            },
+            "autozone": {
+                "broadcastFacet": true,
+                "datasets": [
+                    {
+                        "id": "0Fb1E000000fxaZSAQ",
+                        "label": "POS Weekly",
+                        "name": "POS_Weekly_Emergency",
+                        "url": "/services/data/v53.0/wave/datasets/0Fb1E000000fxaZSAQ"
+                    }
+                ],
+                "isGlobal": false,
+                "label": "AutoZone",
+                "query": {
+                    "pigql": " POS_Data = load \"POS_Weekly_Emergency\"; POS_Data = filter POS_Data by 'Customer' == \"AutoZone\"; POS_2021 = filter POS_Data by 'Year' == {{cell(max_year.result, 0, \"max_year\").asObject()}}; POS_Final = group POS_Data by 'Date' left, POS_2021 by 'Date'; POS_Final = foreach POS_Final generate POS_2021['Date'] as 'Date',  (case when \"{{cell(Chart_Display.selection, 0, \"groupNameCompact\").asString()}}\" == \"Unit_Price\" then sum(POS_2021['Net_Sales'])/sum(POS_2021['POS_Units']) else sum(POS_2021::{{cell(Chart_Display.selection, 0, \"groupName\").asObject()}}) end) as {{cell(year_selector.selection, 0, \"second_year_proj\").asObject()}};  ",
+                    "measures": [
+                        [
+                            "count",
+                            "*",
+                            "{{cell(year_selector.selection, 0, \"second_year\").asObject()}}"
+                        ]
+                    ],
+                    "groups": [
+                        [
+                            "Date"
+                        ]
+                    ]
+                },
+                "receiveFacetSource": {
+                    "mode": "all",
+                    "steps": []
+                },
+                "selectMode": "single",
+                "start": [],
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "options": {},
+                    "parameters": {},
+                    "type": "chart",
+                    "visualizationType": "time"
+                }
+            },
+            "oreilly": {
+                "broadcastFacet": true,
+                "datasets": [
+                    {
+                        "id": "0Fb1E000000fxaZSAQ",
+                        "label": "POS Weekly",
+                        "name": "POS_Weekly_Emergency",
+                        "url": "/services/data/v53.0/wave/datasets/0Fb1E000000fxaZSAQ"
+                    }
+                ],
+                "isGlobal": false,
+                "label": "O'Reilly",
+                "query": {
+                    "pigql": " POS_Data = load \"POS_Weekly_Emergency\"; POS_Data = filter POS_Data by 'Customer' == \"O'Reilly\"; POS_2021 = filter POS_Data by 'Year' == {{cell(max_year.result, 0, \"max_year\").asObject()}}; POS_Final = group POS_Data by 'Date' left, POS_2021 by 'Date'; POS_Final = foreach POS_Final generate POS_2021['Date'] as 'Date',  (case when \"{{cell(Chart_Display.selection, 0, \"groupNameCompact\").asString()}}\" == \"Unit_Price\" then sum(POS_2021['Net_Sales'])/sum(POS_2021['POS_Units']) else sum(POS_2021::{{cell(Chart_Display.selection, 0, \"groupName\").asObject()}}) end) as {{cell(year_selector.selection, 0, \"second_year_proj\").asObject()}};  ",
+                    "measures": [
+                        [
+                            "count",
+                            "*",
+                            "{{cell(year_selector.selection, 0, \"second_year\").asObject()}}"
+                        ]
+                    ],
+                    "groups": [
+                        [
+                            "Date"
+                        ]
+                    ]
+                },
+                "receiveFacetSource": {
+                    "mode": "all",
+                    "steps": []
+                },
+                "selectMode": "single",
+                "start": [],
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "options": {},
+                    "parameters": {},
+                    "type": "chart",
+                    "visualizationType": "time"
+                }
+            },
+            "aap": {
+                "broadcastFacet": true,
+                "datasets": [
+                    {
+                        "id": "0Fb1E000000fxaZSAQ",
+                        "label": "POS Weekly",
+                        "name": "POS_Weekly_Emergency",
+                        "url": "/services/data/v53.0/wave/datasets/0Fb1E000000fxaZSAQ"
+                    }
+                ],
+                "isGlobal": false,
+                "label": "AAP",
+                "query": {
+                    "pigql": " POS_Data = load \"POS_Weekly_Emergency\"; POS_Data = filter POS_Data by 'Customer' == \"AAP\"; POS_2021 = filter POS_Data by 'Year' == {{cell(max_year.result, 0, \"max_year\").asObject()}}; POS_Final = group POS_Data by 'Date' left, POS_2021 by 'Date'; POS_Final = foreach POS_Final generate POS_2021['Date'] as 'Date',  (case when \"{{cell(Chart_Display.selection, 0, \"groupNameCompact\").asString()}}\" == \"Unit_Price\" then sum(POS_2021['Net_Sales'])/sum(POS_2021['POS_Units']) else sum(POS_2021::{{cell(Chart_Display.selection, 0, \"groupName\").asObject()}}) end) as {{cell(year_selector.selection, 0, \"second_year_proj\").asObject()}};  ",
+                    "measures": [
+                        [
+                            "count",
+                            "*",
+                            "{{cell(year_selector.selection, 0, \"second_year\").asObject()}}"
+                        ]
+                    ],
+                    "groups": [
+                        [
+                            "Date"
+                        ]
+                    ]
+                },
+                "receiveFacetSource": {
+                    "mode": "all",
+                    "steps": []
+                },
+                "selectMode": "single",
+                "start": [],
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "options": {},
+                    "parameters": {},
+                    "type": "chart",
+                    "visualizationType": "time"
+                }
+            },
+            "federated": {
+                "broadcastFacet": true,
+                "datasets": [
+                    {
+                        "id": "0Fb1E000000fxaZSAQ",
+                        "label": "POS Weekly",
+                        "name": "POS_Weekly_Emergency",
+                        "url": "/services/data/v53.0/wave/datasets/0Fb1E000000fxaZSAQ"
+                    }
+                ],
+                "isGlobal": false,
+                "label": "Federated",
+                "query": {
+                    "pigql": " POS_Data = load \"POS_Weekly_Emergency\"; POS_Data = filter POS_Data by 'Customer' == \"Federated\"; POS_2021 = filter POS_Data by 'Year' == {{cell(max_year.result, 0, \"max_year\").asObject()}}; POS_Final = group POS_Data by 'Date' left, POS_2021 by 'Date'; POS_Final = foreach POS_Final generate POS_2021['Date'] as 'Date',  (case when \"{{cell(Chart_Display.selection, 0, \"groupNameCompact\").asString()}}\" == \"Unit_Price\" then sum(POS_2021['Net_Sales'])/sum(POS_2021['POS_Units']) else sum(POS_2021::{{cell(Chart_Display.selection, 0, \"groupName\").asObject()}}) end) as {{cell(year_selector.selection, 0, \"second_year_proj\").asObject()}};  ",
+                    "measures": [
+                        [
+                            "count",
+                            "*",
+                            "{{cell(year_selector.selection, 0, \"second_year\").asObject()}}"
+                        ]
+                    ],
+                    "groups": [
+                        [
+                            "Date"
+                        ]
+                    ]
+                },
+                "receiveFacetSource": {
+                    "mode": "all",
+                    "steps": []
+                },
+                "selectMode": "single",
+                "start": [],
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "options": {},
+                    "parameters": {},
+                    "type": "chart",
+                    "visualizationType": "time"
+                }
+            },
+            "Part_1": {
+                "broadcastFacet": true,
+                "datasets": [
+                    {
+                        "id": "0Fb1E000000fxaZSAQ",
+                        "label": "POS Weekly",
+                        "name": "POS_Weekly_Emergency",
+                        "url": "/services/data/v53.0/wave/datasets/0Fb1E000000fxaZSAQ"
+                    }
+                ],
+                "isGlobal": false,
+                "query": {
+                    "measures": [
+                        [
+                            "count",
+                            "*"
+                        ]
+                    ],
+                    "groups": [
+                        "Part"
+                    ]
+                },
+                "receiveFacetSource": {
+                    "mode": "all",
+                    "steps": []
+                },
+                "selectMode": "multi",
+                "start": [],
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "options": {}
+                }
+            },
+            "Product_Line_1": {
+                "broadcastFacet": true,
+                "datasets": [
+                    {
+                        "id": "0Fb1E000000fxaZSAQ",
+                        "label": "POS Weekly",
+                        "name": "POS_Weekly_Emergency",
+                        "url": "/services/data/v53.0/wave/datasets/0Fb1E000000fxaZSAQ"
+                    }
+                ],
+                "isGlobal": false,
+                "query": {
+                    "measures": [
+                        [
+                            "count",
+                            "*"
+                        ]
+                    ],
+                    "groups": [
+                        "Product_Line"
+                    ]
+                },
+                "receiveFacetSource": {
+                    "mode": "all",
+                    "steps": []
+                },
+                "selectMode": "multi",
+                "start": [],
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "options": {}
+                }
+            },
+            "all_1": {
+                "broadcastFacet": true,
+                "datasets": [
+                    {
+                        "id": "0Fb1E000000fxaZSAQ",
+                        "label": "POS Weekly",
+                        "name": "POS_Weekly_Emergency",
+                        "url": "/services/data/v53.0/wave/datasets/0Fb1E000000fxaZSAQ"
+                    }
+                ],
+                "isGlobal": false,
+                "label": "Main Chart",
+                "query": {
+                    "pigql": " POS_Data = load \"POS_Weekly_Emergency\"; POS_2019 = filter POS_Data by 'Year' == 2019; POS_2021 = filter POS_Data by 'Year' == {{cell(max_year.result, 0, \"max_year\").asObject()}}; POS_Final = group POS_Data by Date left, POS_2021 by Date left, POS_2019 by Date; POS_Final = foreach POS_Final generate POS_2021['Date'] as 'Date', sum(POS_2021::{{cell(Chart_Display.selection, 0, \"groupName\").asObject()}}) as '2021', sum(POS_2019::{{cell(Chart_Display.selection, 0, \"groupName\").asObject()}}) as '2019';  ",
+                    "measures": [
+                        [
+                            "count",
+                            "*",
+                            "2021"
+                        ],
+                        [
+                            "count",
+                            "*",
+                            "2019"
+                        ]
+                    ],
+                    "groups": [
+                        "Date"
+                    ]
+                },
+                "receiveFacetSource": {
+                    "mode": "all",
+                    "steps": []
+                },
+                "selectMode": "single",
+                "start": [],
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "options": {},
+                    "parameters": {},
+                    "type": "chart",
+                    "visualizationType": "time"
+                }
+            },
+            "Product_Group_1": {
+                "broadcastFacet": true,
+                "datasets": [
+                    {
+                        "id": "0Fb1E000000fxaZSAQ",
+                        "label": "POS Weekly",
+                        "name": "POS_Weekly_Emergency",
+                        "url": "/services/data/v53.0/wave/datasets/0Fb1E000000fxaZSAQ"
+                    }
+                ],
+                "isGlobal": false,
+                "query": {
+                    "measures": [
+                        [
+                            "count",
+                            "*"
+                        ]
+                    ],
+                    "groups": [
+                        "Product_Group"
+                    ]
+                },
+                "receiveFacetSource": {
+                    "mode": "all",
+                    "steps": []
+                },
+                "selectMode": "multi",
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "options": {}
+                }
+            },
+            "all_2": {
+                "broadcastFacet": true,
+                "datasets": [
+                    {
+                        "id": "0Fb1E000000fxaZSAQ",
+                        "label": "POS Weekly",
+                        "name": "POS_Weekly_Emergency",
+                        "url": "/services/data/v53.0/wave/datasets/0Fb1E000000fxaZSAQ"
+                    }
+                ],
+                "isGlobal": false,
+                "label": "Customer List",
+                "query": {
+                    "pigql": " POS_Data = load \"POS_Weekly_Emergency\"; POS_Data = group POS_Data by 'Customer'; POS_Data = foreach POS_Data generate 'Customer' as 'Customer'  ",
+                    "measures": [
+                        [
+                            "count",
+                            "*",
+                            "Customer"
+                        ]
+                    ]
+                },
+                "receiveFacetSource": {
+                    "mode": "all",
+                    "steps": []
+                },
+                "selectMode": "single",
+                "start": [],
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "options": {},
+                    "parameters": {},
+                    "type": "chart",
+                    "visualizationType": "time"
+                }
+            },
+            "Chart_Display": {
+                "broadcastFacet": true,
+                "columns": {},
+                "isGlobal": false,
+                "selectMode": "singlerequired",
+                "start": {
+                    "display": [
+                        "POS Units"
+                    ]
+                },
+                "type": "staticflex",
+                "useGlobal": false,
+                "values": [
+                    {
+                        "display": "Net Sales",
+                        "displayPlural": "Net_Sales",
+                        "groupNameProject": "'Net_Sales' as 'Net_Sales'",
+                        "groupName": "Net_Sales",
+                        "groupNameAlias": "'Net_Sales'",
+                        "groupNameCompact": "Net_Sales"
+                    },
+                    {
+                        "display": "POS Units",
+                        "displayPlural": "POS_Units",
+                        "groupNameProject": "'POS_Units' as 'POS_Units'",
+                        "groupName": "POS_Units",
+                        "groupNameAlias": "'POS_Units'",
+                        "groupNameCompact": "POS_Units"
+                    }
+                ],
+                "numbers": [],
+                "strings": [],
+                "groups": []
+            },
+            "Customer_1": {
+                "broadcastFacet": true,
+                "datasets": [
+                    {
+                        "id": "0Fb1E000000fxaZSAQ",
+                        "label": "POS Weekly",
+                        "name": "POS_Weekly_Emergency",
+                        "url": "/services/data/v53.0/wave/datasets/0Fb1E000000fxaZSAQ"
+                    }
+                ],
+                "isGlobal": false,
+                "query": {
+                    "measures": [
+                        [
+                            "count",
+                            "*"
+                        ]
+                    ],
+                    "groups": [
+                        "Customer"
+                    ]
+                },
+                "receiveFacetSource": {
+                    "mode": "all",
+                    "steps": []
+                },
+                "selectMode": "multi",
+                "start": [
+                    "AAP",
+                    "ADN",
+                    "Alliance",
+                    "AutoPlus",
+                    "AutoZone",
+                    "Federated",
+                    "O'Reilly",
+                    "Pronto",
+                    "Amazon",
+                    "CarQuest"
+                ],
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "options": {}
+                }
+            },
+            "auto_plus": {
+                "broadcastFacet": true,
+                "datasets": [
+                    {
+                        "id": "0Fb1E000000fxaZSAQ",
+                        "label": "POS Weekly",
+                        "name": "POS_Weekly_Emergency",
+                        "url": "/services/data/v53.0/wave/datasets/0Fb1E000000fxaZSAQ"
+                    }
+                ],
+                "isGlobal": false,
+                "label": "AutoPlus",
+                "query": {
+                    "pigql": " POS_Data = load \"POS_Weekly_Emergency\"; POS_Data = filter POS_Data by 'Customer' == \"AutoPlus\"; POS_2021 = filter POS_Data by 'Year' == {{cell(max_year.result, 0, \"max_year\").asObject()}}; POS_Final = group POS_Data by 'Date' left, POS_2021 by 'Date'; POS_Final = foreach POS_Final generate POS_2021['Date'] as 'Date',  (case when \"{{cell(Chart_Display.selection, 0, \"groupNameCompact\").asString()}}\" == \"Unit_Price\" then sum(POS_2021['Net_Sales'])/sum(POS_2021['POS_Units']) else sum(POS_2021::{{cell(Chart_Display.selection, 0, \"groupName\").asObject()}}) end) as {{cell(year_selector.selection, 0, \"second_year_proj\").asObject()}};  ",
+                    "measures": [
+                        [
+                            "count",
+                            "*",
+                            "{{cell(year_selector.selection, 0, \"second_year\").asObject()}}"
+                        ]
+                    ],
+                    "groups": [
+                        [
+                            "Date"
+                        ]
+                    ]
+                },
+                "receiveFacetSource": {
+                    "mode": "all",
+                    "steps": []
+                },
+                "selectMode": "single",
+                "start": [],
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "options": {},
+                    "parameters": {},
+                    "type": "chart",
+                    "visualizationType": "time"
+                }
+            },
+            "adn": {
+                "broadcastFacet": true,
+                "datasets": [
+                    {
+                        "id": "0Fb1E000000fxaZSAQ",
+                        "label": "POS Weekly",
+                        "name": "POS_Weekly_Emergency",
+                        "url": "/services/data/v53.0/wave/datasets/0Fb1E000000fxaZSAQ"
+                    }
+                ],
+                "isGlobal": false,
+                "label": "ADN",
+                "query": {
+                    "pigql": " POS_Data = load \"POS_Weekly_Emergency\"; POS_Data = filter POS_Data by 'Customer' == \"ADN\"; POS_2021 = filter POS_Data by 'Year' == {{cell(max_year.result, 0, \"max_year\").asObject()}}; POS_Final = group POS_Data by 'Date' left, POS_2021 by 'Date'; POS_Final = foreach POS_Final generate POS_2021['Date'] as 'Date',  (case when \"{{cell(Chart_Display.selection, 0, \"groupNameCompact\").asString()}}\" == \"Unit_Price\" then sum(POS_2021['Net_Sales'])/sum(POS_2021['POS_Units']) else sum(POS_2021::{{cell(Chart_Display.selection, 0, \"groupName\").asObject()}}) end) as {{cell(year_selector.selection, 0, \"second_year_proj\").asObject()}};  ",
+                    "measures": [
+                        [
+                            "count",
+                            "*",
+                            "{{cell(year_selector.selection, 0, \"second_year\").asObject()}}"
+                        ]
+                    ],
+                    "groups": [
+                        [
+                            "Date"
+                        ]
+                    ]
+                },
+                "receiveFacetSource": {
+                    "mode": "all",
+                    "steps": []
+                },
+                "selectMode": "single",
+                "start": [],
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "options": {},
+                    "parameters": {},
+                    "type": "chart",
+                    "visualizationType": "time"
+                }
+            },
+            "year_selector": {
+                "broadcastFacet": true,
+                "columns": {},
+                "isGlobal": false,
+                "selectMode": "singlerequired",
+                "start": {
+                    "display": [
+                        "2019/2021"
+                    ]
+                },
+                "type": "staticflex",
+                "useGlobal": false,
+                "values": [
+                    {
+                        "display": "2018/2019",
+                        "first_year": "2018",
+                        "first_year_proj": "'2018'",
+                        "second_year": "2019",
+                        "second_year_proj": "'2019'"
+                    },
+                    {
+                        "display": "2019/2021",
+                        "first_year": "2019",
+                        "first_year_proj": "'2019'",
+                        "second_year": "2021",
+                        "second_year_proj": "'2021'"
+                    }
+                ],
+                "numbers": [],
+                "strings": [],
+                "groups": []
+            },
+            "max_year": {
+                "broadcastFacet": true,
+                "datasets": [
+                    {
+                        "id": "0Fb1E000000fxaZSAQ",
+                        "label": "POS Weekly",
+                        "name": "POS_Weekly_Emergency",
+                        "url": "/services/data/v53.0/wave/datasets/0Fb1E000000fxaZSAQ"
+                    }
+                ],
+                "isGlobal": false,
+                "label": "max_year",
+                "query": {
+                    "pigql": " POS_Data = load \"POS_Weekly_Emergency\"; POS_Data = group POS_Data by all; POS_Data = foreach POS_Data generate max('Year') as 'max_year'",
+                    "measures": [
+                        [
+                            "count",
+                            "*",
+                            "max_year"
+                        ]
+                    ]
+                },
+                "receiveFacetSource": {
+                    "mode": "all",
+                    "steps": []
+                },
+                "selectMode": "single",
+                "start": [],
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "options": {},
+                    "parameters": {},
+                    "type": "chart",
+                    "visualizationType": "time"
+                }
+            },
+            "amazon": {
+                "broadcastFacet": true,
+                "datasets": [
+                    {
+                        "id": "0Fb1E000000fxaZSAQ",
+                        "label": "POS Weekly",
+                        "name": "POS_Weekly_Emergency",
+                        "url": "/services/data/v53.0/wave/datasets/0Fb1E000000fxaZSAQ"
+                    }
+                ],
+                "isGlobal": false,
+                "label": "Amazon",
+                "query": {
+                    "pigql": " POS_Data = load \"POS_Weekly_Emergency\"; POS_Data = filter POS_Data by 'Customer' == \"Amazon\"; POS_2021 = filter POS_Data by 'Year' == {{cell(max_year.result, 0, \"max_year\").asObject()}}; POS_Final = group POS_Data by 'Date' left, POS_2021 by 'Date'; POS_Final = foreach POS_Final generate POS_2021['Date'] as 'Date',  (case when \"{{cell(Chart_Display.selection, 0, \"groupNameCompact\").asString()}}\" == \"Unit_Price\" then sum(POS_2021['Net_Sales'])/sum(POS_2021['POS_Units']) else sum(POS_2021::{{cell(Chart_Display.selection, 0, \"groupName\").asObject()}}) end) as {{cell(year_selector.selection, 0, \"second_year_proj\").asObject()}};  ",
+                    "measures": [
+                        [
+                            "count",
+                            "*",
+                            "{{cell(year_selector.selection, 0, \"second_year\").asObject()}}"
+                        ]
+                    ],
+                    "groups": [
+                        [
+                            "Date"
+                        ]
+                    ]
+                },
+                "receiveFacetSource": {
+                    "mode": "all",
+                    "steps": []
+                },
+                "selectMode": "single",
+                "start": [],
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "options": {},
+                    "parameters": {},
+                    "type": "chart",
+                    "visualizationType": "time"
+                }
+            },
+            "static_4": {
+                "broadcastFacet": true,
+                "columns": {},
+                "isGlobal": false,
+                "selectMode": "singlerequired",
+                "start": {
+                    "display": [
+                        "AAP"
+                    ]
+                },
+                "type": "staticflex",
+                "useGlobal": false,
+                "values": [
+                    {
+                        "display": "AAP",
+                        "displayPlural": "AAP",
+                        "groupNameProject": "'AAP' as 'AAP'",
+                        "groupName": "AAP",
+                        "groupNameAlias": "'AAP'",
+                        "groupNameCompact": "Customer 1"
+                    },
+                    {
+                        "display": "ADN",
+                        "displayPlural": "ADN",
+                        "groupNameProject": "'ADN' as 'ADN'",
+                        "groupName": "ADN",
+                        "groupNameAlias": "'ADN'",
+                        "groupNameCompact": "Customer 2"
+                    },
+                    {
+                        "display": "Alliance",
+                        "displayPlural": "Alliance",
+                        "groupNameProject": "'Alliance' as 'Alliance'",
+                        "groupName": "Alliance",
+                        "groupNameAlias": "'Alliance'",
+                        "groupNameCompact": "Customer 3"
+                    },
+                    {
+                        "display": "AutoPlus",
+                        "displayPlural": "AutoPlus",
+                        "groupNameProject": "'AutoPlus' as 'AutoPlus'",
+                        "groupName": "AutoPlus",
+                        "groupNameAlias": "'AutoPlus'",
+                        "groupNameCompact": "Customer 4"
+                    },
+                    {
+                        "display": "AutoZone",
+                        "displayPlural": "AutoZone",
+                        "groupNameProject": "'AutoZone' as 'AutoZone'",
+                        "groupName": "AutoZone",
+                        "groupNameAlias": "'AutoZone'",
+                        "groupNameCompact": "Customer 5"
+                    },
+                    {
+                        "display": "CarQuest",
+                        "displayPlural": "CarQuest",
+                        "groupNameProject": "'CarQuest' as 'CarQuest'",
+                        "groupName": "CarQuest",
+                        "groupNameAlias": "'CarQuest'",
+                        "groupNameCompact": "Customer 6"
+                    },
+                    {
+                        "display": "Federated",
+                        "displayPlural": "Federated",
+                        "groupNameProject": "'Federated' as 'Federated'",
+                        "groupName": "Federated",
+                        "groupNameAlias": "'Federated'",
+                        "groupNameCompact": "Customer 7"
+                    },
+                    {
+                        "display": "NAPA",
+                        "displayPlural": "NAPA",
+                        "groupNameProject": "'NAPA' as 'NAPA'",
+                        "groupName": "NAPA",
+                        "groupNameAlias": "'NAPA'",
+                        "groupNameCompact": "Customer 8"
+                    },
+                    {
+                        "display": "O'Reilly",
+                        "displayPlural": "O'Reilly",
+                        "groupNameProject": "'O'Reilly' as 'O'Reilly'",
+                        "groupName": "O'Reilly",
+                        "groupNameAlias": "'O'Reilly'",
+                        "groupNameCompact": "Customer 9"
+                    },
+                    {
+                        "display": "Pronto",
+                        "displayPlural": "Pronto",
+                        "groupNameProject": "'Pronto' as 'Pronto'",
+                        "groupName": "Pronto",
+                        "groupNameAlias": "'Pronto'",
+                        "groupNameCompact": "Customer 10"
+                    },
+                    {
+                        "display": "Uni-Select CDN",
+                        "displayPlural": "Uni-Select CDN",
+                        "groupNameProject": "'Uni-Select CDN' as 'Uni-Select CDN'",
+                        "groupName": "Uni-Select CDN",
+                        "groupNameAlias": "'Uni-Select CDN'",
+                        "groupNameCompact": "Customer 11"
+                    }
+                ],
+                "numbers": [],
+                "strings": [],
+                "groups": []
+            },
+            "static_3": {
+                "broadcastFacet": true,
+                "columns": {},
+                "isGlobal": false,
+                "selectMode": "singlerequired",
+                "start": {
+                    "display": [
+                        "Unmasked"
+                    ]
+                },
+                "type": "staticflex",
+                "useGlobal": false,
+                "values": [
+                    {
+                        "display": "Unmasked",
+                        "displayPlural": "Unmasked",
+                        "groupNameProject": "'Unmasked' as 'Unmasked'",
+                        "groupName": "Unmasked",
+                        "groupNameAlias": "'Unmasked'",
+                        "groupNameCompact": "Customer"
+                    },
+                    {
+                        "display": "Masked",
+                        "displayPlural": "Masked",
+                        "groupNameProject": "'Masked' as 'Masked'",
+                        "groupName": "Masked",
+                        "groupNameAlias": "'Masked'",
+                        "groupNameCompact": "Masked_Customer"
+                    }
+                ],
+                "numbers": [],
+                "strings": [],
+                "groups": []
+            },
+            "static_2": {
+                "broadcastFacet": true,
+                "columns": {},
+                "isGlobal": false,
+                "selectMode": "singlerequired",
+                "start": {
+                    "display": [
+                        "Quarterly"
+                    ]
+                },
+                "type": "staticflex",
+                "useGlobal": false,
+                "values": [
+                    {
+                        "display": "Units",
+                        "displayPlural": "Units",
+                        "groupNameProject": "'Units' as 'Units'",
+                        "groupName": "Units",
+                        "groupNameAlias": "'Units'",
+                        "groupNameCompact": "Units"
+                    },
+                    {
+                        "display": "Percentage",
+                        "displayPlural": "Percentage",
+                        "groupNameProject": "'Percentage' as 'Percentage'",
+                        "groupName": "Percentage",
+                        "groupNameAlias": "'Percentage'",
+                        "groupNameCompact": "Percentage"
+                    }
+                ],
+                "numbers": [],
+                "strings": [],
+                "groups": []
+            },
+            "static_1": {
+                "broadcastFacet": true,
+                "columns": {},
+                "isGlobal": false,
+                "selectMode": "singlerequired",
+                "start": {
+                    "display": [
+                        "Weekly"
+                    ]
+                },
+                "type": "staticflex",
+                "useGlobal": false,
+                "values": [
+                    {
+                        "display": "Quarterly",
+                        "displayPlural": "Quarterly",
+                        "groupNameProject": "'Date_Quarter' as 'Date_Quarter'",
+                        "groupName": "Date_Quarter",
+                        "groupNameAlias": "'Date_Quarter'",
+                        "groupNameCompact": "Date_Quarter"
+                    },
+                    {
+                        "display": "Monthly",
+                        "displayPlural": "Monthly",
+                        "groupNameProject": "'Date_Month' as 'Date_Month'",
+                        "groupName": "Date_Month",
+                        "groupNameAlias": "'Date_Month'",
+                        "groupNameCompact": "Date_Month"
+                    },
+                    {
+                        "display": "Weekly",
+                        "displayPlural": "Weekly",
+                        "groupNameProject": "'Date_Week' as 'Date_Week'",
+                        "groupName": "Date_Week",
+                        "groupNameAlias": "'Date_Week'",
+                        "groupNameCompact": "Date_Week"
+                    }
+                ],
+                "numbers": [],
+                "strings": [],
+                "groups": []
+            },
+            "Category_Manager_1": {
+                "broadcastFacet": true,
+                "datasets": [
+                    {
+                        "id": "0Fb1E000000fxaZSAQ",
+                        "label": "POS Weekly",
+                        "name": "POS_Weekly_Emergency",
+                        "url": "/services/data/v53.0/wave/datasets/0Fb1E000000fxaZSAQ"
+                    }
+                ],
+                "isGlobal": false,
+                "query": {
+                    "measures": [
+                        [
+                            "count",
+                            "*"
+                        ]
+                    ],
+                    "groups": [
+                        "Category_Manager"
+                    ]
+                },
+                "receiveFacetSource": {
+                    "mode": "all",
+                    "steps": []
+                },
+                "selectMode": "multi",
+                "start": [],
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "options": {}
+                }
+            }
+        },
+        "widgetStyle": {
+            "backgroundColor": "#FFFFFF",
+            "borderColor": "#E6ECF2",
+            "borderEdges": [],
+            "borderRadius": 0,
+            "borderWidth": 1
+        },
+        "widgets": {
+            "listselector_6": {
+                "parameters": {
+                    "compact": false,
+                    "displayMode": "combo",
+                    "exploreLink": false,
+                    "filterStyle": {
+                        "titleColor": "#091A3E",
+                        "valueColor": "#091A3E"
+                    },
+                    "instant": true,
+                    "measureField": "count",
+                    "showActionMenu": false,
+                    "step": "Product_Group_1",
+                    "title": "Product Group"
+                },
+                "type": "listselector"
+            },
+            "listselector_3": {
+                "parameters": {
+                    "compact": false,
+                    "displayMode": "combo",
+                    "exploreLink": false,
+                    "filterStyle": {
+                        "titleColor": "#091A3E",
+                        "valueColor": "#17324D"
+                    },
+                    "instant": true,
+                    "measureField": "count",
+                    "showActionMenu": false,
+                    "step": "Category_Manager_1",
+                    "title": "Category Manager"
+                },
+                "type": "listselector"
+            },
+            "listselector_2": {
+                "parameters": {
+                    "compact": false,
+                    "displayMode": "combo",
+                    "exploreLink": false,
+                    "filterStyle": {
+                        "titleColor": "#091A3E",
+                        "valueColor": "#17324D"
+                    },
+                    "instant": true,
+                    "measureField": "count",
+                    "showActionMenu": false,
+                    "step": "Part_1",
+                    "title": "Part"
+                },
+                "type": "listselector"
+            },
+            "listselector_5": {
+                "parameters": {
+                    "compact": false,
+                    "displayMode": "combo",
+                    "exploreLink": false,
+                    "filterStyle": {
+                        "titleColor": "#091A3E",
+                        "valueColor": "#17324D"
+                    },
+                    "instant": true,
+                    "measureField": "count",
+                    "showActionMenu": false,
+                    "step": "Product_Line_1",
+                    "title": "Product Line"
+                },
+                "type": "listselector"
+            },
+            "text_1": {
+                "parameters": {
+                    "content": {
+                        "richTextContent": [
+                            {
+                                "attributes": {
+                                    "size": "20px",
+                                    "color": "#091A3E"
+                                },
+                                "insert": "Uni-Select CDN POS does not report Unit Sales. Alliance, Federated and Pronto do not report Dollar Sales."
+                            },
+                            {
+                                "attributes": {
+                                    "align": "center"
+                                },
+                                "insert": "\n"
+                            }
+                        ]
+                    },
+                    "showActionMenu": false
+                },
+                "type": "text"
+            },
+            "listselector_4": {
+                "parameters": {
+                    "compact": false,
+                    "displayMode": "combo",
+                    "exploreLink": false,
+                    "filterStyle": {
+                        "titleColor": "#091A3E",
+                        "valueColor": "#17324D"
+                    },
+                    "instant": true,
+                    "measureField": "count",
+                    "showActionMenu": false,
+                    "step": "Category_1",
+                    "title": "Category"
+                },
+                "type": "listselector"
+            },
+            "table_1": {
+                "parameters": {
+                    "borderColor": "#e0e5ee",
+                    "borderWidth": 1,
+                    "cell": {
+                        "backgroundColor": "#ffffff",
+                        "fontColor": "rgb(0, 0, 0)",
+                        "fontSize": 14
+                    },
+                    "columnProperties": {},
+                    "columns": [],
+                    "customBulkActions": [],
+                    "exploreLink": true,
+                    "header": {
+                        "backgroundColor": "rgb(0, 0, 255)",
+                        "fontColor": "#FFFFFF",
+                        "fontSize": 16
+                    },
+                    "innerMajorBorderColor": "#a8b7c7",
+                    "innerMinorBorderColor": "#e0e5ee",
+                    "mode": "fittocontainer",
+                    "numberOfLines": 1,
+                    "showActionMenu": true,
+                    "showRowIndexColumn": false,
+                    "step": "all_2",
+                    "totals": true,
+                    "verticalPadding": 4,
+                    "evenRowColor": null,
+                    "oddRowColor": null
+                },
+                "type": "table"
+            },
+            "container_1": {
+                "parameters": {
+                    "alignmentX": "left",
+                    "alignmentY": "top",
+                    "fit": "original"
+                },
+                "type": "container"
+            },
+            "pillbox_2": {
+                "parameters": {
+                    "compact": false,
+                    "exploreLink": false,
+                    "fontSize": 16,
+                    "selectedTab": {
+                        "backgroundColor": "#677A97",
+                        "borderColor": "#C6D3E1",
+                        "borderEdges": [],
+                        "borderWidth": 1,
+                        "textColor": "#FFFFFF"
+                    },
+                    "showActionMenu": false,
+                    "step": "Chart_Display",
+                    "textColor": "#5C7A99"
+                },
+                "type": "pillbox"
+            },
+            "chart_9": {
+                "parameters": {
+                    "autoFitMode": "keepLabels",
+                    "showPoints": true,
+                    "legend": {
+                        "descOrder": false,
+                        "showHeader": true,
+                        "show": false,
+                        "customSize": "auto",
+                        "position": "right-top",
+                        "inside": false
+                    },
+                    "axisMode": "sync",
+                    "tooltip": {
+                        "content": {
+                            "legend": {
+                                "showBinLabel": true,
+                                "measures": [],
+                                "showNullValues": true,
+                                "customizeLegend": false,
+                                "showPercentage": true,
+                                "showDimensions": true,
+                                "showMeasures": true,
+                                "dimensions": []
+                            }
+                        }
+                    },
+                    "missingValue": "connect",
+                    "visualizationType": "time",
+                    "dashLine": {
+                        "measures": "",
+                        "showDashLine": false
+                    },
+                    "exploreLink": true,
+                    "timeAxis": {
+                        "showTitle": true,
+                        "showAxis": true,
+                        "title": ""
+                    },
+                    "title": {
+                        "fontSize": 14,
+                        "subtitleFontSize": 11,
+                        "label": "Weekly POS 2021 O'Reilly",
+                        "align": "center",
+                        "subtitleLabel": "{{cell(Chart_Display.selection, 0, \"display\").asObject()}}"
+                    },
+                    "trellis": {
+                        "flipLabels": false,
+                        "showGridLines": true,
+                        "size": [
+                            100,
+                            100
+                        ],
+                        "enable": false,
+                        "type": "x",
+                        "chartsPerLine": 4
+                    },
+                    "fillArea": true,
+                    "showActionMenu": true,
+                    "showZero": false,
+                    "measureAxis2": {
+                        "sqrtScale": false,
+                        "showTitle": true,
+                        "showAxis": true,
+                        "title": "",
+                        "customDomain": {
+                            "showDomain": false
+                        }
+                    },
+                    "measureAxis1": {
+                        "sqrtScale": false,
+                        "showTitle": false,
+                        "showAxis": true,
+                        "title": "",
+                        "customDomain": {
+                            "showDomain": false
+                        }
+                    },
+                    "valueType": "compactNumber",
+                    "theme": "wave",
+                    "step": "oreilly",
+                    "applyConditionalFormatting": true,
+                    "dimensionAxis": {
+                        "icons": {
+                            "useIcons": false,
+                            "iconProps": {
+                                "fit": "cover",
+                                "column": "",
+                                "type": "round"
+                            }
+                        }
+                    },
+                    "drawArea": {
+                        "measure": "",
+                        "showDrawArea": false,
+                        "bounding1": "",
+                        "bounding2": ""
+                    }
+                },
+                "type": "chart"
+            },
+            "image_1": {
+                "parameters": {
+                    "alignmentX": "left",
+                    "alignmentY": "top",
+                    "fit": "original",
+                    "image": {
+                        "name": "Delphi_Logopng2",
+                        "namespace": ""
+                    }
+                },
+                "type": "image"
+            },
+            "chart_6": {
+                "parameters": {
+                    "autoFitMode": "keepLabels",
+                    "showPoints": true,
+                    "legend": {
+                        "descOrder": false,
+                        "showHeader": true,
+                        "show": false,
+                        "customSize": "auto",
+                        "position": "right-top",
+                        "inside": false
+                    },
+                    "axisMode": "sync",
+                    "tooltip": {
+                        "content": {
+                            "legend": {
+                                "showBinLabel": true,
+                                "measures": [],
+                                "showNullValues": true,
+                                "customizeLegend": false,
+                                "showPercentage": true,
+                                "showDimensions": true,
+                                "showMeasures": true,
+                                "dimensions": []
+                            }
+                        }
+                    },
+                    "missingValue": "connect",
+                    "visualizationType": "time",
+                    "dashLine": {
+                        "measures": "",
+                        "showDashLine": false
+                    },
+                    "exploreLink": true,
+                    "timeAxis": {
+                        "showTitle": true,
+                        "showAxis": true,
+                        "title": ""
+                    },
+                    "title": {
+                        "fontSize": 14,
+                        "subtitleFontSize": 11,
+                        "label": "Weekly POS 2021 AutoZone",
+                        "align": "center",
+                        "subtitleLabel": "{{cell(Chart_Display.selection, 0, \"display\").asObject()}}"
+                    },
+                    "trellis": {
+                        "flipLabels": false,
+                        "showGridLines": true,
+                        "size": [
+                            100,
+                            100
+                        ],
+                        "enable": false,
+                        "type": "x",
+                        "chartsPerLine": 4
+                    },
+                    "fillArea": true,
+                    "showActionMenu": true,
+                    "showZero": false,
+                    "measureAxis2": {
+                        "sqrtScale": false,
+                        "showTitle": true,
+                        "showAxis": true,
+                        "title": "",
+                        "customDomain": {
+                            "showDomain": false
+                        }
+                    },
+                    "measureAxis1": {
+                        "sqrtScale": false,
+                        "showTitle": false,
+                        "showAxis": true,
+                        "title": "",
+                        "customDomain": {
+                            "showDomain": false
+                        }
+                    },
+                    "valueType": "compactNumber",
+                    "theme": "wave",
+                    "step": "autozone",
+                    "applyConditionalFormatting": true,
+                    "dimensionAxis": {
+                        "icons": {
+                            "useIcons": false,
+                            "iconProps": {
+                                "fit": "cover",
+                                "column": "",
+                                "type": "round"
+                            }
+                        }
+                    },
+                    "drawArea": {
+                        "measure": "",
+                        "showDrawArea": false,
+                        "bounding1": "",
+                        "bounding2": ""
+                    }
+                },
+                "type": "chart"
+            },
+            "chart_5": {
+                "parameters": {
+                    "autoFitMode": "keepLabels",
+                    "showPoints": true,
+                    "legend": {
+                        "descOrder": false,
+                        "showHeader": true,
+                        "show": false,
+                        "customSize": "auto",
+                        "position": "right-top",
+                        "inside": false
+                    },
+                    "axisMode": "sync",
+                    "tooltip": {
+                        "content": {
+                            "legend": {
+                                "showBinLabel": true,
+                                "measures": [],
+                                "showNullValues": true,
+                                "customizeLegend": false,
+                                "showPercentage": true,
+                                "showDimensions": true,
+                                "showMeasures": true,
+                                "dimensions": []
+                            }
+                        }
+                    },
+                    "missingValue": "connect",
+                    "visualizationType": "time",
+                    "dashLine": {
+                        "measures": "",
+                        "showDashLine": false
+                    },
+                    "exploreLink": true,
+                    "timeAxis": {
+                        "showTitle": true,
+                        "showAxis": true,
+                        "title": ""
+                    },
+                    "title": {
+                        "fontSize": 14,
+                        "subtitleFontSize": 11,
+                        "label": "Weekly POS 2021 AutoPlus",
+                        "align": "center",
+                        "subtitleLabel": "{{cell(Chart_Display.selection, 0, \"display\").asObject()}}"
+                    },
+                    "trellis": {
+                        "flipLabels": false,
+                        "showGridLines": true,
+                        "size": [
+                            100,
+                            100
+                        ],
+                        "enable": false,
+                        "type": "x",
+                        "chartsPerLine": 4
+                    },
+                    "fillArea": true,
+                    "showActionMenu": true,
+                    "showZero": false,
+                    "measureAxis2": {
+                        "sqrtScale": false,
+                        "showTitle": true,
+                        "showAxis": true,
+                        "title": "",
+                        "customDomain": {
+                            "showDomain": false
+                        }
+                    },
+                    "measureAxis1": {
+                        "sqrtScale": false,
+                        "showTitle": false,
+                        "showAxis": true,
+                        "title": "",
+                        "customDomain": {
+                            "showDomain": false
+                        }
+                    },
+                    "valueType": "compactNumber",
+                    "theme": "wave",
+                    "step": "auto_plus",
+                    "applyConditionalFormatting": true,
+                    "dimensionAxis": {
+                        "icons": {
+                            "useIcons": false,
+                            "iconProps": {
+                                "fit": "cover",
+                                "column": "",
+                                "type": "round"
+                            }
+                        }
+                    },
+                    "drawArea": {
+                        "measure": "",
+                        "showDrawArea": false,
+                        "bounding1": "",
+                        "bounding2": ""
+                    }
+                },
+                "type": "chart"
+            },
+            "listselector_1": {
+                "parameters": {
+                    "compact": false,
+                    "displayMode": "combo",
+                    "exploreLink": false,
+                    "filterStyle": {
+                        "titleColor": "#091A3E",
+                        "valueColor": "#17324D"
+                    },
+                    "instant": true,
+                    "measureField": "count",
+                    "showActionMenu": false,
+                    "step": "Customer_1",
+                    "title": "Customer"
+                },
+                "type": "listselector"
+            },
+            "chart_8": {
+                "parameters": {
+                    "autoFitMode": "keepLabels",
+                    "showPoints": true,
+                    "legend": {
+                        "descOrder": false,
+                        "showHeader": true,
+                        "show": false,
+                        "customSize": "auto",
+                        "position": "right-top",
+                        "inside": false
+                    },
+                    "axisMode": "sync",
+                    "tooltip": {
+                        "content": {
+                            "legend": {
+                                "showBinLabel": true,
+                                "measures": [],
+                                "showNullValues": true,
+                                "customizeLegend": false,
+                                "showPercentage": true,
+                                "showDimensions": true,
+                                "showMeasures": true,
+                                "dimensions": []
+                            }
+                        }
+                    },
+                    "missingValue": "connect",
+                    "visualizationType": "time",
+                    "dashLine": {
+                        "measures": "",
+                        "showDashLine": false
+                    },
+                    "exploreLink": true,
+                    "timeAxis": {
+                        "showTitle": true,
+                        "showAxis": true,
+                        "title": ""
+                    },
+                    "title": {
+                        "fontSize": 14,
+                        "subtitleFontSize": 11,
+                        "label": "Weekly POS 2021 Federated",
+                        "align": "center",
+                        "subtitleLabel": "{{cell(Chart_Display.selection, 0, \"display\").asObject()}}"
+                    },
+                    "trellis": {
+                        "flipLabels": false,
+                        "showGridLines": true,
+                        "size": [
+                            100,
+                            100
+                        ],
+                        "enable": false,
+                        "type": "x",
+                        "chartsPerLine": 4
+                    },
+                    "fillArea": true,
+                    "showActionMenu": true,
+                    "showZero": false,
+                    "measureAxis2": {
+                        "sqrtScale": false,
+                        "showTitle": true,
+                        "showAxis": true,
+                        "title": "",
+                        "customDomain": {
+                            "showDomain": false
+                        }
+                    },
+                    "measureAxis1": {
+                        "sqrtScale": false,
+                        "showTitle": false,
+                        "showAxis": true,
+                        "title": "",
+                        "customDomain": {
+                            "showDomain": false
+                        }
+                    },
+                    "valueType": "compactNumber",
+                    "theme": "wave",
+                    "step": "federated",
+                    "applyConditionalFormatting": true,
+                    "dimensionAxis": {
+                        "icons": {
+                            "useIcons": false,
+                            "iconProps": {
+                                "fit": "cover",
+                                "column": "",
+                                "type": "round"
+                            }
+                        }
+                    },
+                    "drawArea": {
+                        "measure": "",
+                        "showDrawArea": false,
+                        "bounding1": "",
+                        "bounding2": ""
+                    }
+                },
+                "type": "chart"
+            },
+            "chart_7": {
+                "parameters": {
+                    "autoFitMode": "keepLabels",
+                    "showPoints": true,
+                    "legend": {
+                        "descOrder": false,
+                        "showHeader": true,
+                        "show": false,
+                        "customSize": "auto",
+                        "position": "right-top",
+                        "inside": false
+                    },
+                    "axisMode": "sync",
+                    "tooltip": {
+                        "content": {
+                            "legend": {
+                                "showBinLabel": true,
+                                "measures": [],
+                                "showNullValues": true,
+                                "customizeLegend": false,
+                                "showPercentage": true,
+                                "showDimensions": true,
+                                "showMeasures": true,
+                                "dimensions": []
+                            }
+                        }
+                    },
+                    "missingValue": "connect",
+                    "visualizationType": "time",
+                    "dashLine": {
+                        "measures": "",
+                        "showDashLine": false
+                    },
+                    "exploreLink": true,
+                    "timeAxis": {
+                        "showTitle": true,
+                        "showAxis": true,
+                        "title": ""
+                    },
+                    "title": {
+                        "fontSize": 14,
+                        "subtitleFontSize": 11,
+                        "label": "Weekly POS 2021 CQ",
+                        "align": "center",
+                        "subtitleLabel": "{{cell(Chart_Display.selection, 0, \"display\").asObject()}}"
+                    },
+                    "trellis": {
+                        "flipLabels": false,
+                        "showGridLines": true,
+                        "size": [
+                            100,
+                            100
+                        ],
+                        "enable": false,
+                        "type": "x",
+                        "chartsPerLine": 4
+                    },
+                    "fillArea": true,
+                    "showActionMenu": true,
+                    "showZero": false,
+                    "measureAxis2": {
+                        "sqrtScale": false,
+                        "showTitle": true,
+                        "showAxis": true,
+                        "title": "",
+                        "customDomain": {
+                            "showDomain": false
+                        }
+                    },
+                    "measureAxis1": {
+                        "sqrtScale": false,
+                        "showTitle": false,
+                        "showAxis": true,
+                        "title": "",
+                        "customDomain": {
+                            "showDomain": false
+                        }
+                    },
+                    "valueType": "compactNumber",
+                    "theme": "wave",
+                    "step": "carquest",
+                    "applyConditionalFormatting": true,
+                    "dimensionAxis": {
+                        "icons": {
+                            "useIcons": false,
+                            "iconProps": {
+                                "fit": "cover",
+                                "column": "",
+                                "type": "round"
+                            }
+                        }
+                    },
+                    "drawArea": {
+                        "measure": "",
+                        "showDrawArea": false,
+                        "bounding1": "",
+                        "bounding2": ""
+                    }
+                },
+                "type": "chart"
+            },
+            "chart_2": {
+                "parameters": {
+                    "autoFitMode": "keepLabels",
+                    "showPoints": true,
+                    "legend": {
+                        "descOrder": false,
+                        "showHeader": true,
+                        "show": false,
+                        "customSize": "auto",
+                        "position": "right-top",
+                        "inside": false
+                    },
+                    "axisMode": "sync",
+                    "tooltip": {
+                        "content": {
+                            "legend": {
+                                "showBinLabel": true,
+                                "measures": [],
+                                "showNullValues": true,
+                                "customizeLegend": false,
+                                "showPercentage": true,
+                                "showDimensions": true,
+                                "showMeasures": true,
+                                "dimensions": []
+                            }
+                        }
+                    },
+                    "missingValue": "connect",
+                    "visualizationType": "time",
+                    "dashLine": {
+                        "measures": "",
+                        "showDashLine": false
+                    },
+                    "exploreLink": true,
+                    "timeAxis": {
+                        "showTitle": true,
+                        "showAxis": true,
+                        "title": ""
+                    },
+                    "title": {
+                        "fontSize": 14,
+                        "subtitleFontSize": 11,
+                        "label": "Weekly POS 2021 AAP",
+                        "align": "center",
+                        "subtitleLabel": "{{cell(Chart_Display.selection, 0, \"display\").asObject()}}"
+                    },
+                    "trellis": {
+                        "flipLabels": false,
+                        "showGridLines": true,
+                        "size": [
+                            100,
+                            100
+                        ],
+                        "enable": false,
+                        "type": "x",
+                        "chartsPerLine": 4
+                    },
+                    "fillArea": true,
+                    "showActionMenu": true,
+                    "showZero": false,
+                    "measureAxis2": {
+                        "sqrtScale": false,
+                        "showTitle": true,
+                        "showAxis": true,
+                        "title": "",
+                        "customDomain": {
+                            "showDomain": false
+                        }
+                    },
+                    "measureAxis1": {
+                        "sqrtScale": false,
+                        "showTitle": false,
+                        "showAxis": true,
+                        "title": "",
+                        "customDomain": {
+                            "showDomain": false
+                        }
+                    },
+                    "valueType": "compactNumber",
+                    "theme": "wave",
+                    "step": "aap",
+                    "applyConditionalFormatting": true,
+                    "dimensionAxis": {
+                        "icons": {
+                            "useIcons": false,
+                            "iconProps": {
+                                "fit": "cover",
+                                "column": "",
+                                "type": "round"
+                            }
+                        }
+                    },
+                    "drawArea": {
+                        "measure": "",
+                        "showDrawArea": false,
+                        "bounding1": "",
+                        "bounding2": ""
+                    }
+                },
+                "type": "chart"
+            },
+            "chart_1": {
+                "parameters": {
+                    "showPoints": true,
+                    "legend": {
+                        "descOrder": false,
+                        "showHeader": true,
+                        "show": false,
+                        "customSize": "auto",
+                        "position": "right-top",
+                        "inside": false
+                    },
+                    "axisMode": "sync",
+                    "tooltip": {
+                        "content": {
+                            "legend": {
+                                "showBinLabel": true,
+                                "measures": [],
+                                "showNullValues": true,
+                                "customizeLegend": false,
+                                "showPercentage": true,
+                                "showDimensions": true,
+                                "showMeasures": true,
+                                "dimensions": []
+                            }
+                        }
+                    },
+                    "visualizationType": "time",
+                    "missingValue": "connect",
+                    "dashLine": {
+                        "measures": [
+                            "2021"
+                        ],
+                        "showDashLine": false
+                    },
+                    "exploreLink": true,
+                    "timeAxis": {
+                        "showTitle": true,
+                        "showAxis": true,
+                        "title": ""
+                    },
+                    "title": {
+                        "fontSize": 14,
+                        "subtitleFontSize": 11,
+                        "label": "Weekly POS 2021",
+                        "align": "center",
+                        "subtitleLabel": "{{cell(Chart_Display.selection, 0, \"display\").asObject()}}"
+                    },
+                    "trellis": {
+                        "flipLabels": false,
+                        "showGridLines": true,
+                        "size": [
+                            100,
+                            100
+                        ],
+                        "enable": false,
+                        "type": "x",
+                        "chartsPerLine": 4
+                    },
+                    "fillArea": true,
+                    "showActionMenu": true,
+                    "showZero": false,
+                    "measureAxis2": {
+                        "sqrtScale": false,
+                        "showTitle": true,
+                        "showAxis": true,
+                        "title": "",
+                        "customDomain": {
+                            "showDomain": false
+                        }
+                    },
+                    "measureAxis1": {
+                        "sqrtScale": false,
+                        "showTitle": false,
+                        "showAxis": true,
+                        "title": "All Customers",
+                        "customDomain": {
+                            "showDomain": false
+                        }
+                    },
+                    "valueType": "compactNumber",
+                    "theme": "wave",
+                    "step": "all_1",
+                    "applyConditionalFormatting": true,
+                    "drawArea": {
+                        "measure": "",
+                        "showDrawArea": false,
+                        "bounding1": "",
+                        "bounding2": ""
+                    }
+                },
+                "type": "chart"
+            },
+            "chart_4": {
+                "parameters": {
+                    "autoFitMode": "keepLabels",
+                    "showPoints": true,
+                    "legend": {
+                        "descOrder": false,
+                        "showHeader": true,
+                        "show": false,
+                        "customSize": "auto",
+                        "position": "right-top",
+                        "inside": false
+                    },
+                    "axisMode": "sync",
+                    "tooltip": {
+                        "content": {
+                            "legend": {
+                                "showBinLabel": true,
+                                "measures": [],
+                                "showNullValues": true,
+                                "customizeLegend": false,
+                                "showPercentage": true,
+                                "showDimensions": true,
+                                "showMeasures": true,
+                                "dimensions": []
+                            }
+                        }
+                    },
+                    "missingValue": "connect",
+                    "visualizationType": "time",
+                    "dashLine": {
+                        "measures": "",
+                        "showDashLine": false
+                    },
+                    "exploreLink": true,
+                    "timeAxis": {
+                        "showTitle": true,
+                        "showAxis": true,
+                        "title": ""
+                    },
+                    "title": {
+                        "fontSize": 14,
+                        "subtitleFontSize": 11,
+                        "label": "Weekly POS 2021 Alliance",
+                        "align": "center",
+                        "subtitleLabel": "{{cell(Chart_Display.selection, 0, \"display\").asObject()}}"
+                    },
+                    "trellis": {
+                        "flipLabels": false,
+                        "showGridLines": true,
+                        "size": [
+                            100,
+                            100
+                        ],
+                        "enable": false,
+                        "type": "x",
+                        "chartsPerLine": 4
+                    },
+                    "fillArea": true,
+                    "showActionMenu": true,
+                    "showZero": false,
+                    "measureAxis2": {
+                        "sqrtScale": false,
+                        "showTitle": true,
+                        "showAxis": true,
+                        "title": "",
+                        "customDomain": {
+                            "showDomain": false
+                        }
+                    },
+                    "measureAxis1": {
+                        "sqrtScale": false,
+                        "showTitle": false,
+                        "showAxis": true,
+                        "title": "",
+                        "customDomain": {
+                            "showDomain": false
+                        }
+                    },
+                    "valueType": "compactNumber",
+                    "theme": "wave",
+                    "step": "alliance",
+                    "applyConditionalFormatting": true,
+                    "dimensionAxis": {
+                        "icons": {
+                            "useIcons": false,
+                            "iconProps": {
+                                "fit": "cover",
+                                "column": "",
+                                "type": "round"
+                            }
+                        }
+                    },
+                    "drawArea": {
+                        "measure": "",
+                        "showDrawArea": false,
+                        "bounding1": "",
+                        "bounding2": ""
+                    }
+                },
+                "type": "chart"
+            },
+            "chart_11": {
+                "parameters": {
+                    "autoFitMode": "keepLabels",
+                    "showPoints": true,
+                    "legend": {
+                        "descOrder": false,
+                        "showHeader": true,
+                        "show": false,
+                        "customSize": "auto",
+                        "position": "right-top",
+                        "inside": false
+                    },
+                    "axisMode": "sync",
+                    "tooltip": {
+                        "content": {
+                            "legend": {
+                                "showBinLabel": true,
+                                "measures": [],
+                                "showNullValues": true,
+                                "customizeLegend": false,
+                                "showPercentage": true,
+                                "showDimensions": true,
+                                "showMeasures": true,
+                                "dimensions": []
+                            }
+                        }
+                    },
+                    "missingValue": "connect",
+                    "visualizationType": "time",
+                    "dashLine": {
+                        "measures": "",
+                        "showDashLine": false
+                    },
+                    "exploreLink": true,
+                    "timeAxis": {
+                        "showTitle": true,
+                        "showAxis": true,
+                        "title": ""
+                    },
+                    "title": {
+                        "fontSize": 14,
+                        "subtitleFontSize": 11,
+                        "label": "Weekly POS 2021 Amazon",
+                        "align": "center",
+                        "subtitleLabel": "{{cell(Chart_Display.selection, 0, \"display\").asObject()}}"
+                    },
+                    "trellis": {
+                        "flipLabels": false,
+                        "showGridLines": true,
+                        "size": [
+                            100,
+                            100
+                        ],
+                        "enable": false,
+                        "type": "x",
+                        "chartsPerLine": 4
+                    },
+                    "fillArea": true,
+                    "showActionMenu": true,
+                    "showZero": false,
+                    "measureAxis2": {
+                        "sqrtScale": false,
+                        "showTitle": true,
+                        "showAxis": true,
+                        "title": "",
+                        "customDomain": {
+                            "showDomain": false
+                        }
+                    },
+                    "measureAxis1": {
+                        "sqrtScale": false,
+                        "showTitle": false,
+                        "showAxis": true,
+                        "title": "",
+                        "customDomain": {
+                            "showDomain": false
+                        }
+                    },
+                    "valueType": "compactNumber",
+                    "theme": "wave",
+                    "step": "amazon",
+                    "applyConditionalFormatting": true,
+                    "dimensionAxis": {
+                        "icons": {
+                            "useIcons": false,
+                            "iconProps": {
+                                "fit": "cover",
+                                "column": "",
+                                "type": "round"
+                            }
+                        }
+                    },
+                    "drawArea": {
+                        "measure": "",
+                        "showDrawArea": false,
+                        "bounding1": "",
+                        "bounding2": ""
+                    }
+                },
+                "type": "chart"
+            },
+            "chart_3": {
+                "parameters": {
+                    "autoFitMode": "keepLabels",
+                    "showPoints": true,
+                    "legend": {
+                        "descOrder": false,
+                        "showHeader": true,
+                        "show": false,
+                        "customSize": "auto",
+                        "position": "right-top",
+                        "inside": false
+                    },
+                    "axisMode": "sync",
+                    "tooltip": {
+                        "content": {
+                            "legend": {
+                                "showBinLabel": true,
+                                "measures": [],
+                                "showNullValues": true,
+                                "customizeLegend": false,
+                                "showPercentage": true,
+                                "showDimensions": true,
+                                "showMeasures": true,
+                                "dimensions": []
+                            }
+                        }
+                    },
+                    "missingValue": "connect",
+                    "visualizationType": "time",
+                    "dashLine": {
+                        "measures": "",
+                        "showDashLine": false
+                    },
+                    "exploreLink": true,
+                    "timeAxis": {
+                        "showTitle": true,
+                        "showAxis": true,
+                        "title": ""
+                    },
+                    "title": {
+                        "fontSize": 14,
+                        "subtitleFontSize": 11,
+                        "label": "Weekly POS 2021 ADN",
+                        "align": "center",
+                        "subtitleLabel": "{{cell(Chart_Display.selection, 0, \"display\").asObject()}}"
+                    },
+                    "trellis": {
+                        "flipLabels": false,
+                        "showGridLines": true,
+                        "size": [
+                            100,
+                            100
+                        ],
+                        "enable": false,
+                        "type": "x",
+                        "chartsPerLine": 4
+                    },
+                    "fillArea": true,
+                    "showActionMenu": true,
+                    "showZero": false,
+                    "measureAxis2": {
+                        "sqrtScale": false,
+                        "showTitle": true,
+                        "showAxis": true,
+                        "title": "",
+                        "customDomain": {
+                            "showDomain": false
+                        }
+                    },
+                    "measureAxis1": {
+                        "sqrtScale": false,
+                        "showTitle": false,
+                        "showAxis": true,
+                        "title": "",
+                        "customDomain": {
+                            "showDomain": false
+                        }
+                    },
+                    "valueType": "compactNumber",
+                    "theme": "wave",
+                    "step": "adn",
+                    "applyConditionalFormatting": true,
+                    "dimensionAxis": {
+                        "icons": {
+                            "useIcons": false,
+                            "iconProps": {
+                                "fit": "cover",
+                                "column": "",
+                                "type": "round"
+                            }
+                        }
+                    },
+                    "drawArea": {
+                        "measure": "",
+                        "showDrawArea": false,
+                        "bounding1": "",
+                        "bounding2": ""
+                    }
+                },
+                "type": "chart"
+            },
+            "chart_10": {
+                "parameters": {
+                    "autoFitMode": "keepLabels",
+                    "showPoints": true,
+                    "legend": {
+                        "descOrder": false,
+                        "showHeader": true,
+                        "show": false,
+                        "customSize": "auto",
+                        "position": "right-top",
+                        "inside": false
+                    },
+                    "axisMode": "sync",
+                    "tooltip": {
+                        "content": {
+                            "legend": {
+                                "showBinLabel": true,
+                                "measures": [],
+                                "showNullValues": true,
+                                "customizeLegend": false,
+                                "showPercentage": true,
+                                "showDimensions": true,
+                                "showMeasures": true,
+                                "dimensions": []
+                            }
+                        }
+                    },
+                    "missingValue": "connect",
+                    "visualizationType": "time",
+                    "dashLine": {
+                        "measures": "",
+                        "showDashLine": false
+                    },
+                    "exploreLink": true,
+                    "timeAxis": {
+                        "showTitle": true,
+                        "showAxis": true,
+                        "title": ""
+                    },
+                    "title": {
+                        "fontSize": 14,
+                        "subtitleFontSize": 11,
+                        "label": "Weekly POS 2021 Pronto",
+                        "align": "center",
+                        "subtitleLabel": "{{cell(Chart_Display.selection, 0, \"display\").asObject()}}"
+                    },
+                    "trellis": {
+                        "flipLabels": false,
+                        "showGridLines": true,
+                        "size": [
+                            100,
+                            100
+                        ],
+                        "enable": false,
+                        "type": "x",
+                        "chartsPerLine": 4
+                    },
+                    "fillArea": true,
+                    "showActionMenu": true,
+                    "showZero": false,
+                    "measureAxis2": {
+                        "sqrtScale": false,
+                        "showTitle": true,
+                        "showAxis": true,
+                        "title": "",
+                        "customDomain": {
+                            "showDomain": false
+                        }
+                    },
+                    "measureAxis1": {
+                        "sqrtScale": false,
+                        "showTitle": false,
+                        "showAxis": true,
+                        "title": "",
+                        "customDomain": {
+                            "showDomain": false
+                        }
+                    },
+                    "valueType": "compactNumber",
+                    "theme": "wave",
+                    "step": "pronto",
+                    "applyConditionalFormatting": true,
+                    "dimensionAxis": {
+                        "icons": {
+                            "useIcons": false,
+                            "iconProps": {
+                                "fit": "cover",
+                                "column": "",
+                                "type": "round"
+                            }
+                        }
+                    },
+                    "drawArea": {
+                        "measure": "",
+                        "showDrawArea": false,
+                        "bounding1": "",
+                        "bounding2": ""
+                    }
+                },
+                "type": "chart"
+            }
+        }
+    },
+    "datasets": [
+        {
+            "id": "0Fb1E000000fxaZSAQ",
+            "label": "POS Weekly",
+            "name": "POS_Weekly_Emergency",
+            "url": "/services/data/v53.0/wave/datasets/0Fb1E000000fxaZSAQ"
+        }
+    ]
+}
