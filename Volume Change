@@ -1,0 +1,1856 @@
+{
+    "label": "Copy of Volume Change",
+    "mobileDisabled": false,
+    "state": {
+        "dataSourceLinks": [],
+        "filters": [],
+        "gridLayouts": [
+            {
+                "name": "Default",
+                "numColumns": 12,
+                "pages": [
+                    {
+                        "label": "Untitled",
+                        "name": "de3845f9-15d6-429c-a8e4-e1e0ee169c3a",
+                        "navigationHidden": false,
+                        "widgets": [
+                            {
+                                "colspan": 5,
+                                "column": 0,
+                                "name": "table_1",
+                                "row": 4,
+                                "rowspan": 12,
+                                "widgetStyle": {
+                                    "borderColor": "rgb(0, 0, 0)",
+                                    "borderEdges": []
+                                }
+                            },
+                            {
+                                "colspan": 3,
+                                "column": 2,
+                                "name": "pillbox_2",
+                                "row": 1,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "backgroundColor": "#FFFFFF",
+                                    "borderColor": "#000000",
+                                    "borderEdges": [
+                                        "all"
+                                    ],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            },
+                            {
+                                "colspan": 2,
+                                "column": 5,
+                                "name": "pillbox_1",
+                                "row": 1,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "backgroundColor": "#FFFFFF",
+                                    "borderColor": "#000000",
+                                    "borderEdges": [
+                                        "all"
+                                    ],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            },
+                            {
+                                "colspan": 2,
+                                "column": 1,
+                                "name": "table_4",
+                                "row": 16,
+                                "rowspan": 2,
+                                "widgetStyle": {
+                                    "backgroundColor": "#FFFFFF",
+                                    "borderColor": "rgb(0, 0, 0)",
+                                    "borderEdges": [],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            },
+                            {
+                                "colspan": 2,
+                                "column": 4,
+                                "name": "table_5",
+                                "row": 16,
+                                "rowspan": 2,
+                                "widgetStyle": {
+                                    "backgroundColor": "#FFFFFF",
+                                    "borderColor": "rgb(0, 0, 0)",
+                                    "borderEdges": [],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            },
+                            {
+                                "colspan": 2,
+                                "column": 7,
+                                "name": "table_6",
+                                "row": 16,
+                                "rowspan": 2,
+                                "widgetStyle": {
+                                    "backgroundColor": "#FFFFFF",
+                                    "borderColor": "rgb(0, 0, 0)",
+                                    "borderEdges": [],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            },
+                            {
+                                "colspan": 1,
+                                "column": 0,
+                                "name": "text_1",
+                                "row": 16,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "backgroundColor": "#FFFFFF",
+                                    "borderColor": "rgb(0, 0, 0)",
+                                    "borderEdges": [],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            },
+                            {
+                                "colspan": 1,
+                                "column": 3,
+                                "name": "text_2",
+                                "row": 16,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "backgroundColor": "#FFFFFF",
+                                    "borderColor": "rgb(0, 0, 0)",
+                                    "borderEdges": [],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            },
+                            {
+                                "colspan": 1,
+                                "column": 6,
+                                "name": "text_3",
+                                "row": 16,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "backgroundColor": "#FFFFFF",
+                                    "borderColor": "rgb(0, 0, 0)",
+                                    "borderEdges": [],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            },
+                            {
+                                "colspan": 1,
+                                "column": 3,
+                                "name": "listselector_1",
+                                "row": 0,
+                                "rowspan": 1,
+                                "widgetStyle": {}
+                            },
+                            {
+                                "colspan": 1,
+                                "column": 4,
+                                "name": "listselector_2",
+                                "row": 0,
+                                "rowspan": 1,
+                                "widgetStyle": {}
+                            },
+                            {
+                                "colspan": 9,
+                                "column": 0,
+                                "name": "container_1",
+                                "row": 0,
+                                "rowspan": 2,
+                                "widgetStyle": {
+                                    "backgroundColor": "#FFFFFF",
+                                    "borderColor": "rgb(0, 0, 0)",
+                                    "borderEdges": [
+                                        "all"
+                                    ],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            },
+                            {
+                                "colspan": 9,
+                                "column": 0,
+                                "name": "container_4",
+                                "row": 16,
+                                "rowspan": 2,
+                                "widgetStyle": {
+                                    "backgroundColor": "#FFFFFF",
+                                    "borderColor": "rgb(0, 0, 0)",
+                                    "borderEdges": [
+                                        "all"
+                                    ],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            },
+                            {
+                                "colspan": 1,
+                                "column": 9,
+                                "name": "number_1",
+                                "row": 3,
+                                "rowspan": 1,
+                                "widgetStyle": {}
+                            },
+                            {
+                                "colspan": 1,
+                                "column": 9,
+                                "name": "text_5",
+                                "row": 2,
+                                "rowspan": 1,
+                                "widgetStyle": {}
+                            },
+                            {
+                                "colspan": 1,
+                                "column": 9,
+                                "name": "text_4",
+                                "row": 4,
+                                "rowspan": 1,
+                                "widgetStyle": {}
+                            },
+                            {
+                                "colspan": 1,
+                                "column": 9,
+                                "name": "number_2",
+                                "row": 5,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "backgroundColor": "#FFFFFF",
+                                    "borderColor": "#E6ECF2",
+                                    "borderEdges": [],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            },
+                            {
+                                "colspan": 1,
+                                "column": 9,
+                                "name": "container_2",
+                                "row": 2,
+                                "rowspan": 4,
+                                "widgetStyle": {
+                                    "backgroundColor": "#FFFFFF",
+                                    "borderColor": "rgb(0, 0, 0)",
+                                    "borderEdges": [
+                                        "all"
+                                    ],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            },
+                            {
+                                "colspan": 1,
+                                "column": 8,
+                                "name": "listselector_3",
+                                "row": 0,
+                                "rowspan": 1,
+                                "widgetStyle": {}
+                            },
+                            {
+                                "colspan": 1,
+                                "column": 7,
+                                "name": "listselector_4",
+                                "row": 0,
+                                "rowspan": 1,
+                                "widgetStyle": {}
+                            },
+                            {
+                                "colspan": 1,
+                                "column": 5,
+                                "name": "listselector_5",
+                                "row": 0,
+                                "rowspan": 1,
+                                "widgetStyle": {}
+                            },
+                            {
+                                "colspan": 2,
+                                "column": 9,
+                                "name": "text_9",
+                                "row": 6,
+                                "rowspan": 9,
+                                "widgetStyle": {
+                                    "backgroundColor": "#FFFFFF",
+                                    "borderColor": "rgb(0, 0, 0)",
+                                    "borderEdges": [
+                                        "all"
+                                    ],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            },
+                            {
+                                "colspan": 2,
+                                "column": 0,
+                                "name": "image_1",
+                                "row": 0,
+                                "rowspan": 2,
+                                "widgetStyle": {}
+                            },
+                            {
+                                "colspan": 2,
+                                "column": 7,
+                                "name": "pillbox_4",
+                                "row": 1,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "backgroundColor": "#FFFFFF",
+                                    "borderColor": "#000000",
+                                    "borderEdges": [
+                                        "all"
+                                    ],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            },
+                            {
+                                "colspan": 1,
+                                "column": 10,
+                                "name": "text_10",
+                                "row": 2,
+                                "rowspan": 4,
+                                "widgetStyle": {
+                                    "backgroundColor": "#FFFFFF",
+                                    "borderColor": "rgb(0, 0, 0)",
+                                    "borderEdges": [
+                                        "all"
+                                    ],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            },
+                            {
+                                "colspan": 6,
+                                "column": 0,
+                                "name": "table_8",
+                                "row": 18,
+                                "rowspan": 2,
+                                "widgetStyle": {
+                                    "backgroundColor": "#FFFFFF",
+                                    "borderColor": "rgb(0, 0, 0)",
+                                    "borderEdges": [
+                                        "all"
+                                    ],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            },
+                            {
+                                "colspan": 9,
+                                "column": 0,
+                                "name": "pillbox_3",
+                                "row": 2,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "backgroundColor": "#FFFFFF",
+                                    "borderColor": "#000000",
+                                    "borderEdges": [
+                                        "all"
+                                    ],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            },
+                            {
+                                "colspan": 1,
+                                "column": 2,
+                                "name": "text_11",
+                                "row": 0,
+                                "rowspan": 1,
+                                "widgetStyle": {}
+                            },
+                            {
+                                "colspan": 4,
+                                "column": 5,
+                                "name": "table_2",
+                                "row": 4,
+                                "rowspan": 12,
+                                "widgetStyle": {
+                                    "backgroundColor": "#FFFFFF",
+                                    "borderColor": "rgb(0, 0, 0)",
+                                    "borderEdges": [],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            },
+                            {
+                                "colspan": 5,
+                                "column": 0,
+                                "name": "text_6",
+                                "row": 3,
+                                "rowspan": 1,
+                                "widgetStyle": {}
+                            },
+                            {
+                                "colspan": 4,
+                                "column": 5,
+                                "name": "text_7",
+                                "row": 3,
+                                "rowspan": 1,
+                                "widgetStyle": {}
+                            },
+                            {
+                                "colspan": 5,
+                                "column": 0,
+                                "name": "container_5",
+                                "row": 3,
+                                "rowspan": 13,
+                                "widgetStyle": {
+                                    "backgroundColor": "#FFFFFF",
+                                    "borderColor": "#7D98B3",
+                                    "borderEdges": [
+                                        "all"
+                                    ],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            },
+                            {
+                                "colspan": 4,
+                                "column": 5,
+                                "name": "container_6",
+                                "row": 3,
+                                "rowspan": 13,
+                                "widgetStyle": {
+                                    "backgroundColor": "#FFFFFF",
+                                    "borderColor": "#7D98B3",
+                                    "borderEdges": [
+                                        "all"
+                                    ],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            },
+                            {
+                                "colspan": 1,
+                                "column": 6,
+                                "name": "listselector_6",
+                                "row": 0,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "backgroundColor": "#FFFFFF",
+                                    "borderColor": "#E6ECF2",
+                                    "borderEdges": [],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "rowHeight": "normal",
+                "selectors": [],
+                "style": {
+                    "alignmentX": "left",
+                    "alignmentY": "top",
+                    "backgroundColor": "#F2F6FA",
+                    "cellSpacingX": 8,
+                    "cellSpacingY": 8,
+                    "fit": "original",
+                    "gutterColor": "#C5D3E0"
+                },
+                "version": 1
+            }
+        ],
+        "layouts": [],
+        "steps": {
+            "Chart_Display": {
+                "broadcastFacet": true,
+                "columns": {},
+                "isGlobal": false,
+                "selectMode": "singlerequired",
+                "start": {
+                    "display": [
+                        "Net Sales"
+                    ]
+                },
+                "type": "staticflex",
+                "useGlobal": false,
+                "values": [
+                    {
+                        "display": "Net Sales",
+                        "displayPlural": "Net_Sales",
+                        "groupNameProject": "'Net_Sales' as 'Net_Sales'",
+                        "groupName": "Net_Sales",
+                        "groupNameAlias": "'Net_Sales'",
+                        "groupNameCompact": "Net_Sales"
+                    },
+                    {
+                        "display": "POS Units",
+                        "displayPlural": "POS_Units",
+                        "groupNameProject": "'POS_Units' as 'POS_Units'",
+                        "groupName": "POS_Units",
+                        "groupNameAlias": "'POS_Units'",
+                        "groupNameCompact": "POS_Units"
+                    },
+                    {
+                        "display": "Unit Price",
+                        "displayPlural": "Unit_Price",
+                        "groupNameProject": "'Unit_Price' as 'Unit_Price'",
+                        "groupName": "'Unit_Price'",
+                        "groupNameAlias": "'Unit_Price'",
+                        "groupNameCompact": "Unit_Price"
+                    }
+                ],
+                "numbers": [],
+                "strings": [],
+                "groups": []
+            },
+            "Customer_1": {
+                "broadcastFacet": true,
+                "datasets": [
+                    {
+                        "id": "0Fb1E0000008tjoSAA",
+                        "label": "POS Volume Change",
+                        "name": "POS_Volume_Change1",
+                        "url": "/services/data/v53.0/wave/datasets/0Fb1E0000008tjoSAA"
+                    }
+                ],
+                "isGlobal": false,
+                "query": {
+                    "measures": [
+                        [
+                            "count",
+                            "*"
+                        ]
+                    ],
+                    "groups": [
+                        "Customer"
+                    ]
+                },
+                "receiveFacetSource": {
+                    "mode": "all",
+                    "steps": []
+                },
+                "selectMode": "multi",
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "options": {}
+                }
+            },
+            "latest_month": {
+                "broadcastFacet": false,
+                "datasets": [
+                    {
+                        "id": "0Fb1E0000008tjoSAA",
+                        "label": "POS Volume Change",
+                        "name": "POS_Volume_Change1",
+                        "url": "/services/data/v53.0/wave/datasets/0Fb1E0000008tjoSAA"
+                    }
+                ],
+                "isGlobal": false,
+                "query": {
+                    "pigql": " Volume_Change = load \"POS_Volume_Change1\"; final = foreach Volume_Change generate 'latest_month' as 'latest month'; final = limit final 1  ",
+                    "measures": [
+                        [
+                            "count",
+                            "*",
+                            "latest month"
+                        ]
+                    ]
+                },
+                "receiveFacetSource": {
+                    "mode": "all",
+                    "steps": []
+                },
+                "selectMode": "single",
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "options": {}
+                }
+            },
+            "Category_1": {
+                "broadcastFacet": true,
+                "datasets": [
+                    {
+                        "id": "0Fb1E0000008tjoSAA",
+                        "label": "POS Volume Change",
+                        "name": "POS_Volume_Change1",
+                        "url": "/services/data/v53.0/wave/datasets/0Fb1E0000008tjoSAA"
+                    }
+                ],
+                "isGlobal": false,
+                "query": {
+                    "measures": [
+                        [
+                            "count",
+                            "*"
+                        ]
+                    ],
+                    "groups": [
+                        "Category"
+                    ]
+                },
+                "receiveFacetSource": {
+                    "mode": "all",
+                    "steps": []
+                },
+                "selectMode": "multi",
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "options": {}
+                }
+            },
+            "customer_part_volume_change": {
+                "broadcastFacet": false,
+                "datasets": [
+                    {
+                        "id": "0Fb1E0000008tjoSAA",
+                        "label": "POS Volume Change",
+                        "name": "POS_Volume_Change1",
+                        "url": "/services/data/v53.0/wave/datasets/0Fb1E0000008tjoSAA"
+                    }
+                ],
+                "isGlobal": false,
+                "query": {
+                    "pigql": " Volume_Change = load \"POS_Volume_Change1\"; POS_Units = foreach Volume_Change generate 'Part', 'Customer', 'one_month_back_units' as 'current', 'two_months_back_units' as 'prior', 'one_month_back_units' - 'two_months_back_units' as 'difference'; Net_Sales = foreach Volume_Change generate 'Part', 'Customer', 'one_month_back_sales' as 'current', 'two_months_back_sales' as 'prior', 'one_month_back_sales' - 'two_months_back_sales' as 'difference'; Unit_Price = filter Volume_Change by 'one_month_back_units' != 0; Unit_Price = filter Unit_Price by 'one_month_back_sales' != 0; Unit_Price = filter Unit_Price by 'two_months_back_units' != 0; Unit_Price = filter Unit_Price by 'two_months_back_sales' != 0; Unit_Price = foreach Unit_Price generate 'Part', 'Customer', abs('one_month_back_sales'/'one_month_back_units') as 'current', abs('two_months_back_sales'/'two_months_back_units') as 'prior', abs('one_month_back_sales'/'one_month_back_units') - abs('two_months_back_sales'/'two_months_back_units') as 'difference'; month_prior = foreach {{cell(Chart_Display.selection, 0, \"groupName\").asObject()}} generate 'Part', 'Customer', 'current', 'prior', 'difference'; month_prior = filter month_prior by 'current' != {{cell(static_4.selection, 0, \"groupName\").asObject()}} && 'prior' != {{cell(static_4.selection, 0, \"groupName\").asObject()}}; month_prior = order month_prior by 'difference' {{cell(static_1.selection, 0, \"groupName\").asObject()}}; month_prior = foreach month_prior generate 'Customer', 'Part', (case when \"{{cell(Chart_Display.selection, 0, \"groupNameCompact\").asString()}}\" == \"Unit_Price\" then number_to_string('current',\"$#,##0.00;-$#,##0.00\") when \"{{cell(Chart_Display.selection, 0, \"groupNameCompact\").asString()}}\" == \"Net_Sales\" then number_to_string('current',\"$#,###;-$#,###\") else number_to_string('current',\"#,###\") end) as 'current', (case when \"{{cell(Chart_Display.selection, 0, \"groupNameCompact\").asString()}}\" == \"Unit_Price\" then number_to_string('prior',\"$#,##0.00;-$#,##0.00\") when \"{{cell(Chart_Display.selection, 0, \"groupNameCompact\").asString()}}\" == \"Net_Sales\" then number_to_string('prior',\"$#,###;-$#,###\") else number_to_string('prior',\"#,###\") end) as 'prior', (case when \"{{cell(Chart_Display.selection, 0, \"groupNameCompact\").asString()}}\" == \"Unit_Price\" then number_to_string('difference',\"$#,##0.00;-$#,##0.00\") when \"{{cell(Chart_Display.selection, 0, \"groupNameCompact\").asString()}}\" == \"Net_Sales\" then number_to_string('difference',\"$#,###;-$#,###\") else number_to_string('difference',\"#,###\") end )as 'difference';                                                                                             Volume_Change = load \"POS_Volume_Change1\"; POS_Units = foreach Volume_Change generate 'Part', 'Customer', 'one_month_back_units' as 'current', 'one_year_back_units' as 'prior', 'one_month_back_units' - 'one_year_back_units' as 'difference'; Net_Sales = foreach Volume_Change generate 'Part', 'Customer', 'one_month_back_sales' as 'current', 'one_year_back_sales' as 'prior', 'one_month_back_sales' - 'one_year_back_sales' as 'difference'; Unit_Price = filter Volume_Change by 'one_month_back_units' != 0; Unit_Price = filter Unit_Price by 'one_month_back_sales' != 0; Unit_Price = filter Unit_Price by 'one_year_back_units' != 0; Unit_Price = filter Unit_Price by 'one_year_back_sales' != 0; Unit_Price = foreach Unit_Price generate 'Part', 'Customer', abs('one_month_back_sales'/'one_month_back_units') as 'current', abs('one_year_back_sales'/'one_year_back_units') as 'prior', abs('one_month_back_sales'/'one_month_back_units') - abs('one_year_back_sales'/'one_year_back_units') as 'difference'; year_prior = foreach {{cell(Chart_Display.selection, 0, \"groupName\").asObject()}} generate 'Part', 'Customer', 'current', 'prior', 'difference'; year_prior = filter year_prior by 'current' != {{cell(static_4.selection, 0, \"groupName\").asObject()}} && 'prior' != {{cell(static_4.selection, 0, \"groupName\").asObject()}};  year_prior = order year_prior by 'difference' {{cell(static_1.selection, 0, \"groupName\").asObject()}}; year_prior = foreach year_prior generate 'Customer', 'Part', (case when \"{{cell(Chart_Display.selection, 0, \"groupNameCompact\").asString()}}\" == \"Unit_Price\" then number_to_string('current',\"$#,##0.00;-$#,##0.00\") when \"{{cell(Chart_Display.selection, 0, \"groupNameCompact\").asString()}}\" == \"Net_Sales\" then number_to_string('current',\"$#,###;-$#,###\") else number_to_string('current',\"#,###\") end) as 'current', (case when \"{{cell(Chart_Display.selection, 0, \"groupNameCompact\").asString()}}\" == \"Unit_Price\" then number_to_string('prior',\"$#,##0.00;-$#,##0.00\") when \"{{cell(Chart_Display.selection, 0, \"groupNameCompact\").asString()}}\" == \"Net_Sales\" then number_to_string('prior',\"$#,###;-$#,###\") else number_to_string('prior',\"#,###\") end) as 'prior', (case when \"{{cell(Chart_Display.selection, 0, \"groupNameCompact\").asString()}}\" == \"Unit_Price\" then number_to_string('difference',\"$#,##0.00;-$#,##0.00\") when \"{{cell(Chart_Display.selection, 0, \"groupNameCompact\").asString()}}\" == \"Net_Sales\" then number_to_string('difference',\"$#,###;-$#,###\") else number_to_string('difference',\"#,###\") end )as 'difference';                                                                                                                                                                 Volume_Change = load \"POS_Volume_Change1\"; POS_Units = foreach Volume_Change generate 'Part', 'Customer', 'YTD_units' as 'current', 'last_YTD_units' as 'prior', 'YTD_units' - 'last_YTD_units' as 'difference'; Net_Sales = foreach Volume_Change generate 'Part', 'Customer', 'YTD_sales' as 'current', 'last_YTD_sales' as 'prior', 'YTD_sales' - 'last_YTD_sales' as 'difference'; Unit_Price = filter Volume_Change by 'YTD_units' != 0; Unit_Price = filter Unit_Price by 'YTD_sales' != 0; Unit_Price = filter Unit_Price by 'last_YTD_units' != 0; Unit_Price = filter Unit_Price by 'last_YTD_sales' != 0; Unit_Price = foreach Unit_Price generate 'Part', 'Customer', abs('YTD_sales'/'YTD_units') as 'current', abs('last_YTD_sales'/'last_YTD_units') as 'prior', abs('YTD_sales'/'YTD_units') - abs('last_YTD_sales'/'last_YTD_units') as 'difference'; ytd = foreach {{cell(Chart_Display.selection, 0, \"groupName\").asObject()}} generate 'Part', 'Customer', 'current', 'prior', 'difference'; ytd = filter ytd by 'current' != {{cell(static_4.selection, 0, \"groupName\").asObject()}} && 'prior' != {{cell(static_4.selection, 0, \"groupName\").asObject()}};  ytd = order ytd by 'difference' {{cell(static_1.selection, 0, \"groupName\").asObject()}}; ytd = foreach ytd generate 'Customer', 'Part', (case when \"{{cell(Chart_Display.selection, 0, \"groupNameCompact\").asString()}}\" == \"Unit_Price\" then number_to_string('current',\"$#,##0.00;-$#,##0.00\") when \"{{cell(Chart_Display.selection, 0, \"groupNameCompact\").asString()}}\" == \"Net_Sales\" then number_to_string('current',\"$#,###;-$#,###\") else number_to_string('current',\"#,###\") end) as 'current', (case when \"{{cell(Chart_Display.selection, 0, \"groupNameCompact\").asString()}}\" == \"Unit_Price\" then number_to_string('prior',\"$#,##0.00;-$#,##0.00\") when \"{{cell(Chart_Display.selection, 0, \"groupNameCompact\").asString()}}\" == \"Net_Sales\" then number_to_string('prior',\"$#,###;-$#,###\") else number_to_string('prior',\"#,###\") end) as 'prior', (case when \"{{cell(Chart_Display.selection, 0, \"groupNameCompact\").asString()}}\" == \"Unit_Price\" then number_to_string('difference',\"$#,##0.00;-$#,##0.00\") when \"{{cell(Chart_Display.selection, 0, \"groupNameCompact\").asString()}}\" == \"Net_Sales\" then number_to_string('difference',\"$#,###;-$#,###\") else number_to_string('difference',\"#,###\") end )as 'difference';                                                                                                                                                                 Volume_Change = load \"POS_Volume_Change1\"; POS_Units = foreach Volume_Change generate 'Part', 'Customer', 'Current_R12_Units' as 'current', 'Prior_R12_Units' as 'prior', 'Current_R12_Units' - 'Prior_R12_Units' as 'difference'; Net_Sales = foreach Volume_Change generate 'Part', 'Customer', 'Current_R12_Sales' as 'current', 'Prior_R12_Sales' as 'prior', 'Current_R12_Sales' - 'Prior_R12_Sales' as 'difference'; Unit_Price = filter Volume_Change by 'Current_R12_Units' != 0; Unit_Price = filter Unit_Price by 'Current_R12_Sales' != 0; Unit_Price = filter Unit_Price by 'Prior_R12_Units' != 0; Unit_Price = filter Unit_Price by 'Prior_R12_Sales' != 0; Unit_Price = foreach Unit_Price generate 'Part', 'Customer', abs('Current_R12_Sales'/'Current_R12_Units') as 'current', abs('Prior_R12_Sales'/'Prior_R12_Units') as 'prior', abs('Current_R12_Sales'/'Current_R12_Units') - abs('Prior_R12_Sales'/'Prior_R12_Units') as 'difference'; r12 = foreach {{cell(Chart_Display.selection, 0, \"groupName\").asObject()}} generate 'Part', 'Customer', 'current', 'prior', 'difference'; r12 = filter r12 by 'current' != {{cell(static_4.selection, 0, \"groupName\").asObject()}} && 'prior' != {{cell(static_4.selection, 0, \"groupName\").asObject()}};  r12 = order r12 by 'difference' {{cell(static_1.selection, 0, \"groupName\").asObject()}}; r12 = foreach r12 generate 'Customer', 'Part', (case when \"{{cell(Chart_Display.selection, 0, \"groupNameCompact\").asString()}}\" == \"Unit_Price\" then number_to_string('current',\"$#,##0.00;-$#,##0.00\") when \"{{cell(Chart_Display.selection, 0, \"groupNameCompact\").asString()}}\" == \"Net_Sales\" then number_to_string('current',\"$#,###;-$#,###\") else number_to_string('current',\"#,###\") end) as 'current', (case when \"{{cell(Chart_Display.selection, 0, \"groupNameCompact\").asString()}}\" == \"Unit_Price\" then number_to_string('prior',\"$#,##0.00;-$#,##0.00\") when \"{{cell(Chart_Display.selection, 0, \"groupNameCompact\").asString()}}\" == \"Net_Sales\" then number_to_string('prior',\"$#,###;-$#,###\") else number_to_string('prior',\"#,###\") end) as 'prior', (case when \"{{cell(Chart_Display.selection, 0, \"groupNameCompact\").asString()}}\" == \"Unit_Price\" then number_to_string('difference',\"$#,##0.00;-$#,##0.00\") when \"{{cell(Chart_Display.selection, 0, \"groupNameCompact\").asString()}}\" == \"Net_Sales\" then number_to_string('difference',\"$#,###;-$#,###\") else number_to_string('difference',\"#,###\") end )as 'difference';                                                                                                                                                                final = limit {{cell(timing_selector.selection, 0, \"data_selector\").asObject()}} 20; final = foreach final generate 'Customer', 'Part', 'difference', prior as {{cell(timing_selector.selection, 0, \"prior_name\").asOrder()}}, current as {{cell(timing_selector.selection, 0, \"current_name\").asOrder()}}",
+                    "measures": [
+                        [
+                            "count",
+                            "*",
+                            "Customer"
+                        ],
+                        [
+                            "count",
+                            "*",
+                            "Part"
+                        ],
+                        [
+                            "count",
+                            "*",
+                            "{{cell(timing_selector.selection, 0, \"current_name\").asObject()}}"
+                        ],
+                        [
+                            "count",
+                            "*",
+                            "{{cell(timing_selector.selection, 0, \"prior_name\").asObject()}}"
+                        ],
+                        [
+                            "count",
+                            "*",
+                            "difference"
+                        ]
+                    ]
+                },
+                "receiveFacetSource": {
+                    "mode": "all",
+                    "steps": []
+                },
+                "selectMode": "single",
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "options": {}
+                }
+            },
+            "latest_year": {
+                "broadcastFacet": false,
+                "datasets": [
+                    {
+                        "id": "0Fb1E0000008tjoSAA",
+                        "label": "POS Volume Change",
+                        "name": "POS_Volume_Change1",
+                        "url": "/services/data/v53.0/wave/datasets/0Fb1E0000008tjoSAA"
+                    }
+                ],
+                "isGlobal": false,
+                "query": {
+                    "pigql": " Volume_Change = load \"POS_Volume_Change1\"; final = foreach Volume_Change generate 'latest_year' as 'latest year'; final = limit final 1  ",
+                    "measures": [
+                        [
+                            "count",
+                            "*",
+                            "latest year"
+                        ]
+                    ]
+                },
+                "receiveFacetSource": {
+                    "mode": "all",
+                    "steps": []
+                },
+                "selectMode": "single",
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "options": {}
+                }
+            },
+            "static_4": {
+                "broadcastFacet": true,
+                "columns": {},
+                "isGlobal": false,
+                "selectMode": "singlerequired",
+                "start": {
+                    "display": [
+                        "Net Sales"
+                    ]
+                },
+                "type": "staticflex",
+                "useGlobal": false,
+                "values": [
+                    {
+                        "display": "All Data",
+                        "displayPlural": "All Data",
+                        "groupNameProject": "'all_data' as 'all_data'",
+                        "groupName": "-999999999",
+                        "groupNameAlias": "'all_data'",
+                        "groupNameCompact": "all_data"
+                    },
+                    {
+                        "display": "Remove Zeros",
+                        "displayPlural": "Remove Zeros",
+                        "groupNameProject": "'remove_zeros' as 'remove_zeros'",
+                        "groupName": "0",
+                        "groupNameAlias": "'remove_zeros'",
+                        "groupNameCompact": "remove_zeros"
+                    }
+                ],
+                "numbers": [],
+                "strings": [],
+                "groups": []
+            },
+            "all_all_all_1": {
+                "broadcastFacet": false,
+                "datasets": [
+                    {
+                        "id": "0Fb1E0000008tjoSAA",
+                        "label": "POS Volume Change",
+                        "name": "POS_Volume_Change1",
+                        "url": "/services/data/v53.0/wave/datasets/0Fb1E0000008tjoSAA"
+                    }
+                ],
+                "isGlobal": false,
+                "query": {
+                    "pigql": " Volume_Change = load \"POS_Volume_Change1\"; Unit_Price = filter Volume_Change by 'one_month_back_units' != 0; Unit_Price = filter Unit_Price by 'one_month_back_sales' != 0; Unit_Price = filter Unit_Price by 'one_year_back_units' != 0; Unit_Price = filter Unit_Price by 'one_year_back_sales' != 0; Volume_Change = group Volume_Change by all; Unit_Price = group Unit_Price by all; POS_Units = foreach Volume_Change generate sum('one_month_back_units') as 'latest month', sum('one_year_back_units') as 'year prior', sum('one_month_back_units') - sum('one_year_back_units') as 'difference'; Net_Sales = foreach Volume_Change generate sum('one_month_back_sales') as 'latest month', sum('one_year_back_sales') as 'year prior', sum('one_month_back_sales') - sum('one_year_back_sales') as 'difference'; Unit_Price = foreach Unit_Price generate abs(sum('one_month_back_sales')/sum('one_month_back_units')) as 'latest month', abs(sum('one_year_back_sales')/sum('one_year_back_units')) as 'year prior', abs(sum('one_month_back_sales')/sum('one_month_back_units')) - abs(sum('one_year_back_sales')/sum('one_year_back_units')) as 'difference'; final = foreach {{cell(Chart_Display.selection, 0, \"groupName\").asObject()}} generate (case when \"{{cell(Chart_Display.selection, 0, \"groupNameCompact\").asString()}}\" == \"Unit_Price\" then number_to_string('latest month',\"$#,##0.00;-$#,##0.00\") when \"{{cell(Chart_Display.selection, 0, \"groupNameCompact\").asString()}}\" == \"Net_Sales\" then number_to_string('latest month',\"$#,###;-$#,###\") else number_to_string('latest month',\"#,###\") end) as 'latest month', (case when \"{{cell(Chart_Display.selection, 0, \"groupNameCompact\").asString()}}\" == \"Unit_Price\" then number_to_string('year prior',\"$#,##0.00;-$#,##0.00\") when \"{{cell(Chart_Display.selection, 0, \"groupNameCompact\").asString()}}\" == \"Net_Sales\" then number_to_string('year prior',\"$#,###;-$#,###\") else number_to_string('year prior',\"#,###\") end) as 'year prior', (case when \"{{cell(Chart_Display.selection, 0, \"groupNameCompact\").asString()}}\" == \"Unit_Price\" then number_to_string('difference',\"$#,##0.00;-$#,##0.00\") when \"{{cell(Chart_Display.selection, 0, \"groupNameCompact\").asString()}}\" == \"Net_Sales\" then number_to_string('difference',\"$#,###;-$#,###\") else number_to_string('difference',\"#,###\") end )as 'difference'; ",
+                    "measures": [
+                        [
+                            "count",
+                            "*",
+                            "latest month"
+                        ],
+                        [
+                            "count",
+                            "*",
+                            "year prior"
+                        ],
+                        [
+                            "count",
+                            "*",
+                            "difference"
+                        ]
+                    ]
+                },
+                "receiveFacetSource": {
+                    "mode": "all",
+                    "steps": []
+                },
+                "selectMode": "single",
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "options": {}
+                }
+            },
+            "all_all_all_all_all_3": {
+                "broadcastFacet": false,
+                "datasets": [
+                    {
+                        "id": "0Fb1E0000008tjoSAA",
+                        "label": "POS Volume Change",
+                        "name": "POS_Volume_Change1",
+                        "url": "/services/data/v53.0/wave/datasets/0Fb1E0000008tjoSAA"
+                    }
+                ],
+                "isGlobal": false,
+                "query": {
+                    "pigql": " Volume_Change = load \"POS_Volume_Change1\"; Unit_Price = filter Volume_Change by 'one_month_back_units' != 0; Unit_Price = filter Unit_Price by 'one_month_back_sales' != 0; Unit_Price = filter Unit_Price by 'two_months_back_units' != 0; Unit_Price = filter Unit_Price by 'two_months_back_sales' != 0; Volume_Change = group Volume_Change by all; Unit_Price = group Unit_Price by all; POS_Units = foreach Volume_Change generate sum('one_month_back_units') as 'latest month', sum('two_months_back_units') as 'previous month', sum('one_month_back_units') - sum('two_months_back_units') as 'difference'; Net_Sales = foreach Volume_Change generate sum('one_month_back_sales') as 'latest month', sum('two_months_back_sales') as 'previous month', sum('one_month_back_sales') - sum('two_months_back_sales') as 'difference'; Unit_Price = foreach Unit_Price generate abs(sum('one_month_back_sales')/sum('one_month_back_units')) as 'latest month', abs(sum('two_months_back_sales')/sum('two_months_back_units')) as 'previous month', abs(sum('one_month_back_sales')/sum('one_month_back_units')) - abs(sum('two_months_back_sales')/sum('two_months_back_units')) as 'difference'; final = foreach {{cell(Chart_Display.selection, 0, \"groupName\").asObject()}} generate (case when \"{{cell(Chart_Display.selection, 0, \"groupNameCompact\").asString()}}\" == \"Unit_Price\" then number_to_string('latest month',\"$#,##0.00;-$#,##0.00\") when \"{{cell(Chart_Display.selection, 0, \"groupNameCompact\").asString()}}\" == \"Net_Sales\" then number_to_string('latest month',\"$#,###;-$#,###\") else number_to_string('latest month',\"#,###\") end) as 'latest month', (case when \"{{cell(Chart_Display.selection, 0, \"groupNameCompact\").asString()}}\" == \"Unit_Price\" then number_to_string('previous month',\"$#,##0.00;-$#,##0.00\") when \"{{cell(Chart_Display.selection, 0, \"groupNameCompact\").asString()}}\" == \"Net_Sales\" then number_to_string('previous month',\"$#,###;-$#,###\") else number_to_string('previous month',\"#,###\") end) as 'previous month', (case when \"{{cell(Chart_Display.selection, 0, \"groupNameCompact\").asString()}}\" == \"Unit_Price\" then number_to_string('difference',\"$#,##0.00;-$#,##0.00\") when \"{{cell(Chart_Display.selection, 0, \"groupNameCompact\").asString()}}\" == \"Net_Sales\" then number_to_string('difference',\"$#,###;-$#,###\") else number_to_string('difference',\"#,###\") end )as 'difference'; ",
+                    "measures": [
+                        [
+                            "count",
+                            "*",
+                            "latest month"
+                        ],
+                        [
+                            "count",
+                            "*",
+                            "previous month"
+                        ],
+                        [
+                            "count",
+                            "*",
+                            "difference"
+                        ]
+                    ]
+                },
+                "receiveFacetSource": {
+                    "mode": "all",
+                    "steps": []
+                },
+                "selectMode": "single",
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "options": {}
+                }
+            },
+            "timing_selector": {
+                "broadcastFacet": true,
+                "columns": {},
+                "isGlobal": false,
+                "selectMode": "singlerequired",
+                "start": {
+                    "display": [
+                        "Net Sales"
+                    ]
+                },
+                "type": "staticflex",
+                "useGlobal": false,
+                "values": [
+                    {
+                        "display": "Current M vs Prior M",
+                        "data_selector": "month_prior",
+                        "prior_name": "Month Prior",
+                        "current_name": "Current Month"
+                    },
+                    {
+                        "display": "Current M vs Same M Year Prior",
+                        "data_selector": "year_prior",
+                        "prior_name": "Same Month Year Prior",
+                        "current_name": "Current Month"
+                    },
+                    {
+                        "display": "Current YTD vs Year Prior YTD",
+                        "data_selector": "ytd",
+                        "prior_name": "Year Prior YTD",
+                        "current_name": "Current YTD"
+                    },
+                    {
+                        "display": "Current R12 vs Prior R12",
+                        "data_selector": "r12",
+                        "prior_name": "Prior R12",
+                        "current_name": "Current R12"
+                    }
+                ],
+                "numbers": [],
+                "strings": [],
+                "groups": []
+            },
+            "static_1": {
+                "broadcastFacet": true,
+                "columns": {},
+                "isGlobal": false,
+                "selectMode": "singlerequired",
+                "start": {
+                    "display": [
+                        "Net Sales"
+                    ]
+                },
+                "type": "staticflex",
+                "useGlobal": false,
+                "values": [
+                    {
+                        "display": "Top",
+                        "displayPlural": "Top",
+                        "groupNameProject": "'Top' as 'Top'",
+                        "groupName": "desc",
+                        "groupNameAlias": "'desc'",
+                        "groupNameCompact": "desc"
+                    },
+                    {
+                        "display": "Bottom",
+                        "displayPlural": "Bottom",
+                        "groupNameProject": "'Bottom' as 'Bottom'",
+                        "groupName": "asc",
+                        "groupNameAlias": "'asc'",
+                        "groupNameCompact": "asc"
+                    }
+                ],
+                "numbers": [],
+                "strings": [],
+                "groups": []
+            },
+            "Category_Manager_1": {
+                "broadcastFacet": true,
+                "datasets": [
+                    {
+                        "id": "0Fb1E0000008tjoSAA",
+                        "label": "POS Volume Change",
+                        "name": "POS_Volume_Change1",
+                        "url": "/services/data/v53.0/wave/datasets/0Fb1E0000008tjoSAA"
+                    }
+                ],
+                "isGlobal": false,
+                "query": {
+                    "measures": [
+                        [
+                            "count",
+                            "*"
+                        ]
+                    ],
+                    "groups": [
+                        "Category_Manager"
+                    ]
+                },
+                "receiveFacetSource": {
+                    "mode": "all",
+                    "steps": []
+                },
+                "selectMode": "multi",
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "options": {}
+                }
+            },
+            "Part_1": {
+                "broadcastFacet": true,
+                "datasets": [
+                    {
+                        "id": "0Fb1E0000008tjoSAA",
+                        "label": "POS Volume Change",
+                        "name": "POS_Volume_Change1",
+                        "url": "/services/data/v53.0/wave/datasets/0Fb1E0000008tjoSAA"
+                    }
+                ],
+                "isGlobal": false,
+                "query": {
+                    "measures": [
+                        [
+                            "count",
+                            "*"
+                        ]
+                    ],
+                    "groups": [
+                        "Part"
+                    ]
+                },
+                "receiveFacetSource": {
+                    "mode": "all",
+                    "steps": []
+                },
+                "selectMode": "multi",
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "options": {}
+                }
+            },
+            "Product_Line_1": {
+                "broadcastFacet": true,
+                "datasets": [
+                    {
+                        "id": "0Fb1E0000008tjoSAA",
+                        "label": "POS Volume Change",
+                        "name": "POS_Volume_Change1",
+                        "url": "/services/data/v53.0/wave/datasets/0Fb1E0000008tjoSAA"
+                    }
+                ],
+                "isGlobal": false,
+                "query": {
+                    "measures": [
+                        [
+                            "count",
+                            "*"
+                        ]
+                    ],
+                    "groups": [
+                        "Product_Line"
+                    ]
+                },
+                "receiveFacetSource": {
+                    "mode": "all",
+                    "steps": []
+                },
+                "selectMode": "multi",
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "options": {}
+                }
+            },
+            "Product_Group_1": {
+                "broadcastFacet": true,
+                "datasets": [
+                    {
+                        "id": "0Fb1E0000008tjoSAA",
+                        "label": "POS Volume Change",
+                        "name": "POS_Volume_Change1",
+                        "url": "/services/data/v53.0/wave/datasets/0Fb1E0000008tjoSAA"
+                    }
+                ],
+                "isGlobal": false,
+                "query": {
+                    "measures": [
+                        [
+                            "count",
+                            "*"
+                        ]
+                    ],
+                    "groups": [
+                        "Product_Group"
+                    ]
+                },
+                "receiveFacetSource": {
+                    "mode": "all",
+                    "steps": []
+                },
+                "selectMode": "single",
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "options": {}
+                }
+            },
+            "part_volume_change": {
+                "broadcastFacet": false,
+                "datasets": [
+                    {
+                        "id": "0Fb1E0000008tjoSAA",
+                        "label": "POS Volume Change",
+                        "name": "POS_Volume_Change1",
+                        "url": "/services/data/v53.0/wave/datasets/0Fb1E0000008tjoSAA"
+                    }
+                ],
+                "isGlobal": false,
+                "query": {
+                    "pigql": " Volume_Change = load \"POS_Volume_Change1\"; Volume_Change = group Volume_Change by ('Part', 'Product_Line', 'Category', 'Category_Manager'); Volume_Change = foreach Volume_Change generate 'Part', 'Product_Line', 'Category', 'Category_Manager', sum('one_month_back_units') as 'one_month_back_units', sum('one_month_back_sales') as 'one_month_back_sales', sum('two_months_back_units') as 'two_months_back_units', sum('two_months_back_sales') as 'two_months_back_sales', sum('one_year_back_units') as 'one_year_back_units', sum('one_year_back_sales') as 'one_year_back_sales', sum('YTD_units') as 'YTD_units', sum('YTD_sales') as 'YTD_sales', sum('last_YTD_units') as 'last_YTD_units', sum('last_YTD_sales') as 'last_YTD_sales', sum('Current_R12_Units') as 'Current_R12_Units', sum('Current_R12_Sales') as 'Current_R12_Sales', sum('Prior_R12_Units') as 'Prior_R12_Units', sum('Prior_R12_Sales') as 'Prior_R12_Sales', avg('latest_month') as 'latest_month', avg('latest_year') as 'latest_year';                                    POS_Units = foreach Volume_Change generate 'Part', 'one_month_back_units' as 'current', 'two_months_back_units' as 'prior', 'one_month_back_units' - 'two_months_back_units' as 'difference'; Net_Sales = foreach Volume_Change generate 'Part', 'one_month_back_sales' as 'current', 'two_months_back_sales' as 'prior', 'one_month_back_sales' - 'two_months_back_sales' as 'difference'; Unit_Price = filter Volume_Change by 'one_month_back_units' != 0; Unit_Price = filter Unit_Price by 'one_month_back_sales' != 0; Unit_Price = filter Unit_Price by 'two_months_back_units' != 0; Unit_Price = filter Unit_Price by 'two_months_back_sales' != 0; Unit_Price = foreach Unit_Price generate 'Part', abs('one_month_back_sales'/'one_month_back_units') as 'current', abs('two_months_back_sales'/'two_months_back_units') as 'prior', abs('one_month_back_sales'/'one_month_back_units') - abs('two_months_back_sales'/'two_months_back_units') as 'difference'; month_prior = foreach {{cell(Chart_Display.selection, 0, \"groupName\").asObject()}} generate 'Part', 'current', 'prior', 'difference'; month_prior = filter month_prior by 'current' != {{cell(static_4.selection, 0, \"groupName\").asObject()}} && 'prior' != {{cell(static_4.selection, 0, \"groupName\").asObject()}}; month_prior = order month_prior by 'difference' {{cell(static_1.selection, 0, \"groupName\").asObject()}}; month_prior = foreach month_prior generate 'Part', (case when \"{{cell(Chart_Display.selection, 0, \"groupNameCompact\").asString()}}\" == \"Unit_Price\" then number_to_string('current',\"$#,##0.00;-$#,##0.00\") when \"{{cell(Chart_Display.selection, 0, \"groupNameCompact\").asString()}}\" == \"Net_Sales\" then number_to_string('current',\"$#,###;-$#,###\") else number_to_string('current',\"#,###\") end) as 'current', (case when \"{{cell(Chart_Display.selection, 0, \"groupNameCompact\").asString()}}\" == \"Unit_Price\" then number_to_string('prior',\"$#,##0.00;-$#,##0.00\") when \"{{cell(Chart_Display.selection, 0, \"groupNameCompact\").asString()}}\" == \"Net_Sales\" then number_to_string('prior',\"$#,###;-$#,###\") else number_to_string('prior',\"#,###\") end) as 'prior', (case when \"{{cell(Chart_Display.selection, 0, \"groupNameCompact\").asString()}}\" == \"Unit_Price\" then number_to_string('difference',\"$#,##0.00;-$#,##0.00\") when \"{{cell(Chart_Display.selection, 0, \"groupNameCompact\").asString()}}\" == \"Net_Sales\" then number_to_string('difference',\"$#,###;-$#,###\") else number_to_string('difference',\"#,###\") end )as 'difference';                                                                                                                                                                                  POS_Units = foreach Volume_Change generate 'Part', 'one_month_back_units' as 'current', 'one_year_back_units' as 'prior', 'one_month_back_units' - 'one_year_back_units' as 'difference'; Net_Sales = foreach Volume_Change generate 'Part', 'one_month_back_sales' as 'current', 'one_year_back_sales' as 'prior', 'one_month_back_sales' - 'one_year_back_sales' as 'difference'; Unit_Price = filter Volume_Change by 'one_month_back_units' != 0; Unit_Price = filter Unit_Price by 'one_month_back_sales' != 0; Unit_Price = filter Unit_Price by 'one_year_back_units' != 0; Unit_Price = filter Unit_Price by 'one_year_back_sales' != 0; Unit_Price = foreach Unit_Price generate 'Part', abs('one_month_back_sales'/'one_month_back_units') as 'current', abs('one_year_back_sales'/'one_year_back_units') as 'prior', abs('one_month_back_sales'/'one_month_back_units') - abs('one_year_back_sales'/'one_year_back_units') as 'difference'; year_prior = foreach {{cell(Chart_Display.selection, 0, \"groupName\").asObject()}} generate 'Part', 'current', 'prior', 'difference'; year_prior = filter year_prior by 'current' != {{cell(static_4.selection, 0, \"groupName\").asObject()}} && 'prior' != {{cell(static_4.selection, 0, \"groupName\").asObject()}};  year_prior = order year_prior by 'difference' {{cell(static_1.selection, 0, \"groupName\").asObject()}}; year_prior = foreach year_prior generate 'Part', (case when \"{{cell(Chart_Display.selection, 0, \"groupNameCompact\").asString()}}\" == \"Unit_Price\" then number_to_string('current',\"$#,##0.00;-$#,##0.00\") when \"{{cell(Chart_Display.selection, 0, \"groupNameCompact\").asString()}}\" == \"Net_Sales\" then number_to_string('current',\"$#,###;-$#,###\") else number_to_string('current',\"#,###\") end) as 'current', (case when \"{{cell(Chart_Display.selection, 0, \"groupNameCompact\").asString()}}\" == \"Unit_Price\" then number_to_string('prior',\"$#,##0.00;-$#,##0.00\") when \"{{cell(Chart_Display.selection, 0, \"groupNameCompact\").asString()}}\" == \"Net_Sales\" then number_to_string('prior',\"$#,###;-$#,###\") else number_to_string('prior',\"#,###\") end) as 'prior', (case when \"{{cell(Chart_Display.selection, 0, \"groupNameCompact\").asString()}}\" == \"Unit_Price\" then number_to_string('difference',\"$#,##0.00;-$#,##0.00\") when \"{{cell(Chart_Display.selection, 0, \"groupNameCompact\").asString()}}\" == \"Net_Sales\" then number_to_string('difference',\"$#,###;-$#,###\") else number_to_string('difference',\"#,###\") end )as 'difference';                   POS_Units = foreach Volume_Change generate 'Part', 'YTD_units' as 'current', 'last_YTD_units' as 'prior', 'YTD_units' - 'last_YTD_units' as 'difference'; Net_Sales = foreach Volume_Change generate 'Part', 'YTD_sales' as 'current', 'last_YTD_sales' as 'prior', 'YTD_sales' - 'last_YTD_sales' as 'difference'; Unit_Price = filter Volume_Change by 'YTD_units' != 0; Unit_Price = filter Unit_Price by 'YTD_sales' != 0; Unit_Price = filter Unit_Price by 'last_YTD_units' != 0; Unit_Price = filter Unit_Price by 'last_YTD_sales' != 0; Unit_Price = foreach Unit_Price generate 'Part', abs('YTD_sales'/'YTD_units') as 'current', abs('last_YTD_sales'/'last_YTD_units') as 'prior', abs('YTD_sales'/'YTD_units') - abs('last_YTD_sales'/'last_YTD_units') as 'difference'; ytd = foreach {{cell(Chart_Display.selection, 0, \"groupName\").asObject()}} generate 'Part', 'current', 'prior', 'difference'; ytd = filter ytd by 'current' != {{cell(static_4.selection, 0, \"groupName\").asObject()}} && 'prior' != {{cell(static_4.selection, 0, \"groupName\").asObject()}};  ytd = order ytd by 'difference' {{cell(static_1.selection, 0, \"groupName\").asObject()}}; ytd = foreach ytd generate 'Part', (case when \"{{cell(Chart_Display.selection, 0, \"groupNameCompact\").asString()}}\" == \"Unit_Price\" then number_to_string('current',\"$#,##0.00;-$#,##0.00\") when \"{{cell(Chart_Display.selection, 0, \"groupNameCompact\").asString()}}\" == \"Net_Sales\" then number_to_string('current',\"$#,###;-$#,###\") else number_to_string('current',\"#,###\") end) as 'current', (case when \"{{cell(Chart_Display.selection, 0, \"groupNameCompact\").asString()}}\" == \"Unit_Price\" then number_to_string('prior',\"$#,##0.00;-$#,##0.00\") when \"{{cell(Chart_Display.selection, 0, \"groupNameCompact\").asString()}}\" == \"Net_Sales\" then number_to_string('prior',\"$#,###;-$#,###\") else number_to_string('prior',\"#,###\") end) as 'prior', (case when \"{{cell(Chart_Display.selection, 0, \"groupNameCompact\").asString()}}\" == \"Unit_Price\" then number_to_string('difference',\"$#,##0.00;-$#,##0.00\") when \"{{cell(Chart_Display.selection, 0, \"groupNameCompact\").asString()}}\" == \"Net_Sales\" then number_to_string('difference',\"$#,###;-$#,###\") else number_to_string('difference',\"#,###\") end )as 'difference';                                             POS_Units = foreach Volume_Change generate 'Part', 'Current_R12_Units' as 'current', 'Prior_R12_Units' as 'prior', 'Current_R12_Units' - 'Prior_R12_Units' as 'difference'; Net_Sales = foreach Volume_Change generate 'Part', 'Current_R12_Sales' as 'current', 'Prior_R12_Sales' as 'prior', 'Current_R12_Sales' - 'Prior_R12_Sales' as 'difference'; Unit_Price = filter Volume_Change by 'Current_R12_Units' != 0; Unit_Price = filter Unit_Price by 'Current_R12_Sales' != 0; Unit_Price = filter Unit_Price by 'Prior_R12_Units' != 0; Unit_Price = filter Unit_Price by 'Prior_R12_Sales' != 0; Unit_Price = foreach Unit_Price generate 'Part', abs('Current_R12_Sales'/'Current_R12_Units') as 'current', abs('Prior_R12_Sales'/'Prior_R12_Units') as 'prior', abs('Current_R12_Sales'/'Current_R12_Units') - abs('Prior_R12_Sales'/'Prior_R12_Units') as 'difference'; r12 = foreach {{cell(Chart_Display.selection, 0, \"groupName\").asObject()}} generate 'Part', 'current', 'prior', 'difference'; r12 = filter r12 by 'current' != {{cell(static_4.selection, 0, \"groupName\").asObject()}} && 'prior' != {{cell(static_4.selection, 0, \"groupName\").asObject()}};  r12 = order r12 by 'difference' {{cell(static_1.selection, 0, \"groupName\").asObject()}}; r12 = foreach r12 generate 'Part', (case when \"{{cell(Chart_Display.selection, 0, \"groupNameCompact\").asString()}}\" == \"Unit_Price\" then number_to_string('current',\"$#,##0.00;-$#,##0.00\") when \"{{cell(Chart_Display.selection, 0, \"groupNameCompact\").asString()}}\" == \"Net_Sales\" then number_to_string('current',\"$#,###;-$#,###\") else number_to_string('current',\"#,###\") end) as 'current', (case when \"{{cell(Chart_Display.selection, 0, \"groupNameCompact\").asString()}}\" == \"Unit_Price\" then number_to_string('prior',\"$#,##0.00;-$#,##0.00\") when \"{{cell(Chart_Display.selection, 0, \"groupNameCompact\").asString()}}\" == \"Net_Sales\" then number_to_string('prior',\"$#,###;-$#,###\") else number_to_string('prior',\"#,###\") end) as 'prior', (case when \"{{cell(Chart_Display.selection, 0, \"groupNameCompact\").asString()}}\" == \"Unit_Price\" then number_to_string('difference',\"$#,##0.00;-$#,##0.00\") when \"{{cell(Chart_Display.selection, 0, \"groupNameCompact\").asString()}}\" == \"Net_Sales\" then number_to_string('difference',\"$#,###;-$#,###\") else number_to_string('difference',\"#,###\") end )as 'difference';                                                                                                                                                                final = limit {{cell(timing_selector.selection, 0, \"data_selector\").asObject()}} 20; final = foreach final generate 'Part', 'difference', prior as {{cell(timing_selector.selection, 0, \"prior_name\").asOrder()}}, current as {{cell(timing_selector.selection, 0, \"current_name\").asOrder()}}",
+                    "measures": [
+                        [
+                            "count",
+                            "*",
+                            "Part"
+                        ],
+                        [
+                            "count",
+                            "*",
+                            "{{cell(timing_selector.selection, 0, \"current_name\").asObject()}}"
+                        ],
+                        [
+                            "count",
+                            "*",
+                            "{{cell(timing_selector.selection, 0, \"prior_name\").asObject()}}"
+                        ],
+                        [
+                            "count",
+                            "*",
+                            "difference"
+                        ]
+                    ]
+                },
+                "receiveFacetSource": {
+                    "mode": "all",
+                    "steps": []
+                },
+                "selectMode": "single",
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "options": {}
+                }
+            },
+            "all_all_all_3": {
+                "broadcastFacet": false,
+                "datasets": [
+                    {
+                        "id": "0Fb1E0000008tjoSAA",
+                        "label": "POS Volume Change",
+                        "name": "POS_Volume_Change1",
+                        "url": "/services/data/v53.0/wave/datasets/0Fb1E0000008tjoSAA"
+                    }
+                ],
+                "isGlobal": false,
+                "query": {
+                    "pigql": " Volume_Change = load \"POS_Volume_Change1\"; final = group Volume_Change by all; final = foreach final generate avg('latest_month_num_weeks') as '#_weeks_in_latest_month', avg('previous_month_num_weeks') as '#_weeks_in_previous_month', avg('latest_month_year_prior_num_weeks') as '#_weeks_in_latest_month_year_prior', avg('ytd_num_weeks') as '#_weeks_YTD', avg('prior_ytd_num_weeks') as '#_weeks_prior_YTD'  ",
+                    "measures": [
+                        [
+                            "count",
+                            "*",
+                            "#_weeks_in_latest_month"
+                        ],
+                        [
+                            "count",
+                            "*",
+                            "#_weeks_in_previous_month"
+                        ],
+                        [
+                            "count",
+                            "*",
+                            "#_weeks_in_latest_month_year_prior"
+                        ],
+                        [
+                            "count",
+                            "*",
+                            "#_weeks_YTD"
+                        ],
+                        [
+                            "count",
+                            "*",
+                            "#_weeks_prior_YTD"
+                        ]
+                    ]
+                },
+                "receiveFacetSource": {
+                    "mode": "all",
+                    "steps": []
+                },
+                "selectMode": "single",
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "options": {}
+                }
+            },
+            "all_all_all_2": {
+                "broadcastFacet": false,
+                "datasets": [
+                    {
+                        "id": "0Fb1E0000008tjoSAA",
+                        "label": "POS Volume Change",
+                        "name": "POS_Volume_Change1",
+                        "url": "/services/data/v53.0/wave/datasets/0Fb1E0000008tjoSAA"
+                    }
+                ],
+                "isGlobal": false,
+                "query": {
+                    "pigql": " Volume_Change = load \"POS_Volume_Change1\"; Unit_Price = filter Volume_Change by 'YTD_units' != 0; Unit_Price = filter Unit_Price by 'YTD_sales' != 0; Unit_Price = filter Unit_Price by 'last_YTD_units' != 0; Unit_Price = filter Unit_Price by 'last_YTD_sales' != 0; Volume_Change = group Volume_Change by all; Unit_Price = group Unit_Price by all; POS_Units = foreach Volume_Change generate sum('YTD_units') as 'YTD', sum('last_YTD_units') as 'Prior YTD', sum('YTD_units') - sum('last_YTD_units') as 'difference'; Net_Sales = foreach Volume_Change generate sum('YTD_sales') as 'YTD', sum('last_YTD_sales') as 'Prior YTD', sum('YTD_sales') - sum('last_YTD_sales') as 'difference'; Unit_Price = foreach Unit_Price generate abs(sum('YTD_sales')/sum('YTD_units')) as 'YTD', abs(sum('last_YTD_sales')/sum('last_YTD_units')) as 'Prior YTD', abs(sum('YTD_sales')/sum('YTD_units')) - abs(sum('last_YTD_sales')/sum('last_YTD_units')) as 'difference'; final = foreach {{cell(Chart_Display.selection, 0, \"groupName\").asObject()}} generate (case when \"{{cell(Chart_Display.selection, 0, \"groupNameCompact\").asString()}}\" == \"Unit_Price\" then number_to_string('YTD',\"$#,##0.00;-$#,##0.00\") when \"{{cell(Chart_Display.selection, 0, \"groupNameCompact\").asString()}}\" == \"Net_Sales\" then number_to_string('YTD',\"$#,###;-$#,###\") else number_to_string('YTD',\"#,###\") end) as 'YTD', (case when \"{{cell(Chart_Display.selection, 0, \"groupNameCompact\").asString()}}\" == \"Unit_Price\" then number_to_string('Prior YTD',\"$#,##0.00;-$#,##0.00\") when \"{{cell(Chart_Display.selection, 0, \"groupNameCompact\").asString()}}\" == \"Net_Sales\" then number_to_string('Prior YTD',\"$#,###;-$#,###\") else number_to_string('Prior YTD',\"#,###\") end) as 'Prior YTD', (case when \"{{cell(Chart_Display.selection, 0, \"groupNameCompact\").asString()}}\" == \"Unit_Price\" then number_to_string('difference',\"$#,##0.00;-$#,##0.00\") when \"{{cell(Chart_Display.selection, 0, \"groupNameCompact\").asString()}}\" == \"Net_Sales\" then number_to_string('difference',\"$#,###;-$#,###\") else number_to_string('difference',\"#,###\") end )as 'difference';",
+                    "measures": [
+                        [
+                            "count",
+                            "*",
+                            "YTD"
+                        ],
+                        [
+                            "count",
+                            "*",
+                            "Prior YTD"
+                        ],
+                        [
+                            "count",
+                            "*",
+                            "difference"
+                        ]
+                    ]
+                },
+                "receiveFacetSource": {
+                    "mode": "all",
+                    "steps": []
+                },
+                "selectMode": "single",
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "options": {}
+                }
+            }
+        },
+        "widgetStyle": {
+            "backgroundColor": "#FFFFFF",
+            "borderColor": "#E6ECF2",
+            "borderEdges": [],
+            "borderRadius": 0,
+            "borderWidth": 1
+        },
+        "widgets": {
+            "text_10": {
+                "parameters": {
+                    "content": {
+                        "richTextContent": [
+                            {
+                                "attributes": {
+                                    "size": "20px",
+                                    "color": "#091A3E"
+                                },
+                                "insert": "\"Remove Zeros\" does not effect Totals tables below."
+                            },
+                            {
+                                "attributes": {
+                                    "align": "center"
+                                },
+                                "insert": "\n"
+                            }
+                        ]
+                    },
+                    "showActionMenu": true
+                },
+                "type": "text"
+            },
+            "text_11": {
+                "parameters": {
+                    "content": {
+                        "richTextContent": [
+                            {
+                                "attributes": {
+                                    "size": "16px",
+                                    "color": "#091A3E"
+                                },
+                                "insert": "Filters"
+                            },
+                            {
+                                "attributes": {
+                                    "align": "right"
+                                },
+                                "insert": "\n"
+                            }
+                        ]
+                    },
+                    "showActionMenu": true
+                },
+                "type": "text"
+            },
+            "container_1": {
+                "parameters": {
+                    "alignmentX": "left",
+                    "alignmentY": "top",
+                    "fit": "original"
+                },
+                "type": "container"
+            },
+            "container_2": {
+                "parameters": {
+                    "alignmentX": "left",
+                    "alignmentY": "top",
+                    "fit": "original"
+                },
+                "type": "container"
+            },
+            "container_4": {
+                "parameters": {
+                    "alignmentX": "left",
+                    "alignmentY": "top",
+                    "fit": "original"
+                },
+                "type": "container"
+            },
+            "container_5": {
+                "parameters": {
+                    "alignmentX": "left",
+                    "alignmentY": "top",
+                    "fit": "original"
+                },
+                "type": "container"
+            },
+            "text_3": {
+                "parameters": {
+                    "content": {
+                        "richTextContent": [
+                            {
+                                "attributes": {
+                                    "size": "20px",
+                                    "color": "#091A3E"
+                                },
+                                "insert": "Totals"
+                            },
+                            {
+                                "attributes": {
+                                    "align": "center"
+                                },
+                                "insert": "\n"
+                            }
+                        ]
+                    },
+                    "showActionMenu": false
+                },
+                "type": "text"
+            },
+            "container_6": {
+                "parameters": {
+                    "alignmentX": "left",
+                    "alignmentY": "top",
+                    "fit": "original"
+                },
+                "type": "container"
+            },
+            "text_2": {
+                "parameters": {
+                    "content": {
+                        "richTextContent": [
+                            {
+                                "attributes": {
+                                    "size": "20px",
+                                    "color": "#091A3E"
+                                },
+                                "insert": "Totals"
+                            },
+                            {
+                                "attributes": {
+                                    "align": "center"
+                                },
+                                "insert": "\n"
+                            }
+                        ]
+                    },
+                    "showActionMenu": false
+                },
+                "type": "text"
+            },
+            "text_5": {
+                "parameters": {
+                    "content": {
+                        "richTextContent": [
+                            {
+                                "attributes": {
+                                    "size": "14px",
+                                    "color": "#091A3E"
+                                },
+                                "insert": "Latest Month:"
+                            },
+                            {
+                                "attributes": {
+                                    "align": "right"
+                                },
+                                "insert": "\n"
+                            }
+                        ]
+                    },
+                    "showActionMenu": true
+                },
+                "type": "text"
+            },
+            "text_4": {
+                "parameters": {
+                    "content": {
+                        "richTextContent": [
+                            {
+                                "attributes": {
+                                    "size": "16px",
+                                    "color": "#091A3E"
+                                },
+                                "insert": "Latest Year:"
+                            },
+                            {
+                                "attributes": {
+                                    "align": "right"
+                                },
+                                "insert": "\n"
+                            }
+                        ]
+                    },
+                    "showActionMenu": true
+                },
+                "type": "text"
+            },
+            "text_7": {
+                "parameters": {
+                    "content": {
+                        "richTextContent": [
+                            {
+                                "attributes": {
+                                    "size": "24px",
+                                    "color": "rgb(0, 0, 0)"
+                                },
+                                "insert": "Part Number Volume Change"
+                            },
+                            {
+                                "attributes": {
+                                    "align": "center"
+                                },
+                                "insert": "\n"
+                            }
+                        ]
+                    },
+                    "showActionMenu": false
+                },
+                "type": "text"
+            },
+            "text_6": {
+                "parameters": {
+                    "content": {
+                        "richTextContent": [
+                            {
+                                "attributes": {
+                                    "size": "24px",
+                                    "color": "rgb(0, 0, 0)"
+                                },
+                                "insert": "Customer Part Number Volume Change"
+                            },
+                            {
+                                "attributes": {
+                                    "align": "center"
+                                },
+                                "insert": "\n"
+                            }
+                        ]
+                    },
+                    "showActionMenu": false
+                },
+                "type": "text"
+            },
+            "text_9": {
+                "parameters": {
+                    "content": {
+                        "richTextContent": [
+                            {
+                                "attributes": {
+                                    "size": "18px",
+                                    "color": "#091A3E"
+                                },
+                                "insert": "Uni-Select CDN POS does not report Unit Sales. Alliance, Federated and Pronto do not report Dollar Sales."
+                            },
+                            {
+                                "attributes": {
+                                    "align": "center"
+                                },
+                                "insert": "\n"
+                            }
+                        ]
+                    },
+                    "showActionMenu": true,
+                    "tooltip": ""
+                },
+                "type": "text"
+            },
+            "listselector_6": {
+                "parameters": {
+                    "compact": false,
+                    "displayMode": "combo",
+                    "exploreLink": false,
+                    "filterStyle": {
+                        "titleColor": "#091A3E",
+                        "valueColor": "#091A3E"
+                    },
+                    "instant": true,
+                    "measureField": "count",
+                    "showActionMenu": false,
+                    "step": "Product_Group_1",
+                    "title": "Product Group"
+                },
+                "type": "listselector"
+            },
+            "listselector_3": {
+                "parameters": {
+                    "compact": false,
+                    "displayMode": "combo",
+                    "exploreLink": false,
+                    "filterStyle": {
+                        "titleColor": "#091A3E",
+                        "valueColor": "#17324D"
+                    },
+                    "instant": true,
+                    "measureField": "count",
+                    "showActionMenu": false,
+                    "step": "Category_Manager_1",
+                    "title": "Category Manager"
+                },
+                "type": "listselector"
+            },
+            "listselector_2": {
+                "parameters": {
+                    "compact": false,
+                    "displayMode": "combo",
+                    "exploreLink": false,
+                    "filterStyle": {
+                        "titleColor": "#091A3E",
+                        "valueColor": "#17324D"
+                    },
+                    "instant": true,
+                    "measureField": "count",
+                    "showActionMenu": false,
+                    "step": "Part_1",
+                    "title": "Part"
+                },
+                "type": "listselector"
+            },
+            "text_1": {
+                "parameters": {
+                    "content": {
+                        "richTextContent": [
+                            {
+                                "attributes": {
+                                    "size": "20px",
+                                    "color": "#091A3E"
+                                },
+                                "insert": "Totals"
+                            },
+                            {
+                                "attributes": {
+                                    "align": "center"
+                                },
+                                "insert": "\n"
+                            }
+                        ]
+                    },
+                    "showActionMenu": false
+                },
+                "type": "text"
+            },
+            "listselector_5": {
+                "parameters": {
+                    "compact": false,
+                    "displayMode": "combo",
+                    "exploreLink": false,
+                    "filterStyle": {
+                        "titleColor": "#091A3E",
+                        "valueColor": "#17324D"
+                    },
+                    "instant": true,
+                    "measureField": "count",
+                    "showActionMenu": false,
+                    "step": "Product_Line_1",
+                    "title": "Product Line"
+                },
+                "type": "listselector"
+            },
+            "listselector_4": {
+                "parameters": {
+                    "compact": false,
+                    "displayMode": "combo",
+                    "exploreLink": false,
+                    "filterStyle": {
+                        "titleColor": "#091A3E",
+                        "valueColor": "#17324D"
+                    },
+                    "instant": true,
+                    "measureField": "count",
+                    "showActionMenu": false,
+                    "step": "Category_1",
+                    "title": "Category"
+                },
+                "type": "listselector"
+            },
+            "table_1": {
+                "parameters": {
+                    "borderColor": "#e0e5ee",
+                    "borderWidth": 1,
+                    "cell": {
+                        "backgroundColor": "#ffffff",
+                        "fontColor": "#16325c",
+                        "fontSize": 12
+                    },
+                    "columnProperties": {},
+                    "columns": [],
+                    "customBulkActions": [],
+                    "exploreLink": true,
+                    "header": {
+                        "backgroundColor": "#f4f6f9",
+                        "fontColor": "rgb(0, 0, 255)",
+                        "fontSize": 12
+                    },
+                    "innerMajorBorderColor": "#a8b7c7",
+                    "innerMinorBorderColor": "#e0e5ee",
+                    "mode": "fittocontainer",
+                    "numberOfLines": 1,
+                    "showActionMenu": true,
+                    "showRowIndexColumn": false,
+                    "step": "customer_part_volume_change",
+                    "totals": true,
+                    "verticalPadding": 8,
+                    "evenRowColor": null,
+                    "oddRowColor": null
+                },
+                "type": "table"
+            },
+            "table_2": {
+                "parameters": {
+                    "borderColor": "#e0e5ee",
+                    "borderWidth": 1,
+                    "cell": {
+                        "backgroundColor": "#ffffff",
+                        "fontColor": "#16325c",
+                        "fontSize": 12
+                    },
+                    "columnProperties": {},
+                    "columns": [],
+                    "customBulkActions": [],
+                    "exploreLink": true,
+                    "header": {
+                        "backgroundColor": "#f4f6f9",
+                        "fontColor": "rgb(0, 0, 255)",
+                        "fontSize": 12
+                    },
+                    "innerMajorBorderColor": "#a8b7c7",
+                    "innerMinorBorderColor": "#e0e5ee",
+                    "mode": "fittocontainer",
+                    "numberOfLines": 1,
+                    "showActionMenu": true,
+                    "showRowIndexColumn": false,
+                    "step": "part_volume_change",
+                    "totals": true,
+                    "verticalPadding": 8,
+                    "evenRowColor": null,
+                    "oddRowColor": null
+                },
+                "type": "table"
+            },
+            "table_4": {
+                "parameters": {
+                    "borderColor": "#e0e5ee",
+                    "borderWidth": 1,
+                    "cell": {
+                        "backgroundColor": "#ffffff",
+                        "fontColor": "#16325c",
+                        "fontSize": 12
+                    },
+                    "columnProperties": {},
+                    "columns": [],
+                    "customBulkActions": [],
+                    "exploreLink": true,
+                    "header": {
+                        "backgroundColor": "#f4f6f9",
+                        "fontColor": "rgb(0, 0, 255)",
+                        "fontSize": 12
+                    },
+                    "innerMajorBorderColor": "#a8b7c7",
+                    "innerMinorBorderColor": "#e0e5ee",
+                    "mode": "fittocontainer",
+                    "numberOfLines": 1,
+                    "showActionMenu": false,
+                    "showRowIndexColumn": false,
+                    "step": "all_all_all_all_all_3",
+                    "totals": true,
+                    "verticalPadding": 8,
+                    "evenRowColor": null,
+                    "oddRowColor": null
+                },
+                "type": "table"
+            },
+            "number_2": {
+                "parameters": {
+                    "compact": false,
+                    "exploreLink": false,
+                    "measureField": "latest year",
+                    "numberColor": "rgb(0, 0, 255)",
+                    "numberSize": 20,
+                    "showActionMenu": false,
+                    "step": "latest_year",
+                    "textAlignment": "right",
+                    "titleColor": "#335779",
+                    "titleSize": 10,
+                    "tooltip": {
+                        "customizeTooltip": false
+                    }
+                },
+                "type": "number"
+            },
+            "pillbox_2": {
+                "parameters": {
+                    "compact": false,
+                    "exploreLink": false,
+                    "fontSize": 16,
+                    "selectedTab": {
+                        "backgroundColor": "#677A97",
+                        "borderColor": "#C6D3E1",
+                        "borderEdges": [],
+                        "borderWidth": 1,
+                        "textColor": "#FFFFFF"
+                    },
+                    "showActionMenu": false,
+                    "step": "Chart_Display",
+                    "textColor": "#5C7A99"
+                },
+                "type": "pillbox"
+            },
+            "table_5": {
+                "parameters": {
+                    "borderColor": "#e0e5ee",
+                    "borderWidth": 1,
+                    "cell": {
+                        "backgroundColor": "#ffffff",
+                        "fontColor": "#16325c",
+                        "fontSize": 12
+                    },
+                    "columnProperties": {},
+                    "columns": [],
+                    "customBulkActions": [],
+                    "exploreLink": true,
+                    "header": {
+                        "backgroundColor": "#f4f6f9",
+                        "fontColor": "rgb(0, 0, 255)",
+                        "fontSize": 12
+                    },
+                    "innerMajorBorderColor": "#a8b7c7",
+                    "innerMinorBorderColor": "#e0e5ee",
+                    "mode": "fittocontainer",
+                    "numberOfLines": 1,
+                    "showActionMenu": false,
+                    "showRowIndexColumn": false,
+                    "step": "all_all_all_1",
+                    "totals": true,
+                    "verticalPadding": 8,
+                    "evenRowColor": null,
+                    "oddRowColor": null
+                },
+                "type": "table"
+            },
+            "number_1": {
+                "parameters": {
+                    "compact": false,
+                    "exploreLink": false,
+                    "measureField": "latest month",
+                    "numberColor": "rgb(0, 0, 255)",
+                    "numberSize": 20,
+                    "showActionMenu": false,
+                    "step": "latest_month",
+                    "textAlignment": "right",
+                    "titleColor": "#335779",
+                    "titleSize": 10,
+                    "tooltip": {
+                        "customizeTooltip": false
+                    }
+                },
+                "type": "number"
+            },
+            "pillbox_1": {
+                "parameters": {
+                    "compact": false,
+                    "exploreLink": false,
+                    "fontSize": 16,
+                    "selectedTab": {
+                        "backgroundColor": "#677A97",
+                        "borderColor": "#C6D3E1",
+                        "borderEdges": [],
+                        "borderWidth": 1,
+                        "textColor": "#FFFFFF"
+                    },
+                    "showActionMenu": false,
+                    "step": "static_1",
+                    "textColor": "#5C7A99"
+                },
+                "type": "pillbox"
+            },
+            "table_6": {
+                "parameters": {
+                    "borderColor": "#e0e5ee",
+                    "borderWidth": 1,
+                    "cell": {
+                        "backgroundColor": "#ffffff",
+                        "fontColor": "#16325c",
+                        "fontSize": 12
+                    },
+                    "columnProperties": {},
+                    "columns": [],
+                    "customBulkActions": [],
+                    "exploreLink": true,
+                    "header": {
+                        "backgroundColor": "#f4f6f9",
+                        "fontColor": "rgb(0, 0, 255)",
+                        "fontSize": 12
+                    },
+                    "innerMajorBorderColor": "#a8b7c7",
+                    "innerMinorBorderColor": "#e0e5ee",
+                    "mode": "fittocontainer",
+                    "numberOfLines": 1,
+                    "showActionMenu": false,
+                    "showRowIndexColumn": false,
+                    "step": "all_all_all_2",
+                    "totals": true,
+                    "verticalPadding": 8,
+                    "evenRowColor": null,
+                    "oddRowColor": null
+                },
+                "type": "table"
+            },
+            "pillbox_4": {
+                "parameters": {
+                    "compact": false,
+                    "exploreLink": false,
+                    "fontSize": 16,
+                    "selectedTab": {
+                        "backgroundColor": "#677A97",
+                        "borderColor": "#C6D3E1",
+                        "borderEdges": [],
+                        "borderWidth": 1,
+                        "textColor": "#FFFFFF"
+                    },
+                    "showActionMenu": false,
+                    "step": "static_4",
+                    "textColor": "#5C7A99"
+                },
+                "type": "pillbox"
+            },
+            "table_8": {
+                "parameters": {
+                    "borderColor": "#e0e5ee",
+                    "borderWidth": 1,
+                    "cell": {
+                        "backgroundColor": "#ffffff",
+                        "fontColor": "#16325c",
+                        "fontSize": 12
+                    },
+                    "columnProperties": {},
+                    "columns": [],
+                    "customBulkActions": [],
+                    "exploreLink": true,
+                    "header": {
+                        "backgroundColor": "#f4f6f9",
+                        "fontColor": "rgb(0, 0, 255)",
+                        "fontSize": 12
+                    },
+                    "innerMajorBorderColor": "#a8b7c7",
+                    "innerMinorBorderColor": "#e0e5ee",
+                    "mode": "fittocontainer",
+                    "numberOfLines": 1,
+                    "showActionMenu": false,
+                    "showRowIndexColumn": false,
+                    "step": "all_all_all_3",
+                    "totals": true,
+                    "verticalPadding": 12,
+                    "evenRowColor": null,
+                    "oddRowColor": null
+                },
+                "type": "table"
+            },
+            "pillbox_3": {
+                "parameters": {
+                    "compact": false,
+                    "exploreLink": false,
+                    "fontSize": 16,
+                    "selectedTab": {
+                        "backgroundColor": "#677A97",
+                        "borderColor": "#C6D3E1",
+                        "borderEdges": [],
+                        "borderWidth": 1,
+                        "textColor": "#FFFFFF"
+                    },
+                    "showActionMenu": false,
+                    "step": "timing_selector",
+                    "textColor": "#5C7A99"
+                },
+                "type": "pillbox"
+            },
+            "image_1": {
+                "parameters": {
+                    "alignmentX": "left",
+                    "alignmentY": "top",
+                    "fit": "original",
+                    "image": {
+                        "name": "Delphi_Logopng",
+                        "namespace": ""
+                    }
+                },
+                "type": "image"
+            },
+            "listselector_1": {
+                "parameters": {
+                    "compact": false,
+                    "displayMode": "combo",
+                    "exploreLink": false,
+                    "filterStyle": {
+                        "titleColor": "#091A3E",
+                        "valueColor": "#17324D"
+                    },
+                    "instant": true,
+                    "measureField": "count",
+                    "showActionMenu": false,
+                    "step": "Customer_1",
+                    "title": "Customer"
+                },
+                "type": "listselector"
+            }
+        }
+    },
+    "datasets": [
+        {
+            "id": "0Fb1E0000008tjoSAA",
+            "label": "POS Volume Change",
+            "name": "POS_Volume_Change1",
+            "url": "/services/data/v53.0/wave/datasets/0Fb1E0000008tjoSAA"
+        }
+    ]
+}
