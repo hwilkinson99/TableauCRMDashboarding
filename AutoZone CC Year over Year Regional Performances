@@ -1,0 +1,1956 @@
+{
+    "label": "Copy of AZ CC YoY Regional Performances",
+    "mobileDisabled": false,
+    "description": "Change the calculation? Add a column to the data",
+    "state": {
+        "dataSourceLinks": [],
+        "filters": [],
+        "gridLayouts": [
+            {
+                "name": "Default",
+                "numColumns": 12,
+                "pages": [
+                    {
+                        "label": "Untitled",
+                        "name": "9f0c7379-e579-4b90-bc44-0258eaaea385",
+                        "navigationHidden": false,
+                        "widgets": [
+                            {
+                                "colspan": 12,
+                                "column": 0,
+                                "name": "chart_1",
+                                "row": 5,
+                                "rowspan": 10,
+                                "widgetStyle": {
+                                    "borderColor": "#7D98B3",
+                                    "borderEdges": [
+                                        "all"
+                                    ]
+                                }
+                            },
+                            {
+                                "colspan": 4,
+                                "column": 0,
+                                "name": "pillbox_1",
+                                "row": 4,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "borderColor": "#7D98B3",
+                                    "borderEdges": [
+                                        "all"
+                                    ]
+                                }
+                            },
+                            {
+                                "colspan": 7,
+                                "column": 5,
+                                "name": "pillbox_3",
+                                "row": 4,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "backgroundColor": "#FFFFFF",
+                                    "borderColor": "#7D98B3",
+                                    "borderEdges": [
+                                        "all"
+                                    ],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            },
+                            {
+                                "colspan": 1,
+                                "column": 0,
+                                "name": "listselector_1",
+                                "row": 1,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "borderEdges": []
+                                }
+                            },
+                            {
+                                "colspan": 1,
+                                "column": 3,
+                                "name": "listselector_2",
+                                "row": 1,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "borderEdges": []
+                                }
+                            },
+                            {
+                                "colspan": 1,
+                                "column": 4,
+                                "name": "listselector_3",
+                                "row": 1,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "borderEdges": []
+                                }
+                            },
+                            {
+                                "colspan": 1,
+                                "column": 5,
+                                "name": "listselector_5",
+                                "row": 1,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "borderEdges": []
+                                }
+                            },
+                            {
+                                "colspan": 1,
+                                "column": 6,
+                                "name": "listselector_6",
+                                "row": 1,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "borderEdges": []
+                                }
+                            },
+                            {
+                                "colspan": 1,
+                                "column": 2,
+                                "name": "listselector_7",
+                                "row": 1,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "borderEdges": []
+                                }
+                            },
+                            {
+                                "colspan": 12,
+                                "column": 0,
+                                "name": "table_4",
+                                "row": 17,
+                                "rowspan": 11,
+                                "widgetStyle": {
+                                    "borderEdges": []
+                                }
+                            },
+                            {
+                                "colspan": 12,
+                                "column": 0,
+                                "name": "text_1",
+                                "row": 0,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "borderColor": "rgb(0, 0, 0)",
+                                    "borderEdges": [
+                                        "bottom"
+                                    ]
+                                }
+                            },
+                            {
+                                "colspan": 12,
+                                "column": 0,
+                                "name": "pillbox_2",
+                                "row": 16,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "backgroundColor": "#FFFFFF",
+                                    "borderColor": "#7D98B3",
+                                    "borderEdges": [
+                                        "all"
+                                    ],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            },
+                            {
+                                "colspan": 12,
+                                "column": 0,
+                                "name": "container_2",
+                                "row": 0,
+                                "rowspan": 2,
+                                "widgetStyle": {
+                                    "backgroundColor": "#FFFFFF",
+                                    "borderColor": "#7D98B3",
+                                    "borderEdges": [
+                                        "all"
+                                    ],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            },
+                            {
+                                "colspan": 12,
+                                "column": 0,
+                                "name": "text_2",
+                                "row": 15,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "backgroundColor": "#FFFFFF",
+                                    "borderColor": "rgb(0, 0, 0)",
+                                    "borderEdges": [
+                                        "bottom"
+                                    ],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            },
+                            {
+                                "colspan": 12,
+                                "column": 0,
+                                "name": "container_3",
+                                "row": 15,
+                                "rowspan": 2,
+                                "widgetStyle": {
+                                    "backgroundColor": "#FFFFFF",
+                                    "borderColor": "#7D98B3",
+                                    "borderEdges": [
+                                        "all"
+                                    ],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            },
+                            {
+                                "colspan": 12,
+                                "column": 0,
+                                "name": "text_3",
+                                "row": 3,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "borderColor": "rgb(0, 0, 0)",
+                                    "borderEdges": [
+                                        "bottom"
+                                    ]
+                                }
+                            },
+                            {
+                                "colspan": 4,
+                                "column": 4,
+                                "name": "container_5",
+                                "row": 2,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "backgroundColor": "#FFFFFF",
+                                    "borderColor": "#7D98B3",
+                                    "borderEdges": [
+                                        "all"
+                                    ],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            },
+                            {
+                                "colspan": 12,
+                                "column": 0,
+                                "name": "container_4",
+                                "row": 3,
+                                "rowspan": 2,
+                                "widgetStyle": {
+                                    "borderEdges": []
+                                }
+                            },
+                            {
+                                "colspan": 1,
+                                "column": 7,
+                                "name": "listselector_8",
+                                "row": 2,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "backgroundColor": "#FFFFFF",
+                                    "borderColor": "#E6ECF2",
+                                    "borderEdges": [],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            },
+                            {
+                                "colspan": 1,
+                                "column": 6,
+                                "name": "listselector_9",
+                                "row": 2,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "backgroundColor": "#FFFFFF",
+                                    "borderColor": "#E6ECF2",
+                                    "borderEdges": [],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            },
+                            {
+                                "colspan": 2,
+                                "column": 4,
+                                "name": "text_4",
+                                "row": 2,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "backgroundColor": "#FFFFFF",
+                                    "borderColor": "#091A3E",
+                                    "borderEdges": [],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            },
+                            {
+                                "colspan": 1,
+                                "column": 1,
+                                "name": "listselector_10",
+                                "row": 1,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "backgroundColor": "#FFFFFF",
+                                    "borderColor": "#E6ECF2",
+                                    "borderEdges": [],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            },
+                            {
+                                "colspan": 1,
+                                "column": 7,
+                                "name": "listselector_4",
+                                "row": 1,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "backgroundColor": "#FFFFFF",
+                                    "borderColor": "#E6ECF2",
+                                    "borderEdges": [],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            },
+                            {
+                                "colspan": 1,
+                                "column": 8,
+                                "name": "listselector_11",
+                                "row": 1,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "backgroundColor": "#FFFFFF",
+                                    "borderColor": "#E6ECF2",
+                                    "borderEdges": [],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            },
+                            {
+                                "colspan": 1,
+                                "column": 9,
+                                "name": "listselector_13",
+                                "row": 1,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "backgroundColor": "#FFFFFF",
+                                    "borderColor": "#E6ECF2",
+                                    "borderEdges": [],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            },
+                            {
+                                "colspan": 1,
+                                "column": 10,
+                                "name": "listselector_12",
+                                "row": 1,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "backgroundColor": "#FFFFFF",
+                                    "borderColor": "#E6ECF2",
+                                    "borderEdges": [],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "rowHeight": "normal",
+                "selectors": [],
+                "style": {
+                    "alignmentX": "left",
+                    "alignmentY": "top",
+                    "backgroundColor": "#F2F6FA",
+                    "cellSpacingX": 8,
+                    "cellSpacingY": 8,
+                    "fit": "original",
+                    "gutterColor": "#C5D3E0"
+                },
+                "version": 1
+            }
+        ],
+        "layouts": [],
+        "steps": {
+            "Minor_Dept_Desc_1": {
+                "broadcastFacet": true,
+                "datasets": [
+                    {
+                        "id": "0Fb1E0000004MgQSAU",
+                        "label": "AZ CC Merge Data",
+                        "name": "AZ_CC_Merge_Data",
+                        "url": "/services/data/v53.0/wave/datasets/0Fb1E0000004MgQSAU"
+                    }
+                ],
+                "isGlobal": false,
+                "query": {
+                    "measures": [
+                        [
+                            "count",
+                            "*"
+                        ]
+                    ],
+                    "groups": [
+                        "Minor_Dept_Desc"
+                    ]
+                },
+                "receiveFacetSource": {
+                    "mode": "all",
+                    "steps": []
+                },
+                "selectMode": "multi",
+                "start": [],
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {}
+            },
+            "Major_Dept_Desc_1": {
+                "broadcastFacet": true,
+                "datasets": [
+                    {
+                        "id": "0Fb1E0000004MgQSAU",
+                        "label": "AZ CC Merge Data",
+                        "name": "AZ_CC_Merge_Data",
+                        "url": "/services/data/v53.0/wave/datasets/0Fb1E0000004MgQSAU"
+                    }
+                ],
+                "isGlobal": false,
+                "query": {
+                    "measures": [
+                        [
+                            "count",
+                            "*"
+                        ]
+                    ],
+                    "groups": [
+                        "Major_Dept_Desc"
+                    ]
+                },
+                "receiveFacetSource": {
+                    "mode": "all",
+                    "steps": []
+                },
+                "selectMode": "multi",
+                "start": [],
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {}
+            },
+            "State_1": {
+                "broadcastFacet": true,
+                "datasets": [
+                    {
+                        "id": "0Fb1E0000004MgQSAU",
+                        "label": "AZ CC Merge Data",
+                        "name": "AZ_CC_Merge_Data",
+                        "url": "/services/data/v53.0/wave/datasets/0Fb1E0000004MgQSAU"
+                    }
+                ],
+                "isGlobal": false,
+                "query": {
+                    "measures": [
+                        [
+                            "count",
+                            "*"
+                        ]
+                    ],
+                    "groups": [
+                        "State"
+                    ]
+                },
+                "receiveFacetSource": {
+                    "mode": "all",
+                    "steps": []
+                },
+                "selectMode": "multi",
+                "start": [],
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {}
+            },
+            "group_var": {
+                "broadcastFacet": true,
+                "columns": {},
+                "isGlobal": false,
+                "selectMode": "singlerequired",
+                "start": {
+                    "display": [
+                        "R13"
+                    ]
+                },
+                "type": "staticflex",
+                "useGlobal": false,
+                "values": [
+                    {
+                        "display": "Period",
+                        "value": "period"
+                    },
+                    {
+                        "display": "YTD",
+                        "value": "ytd"
+                    },
+                    {
+                        "display": "R13",
+                        "value": "R13"
+                    }
+                ]
+            },
+            "Supplier_Name_1": {
+                "broadcastFacet": true,
+                "datasets": [
+                    {
+                        "id": "0Fb1E0000004MgQSAU",
+                        "label": "AZ CC Merge Data",
+                        "name": "AZ_CC_Merge_Data",
+                        "url": "/services/data/v53.0/wave/datasets/0Fb1E0000004MgQSAU"
+                    }
+                ],
+                "isGlobal": false,
+                "query": {
+                    "measures": [
+                        [
+                            "count",
+                            "*"
+                        ]
+                    ],
+                    "groups": [
+                        "Supplier_Name"
+                    ]
+                },
+                "receiveFacetSource": {
+                    "mode": "all",
+                    "steps": []
+                },
+                "selectMode": "multi",
+                "start": [],
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {}
+            },
+            "Sku_Number_1": {
+                "broadcastFacet": true,
+                "datasets": [
+                    {
+                        "id": "0Fb1E0000004MgQSAU",
+                        "label": "AZ CC Merge Data",
+                        "name": "AZ_CC_Merge_Data",
+                        "url": "/services/data/v53.0/wave/datasets/0Fb1E0000004MgQSAU"
+                    }
+                ],
+                "isGlobal": false,
+                "query": {
+                    "measures": [
+                        [
+                            "count",
+                            "*"
+                        ]
+                    ],
+                    "groups": [
+                        "Sku_Number"
+                    ]
+                },
+                "receiveFacetSource": {
+                    "mode": "all",
+                    "steps": []
+                },
+                "selectMode": "multi",
+                "start": [],
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {}
+            },
+            "region_chart": {
+                "broadcastFacet": true,
+                "datasets": [
+                    {
+                        "id": "0Fb1E0000004MgQSAU",
+                        "label": "AZ CC Merge Data",
+                        "name": "AZ_CC_Merge_Data",
+                        "url": "/services/data/v53.0/wave/datasets/0Fb1E0000004MgQSAU"
+                    }
+                ],
+                "isGlobal": false,
+                "query": {
+                    "pigql": " data = load \"AZ_CC_Merge_Data\"; data = filter data by 'Region' != \"Unknown\"; diy_data = filter data by 'Sales_Type' == \"DIY\"; difm_data = filter data by 'Sales_Type' == \"DIFM\";  diy_period_prev = filter diy_data by 'FY' == number_to_string({{cell(year_selector.selection, 0, \"value\").asObject()}}-1,\"####\"); diy_period_prev = filter diy_period_prev by 'Fiscal_Period' == number_to_string({{cell(max_year.result, 0, \"Current Period\").asObject()}},\"00\"); diy_period_curr = filter diy_data by 'FY' == number_to_string({{cell(year_selector.selection, 0, \"value\").asObject()}},\"####\"); diy_period_curr = filter diy_period_curr by 'Fiscal_Period' == number_to_string({{cell(max_year.result, 0, \"Current Period\").asObject()}},\"00\"); difm_period_prev = filter difm_data by 'FY' == number_to_string({{cell(year_selector.selection, 0, \"value\").asObject()}}-1,\"####\"); difm_period_prev = filter difm_period_prev by 'Fiscal_Period' == number_to_string({{cell(max_year.result, 0, \"Current Period\").asObject()}},\"00\"); difm_period_curr = filter difm_data by 'FY' == number_to_string({{cell(year_selector.selection, 0, \"value\").asObject()}},\"####\"); difm_period_curr = filter difm_period_curr by 'Fiscal_Period' == number_to_string({{cell(max_year.result, 0, \"Current Period\").asObject()}},\"00\"); period_prev = filter data by 'FY' == number_to_string({{cell(year_selector.selection, 0, \"value\").asObject()}}-1,\"####\"); period_prev = filter period_prev by 'Fiscal_Period' == number_to_string({{cell(max_year.result, 0, \"Current Period\").asObject()}},\"00\"); period_curr = filter data by 'FY' == number_to_string({{cell(year_selector.selection, 0, \"value\").asObject()}},\"####\"); period_curr = filter period_curr by 'Fiscal_Period' == number_to_string({{cell(max_year.result, 0, \"Current Period\").asObject()}},\"00\");  diy_ytd_prev = filter diy_data by 'FY' == number_to_string({{cell(year_selector.selection, 0, \"value\").asObject()}}-1,\"####\"); diy_ytd_prev = filter diy_ytd_prev by 'Fiscal_Period_Num' <= {{cell(max_year.result, 0, \"Current Period\").asObject()}};  diy_ytd_curr = filter diy_data by 'FY' == number_to_string({{cell(year_selector.selection, 0, \"value\").asObject()}},\"####\"); difm_ytd_prev = filter difm_data by 'FY' == number_to_string({{cell(year_selector.selection, 0, \"value\").asObject()}}-1,\"####\"); difm_ytd_prev = filter difm_ytd_prev by 'Fiscal_Period_Num' <= {{cell(max_year.result, 0, \"Current Period\").asObject()}}; difm_ytd_curr = filter difm_data by 'FY' == number_to_string({{cell(year_selector.selection, 0, \"value\").asObject()}},\"####\"); ytd_prev = filter data by 'FY' == number_to_string({{cell(year_selector.selection, 0, \"value\").asObject()}}-1,\"####\"); ytd_prev = filter ytd_prev by 'Fiscal_Period_Num' <= {{cell(max_year.result, 0, \"Current Period\").asObject()}};  ytd_curr = filter data by 'FY' == number_to_string({{cell(year_selector.selection, 0, \"value\").asObject()}},\"####\");  diy_R13_prev_1 = filter diy_data by 'FY' == number_to_string({{cell(year_selector.selection, 0, \"value\").asObject()}}-2,\"####\"); diy_R13_prev_1 = filter diy_R13_prev_1 by 'Fiscal_Period_Num' > {{cell(max_year.result, 0, \"Current Period\").asObject()}}; diy_R13_curr_1 = filter diy_data by 'FY' == number_to_string({{cell(year_selector.selection, 0, \"value\").asObject()}}-1,\"####\"); diy_R13_curr_1 = filter diy_R13_curr_1 by 'Fiscal_Period_Num' > {{cell(max_year.result, 0, \"Current Period\").asObject()}}; difm_R13_prev_1 = filter difm_data by 'FY' == number_to_string({{cell(year_selector.selection, 0, \"value\").asObject()}}-2,\"####\"); difm_R13_prev_1 = filter difm_R13_prev_1 by 'Fiscal_Period_Num' > {{cell(max_year.result, 0, \"Current Period\").asObject()}}; difm_R13_curr_1 = filter difm_data by 'FY' == number_to_string({{cell(year_selector.selection, 0, \"value\").asObject()}}-1,\"####\"); difm_R13_curr_1 = filter difm_R13_curr_1 by 'Fiscal_Period_Num' > {{cell(max_year.result, 0, \"Current Period\").asObject()}}; R13_prev_1 = filter data by 'FY' == number_to_string({{cell(year_selector.selection, 0, \"value\").asObject()}}-2,\"####\"); R13_prev_1 = filter R13_prev_1 by 'Fiscal_Period_Num' > {{cell(max_year.result, 0, \"Current Period\").asObject()}}; R13_curr_1 = filter data by 'FY' == number_to_string({{cell(year_selector.selection, 0, \"value\").asObject()}}-1,\"####\"); R13_curr_1 = filter R13_curr_1 by 'Fiscal_Period_Num' > {{cell(max_year.result, 0, \"Current Period\").asObject()}};        diy_R13_prev_2 = filter diy_data by 'FY' == number_to_string({{cell(year_selector.selection, 0, \"value\").asObject()}}-1,\"####\"); diy_R13_prev_2 = filter diy_R13_prev_2 by 'Fiscal_Period_Num' <= {{cell(max_year.result, 0, \"Current Period\").asObject()}}; diy_R13_curr_2 = filter diy_data by 'FY' == number_to_string({{cell(year_selector.selection, 0, \"value\").asObject()}},\"####\"); diy_R13_curr_2 = filter diy_R13_curr_2 by 'Fiscal_Period_Num' <= {{cell(max_year.result, 0, \"Current Period\").asObject()}}; difm_R13_prev_2 = filter difm_data by 'FY' == number_to_string({{cell(year_selector.selection, 0, \"value\").asObject()}}-1,\"####\"); difm_R13_prev_2 = filter difm_R13_prev_2 by 'Fiscal_Period_Num' <= {{cell(max_year.result, 0, \"Current Period\").asObject()}}; difm_R13_curr_2 = filter difm_data by 'FY' == number_to_string({{cell(year_selector.selection, 0, \"value\").asObject()}},\"####\"); difm_R13_curr_2 = filter difm_R13_curr_2 by 'Fiscal_Period_Num' <= {{cell(max_year.result, 0, \"Current Period\").asObject()}}; R13_prev_2 = filter data by 'FY' == number_to_string({{cell(year_selector.selection, 0, \"value\").asObject()}}-1,\"####\"); R13_prev_2 = filter R13_prev_2 by 'Fiscal_Period_Num' <= {{cell(max_year.result, 0, \"Current Period\").asObject()}}; R13_curr_2 = filter data by 'FY' == number_to_string({{cell(year_selector.selection, 0, \"value\").asObject()}},\"####\"); R13_curr_2 = filter R13_curr_2 by 'Fiscal_Period_Num' <= {{cell(max_year.result, 0, \"Current Period\").asObject()}};  period = group diy_period_prev by 'Region' full, diy_period_curr by 'Region' full, difm_period_prev by 'Region' full, difm_period_curr by 'Region' full, period_prev by 'Region' full, period_curr by 'Region';  period = foreach period generate (case when \"{{cell(static_1.selection, 0, \"value\").asString()}}\" == \"Gross_Sales_Retail\" then 100*(sum(diy_period_curr['Damaged_Returns_Retail']) + sum(diy_period_curr['VDP_Damaged_Returns_Retail']))/(sum(diy_period_curr['Gross_Sales_Retail'])+sum(diy_period_curr['VDP_Gross_Sales_Retail'])+sum(diy_period_curr['Undamaged_Returns_Retail'])+sum(diy_period_curr['VDP_Undamaged_Returns_Retail']))/((sum(diy_period_prev['Damaged_Returns_Retail']) + sum(diy_period_prev['VDP_Damaged_Returns_Retail']))/(sum(diy_period_prev['Gross_Sales_Retail'])+sum(diy_period_prev['VDP_Gross_Sales_Retail'])+sum(diy_period_prev['Undamaged_Returns_Retail'])+sum(diy_period_prev['VDP_Undamaged_Returns_Retail']))) - 100 when \"{{cell(static_1.selection, 0, \"value\").asString()}}\" == \"Gross_Sales_QTY\" then 100*(sum(diy_period_curr['Damaged_Returns']) + sum(diy_period_curr['VDP_Damaged_Returns_QTY']))/(sum(diy_period_curr['Gross_Sales_QTY'])+sum(diy_period_curr['VDP_Gross_Sales_QTY'])+sum(diy_period_curr['Undamaged_Returns_QTY'])+sum(diy_period_curr['VDP_Undamaged_Returns_QTY']))/((sum(diy_period_prev['Damaged_Returns']) + sum(diy_period_prev['VDP_Damaged_Returns_QTY']))/(sum(diy_period_prev['Gross_Sales_QTY'])+sum(diy_period_prev['VDP_Gross_Sales_QTY'])+sum(diy_period_prev['Undamaged_Returns_QTY'])+sum(diy_period_prev['VDP_Undamaged_Returns_QTY']))) - 100 else 100*(sum(diy_period_curr['{{cell(static_1.selection, 0, \"value\").asObject()}}'])/sum(diy_period_prev['{{cell(static_1.selection, 0, \"value\").asObject()}}'])-1) end) as 'DIY_%Change', (case when \"{{cell(static_1.selection, 0, \"value\").asString()}}\" == \"Gross_Sales_Retail\" then 100*(sum(difm_period_curr['Damaged_Returns_Retail']) + sum(difm_period_curr['VDP_Damaged_Returns_Retail']))/(sum(difm_period_curr['Gross_Sales_Retail'])+sum(difm_period_curr['VDP_Gross_Sales_Retail'])+sum(difm_period_curr['Undamaged_Returns_Retail'])+sum(difm_period_curr['VDP_Undamaged_Returns_Retail']))/((sum(difm_period_prev['Damaged_Returns_Retail']) + sum(difm_period_prev['VDP_Damaged_Returns_Retail']))/(sum(difm_period_prev['Gross_Sales_Retail'])+sum(difm_period_prev['VDP_Gross_Sales_Retail'])+sum(difm_period_prev['Undamaged_Returns_Retail'])+sum(difm_period_prev['VDP_Undamaged_Returns_Retail']))) - 100 when \"{{cell(static_1.selection, 0, \"value\").asString()}}\" == \"Gross_Sales_QTY\" then 100*(sum(difm_period_curr['Damaged_Returns']) + sum(difm_period_curr['VDP_Damaged_Returns_QTY']))/(sum(difm_period_curr['Gross_Sales_QTY'])+sum(difm_period_curr['VDP_Gross_Sales_QTY'])+sum(difm_period_curr['Undamaged_Returns_QTY'])+sum(difm_period_curr['VDP_Undamaged_Returns_QTY']))/((sum(difm_period_prev['Damaged_Returns']) + sum(difm_period_prev['VDP_Damaged_Returns_QTY']))/(sum(difm_period_prev['Gross_Sales_QTY'])+sum(difm_period_prev['VDP_Gross_Sales_QTY'])+sum(difm_period_prev['Undamaged_Returns_QTY'])+sum(difm_period_prev['VDP_Undamaged_Returns_QTY']))) - 100 else 100*(sum(difm_period_curr['{{cell(static_1.selection, 0, \"value\").asObject()}}'])/sum(difm_period_prev['{{cell(static_1.selection, 0, \"value\").asObject()}}'])-1) end) as 'DIFM_%Change', (case when \"{{cell(static_1.selection, 0, \"value\").asString()}}\" == \"Gross_Sales_Retail\" then 100*(sum(period_curr['Damaged_Returns_Retail']) + sum(period_curr['VDP_Damaged_Returns_Retail']))/(sum(period_curr['Gross_Sales_Retail'])+sum(period_curr['VDP_Gross_Sales_Retail'])+sum(period_curr['Undamaged_Returns_Retail'])+sum(period_curr['VDP_Undamaged_Returns_Retail']))/((sum(period_prev['Damaged_Returns_Retail']) + sum(period_prev['VDP_Damaged_Returns_Retail']))/(sum(period_prev['Gross_Sales_Retail'])+sum(period_prev['VDP_Gross_Sales_Retail'])+sum(period_prev['Undamaged_Returns_Retail'])+sum(period_prev['VDP_Undamaged_Returns_Retail']))) - 100 when \"{{cell(static_1.selection, 0, \"value\").asString()}}\" == \"Gross_Sales_QTY\" then 100*(sum(period_curr['Damaged_Returns']) + sum(period_curr['VDP_Damaged_Returns_QTY']))/(sum(period_curr['Gross_Sales_QTY'])+sum(period_curr['VDP_Gross_Sales_QTY'])+sum(period_curr['Undamaged_Returns_QTY'])+sum(period_curr['VDP_Undamaged_Returns_QTY']))/((sum(period_prev['Damaged_Returns']) + sum(period_prev['VDP_Damaged_Returns_QTY']))/(sum(period_prev['Gross_Sales_QTY'])+sum(period_prev['VDP_Gross_Sales_QTY'])+sum(period_prev['Undamaged_Returns_QTY'])+sum(period_prev['VDP_Undamaged_Returns_QTY']))) - 100 else 100*(sum(period_curr['{{cell(static_1.selection, 0, \"value\").asObject()}}'])/sum(period_prev['{{cell(static_1.selection, 0, \"value\").asObject()}}'])-1) end) as 'DAP_%Change', period_curr['Region'] as 'Region';  ytd = group diy_ytd_prev by 'Region' full, diy_ytd_curr by 'Region' full, difm_ytd_prev by 'Region' full, difm_ytd_curr by 'Region' full, ytd_prev by 'Region' full, ytd_curr by 'Region';  ytd = foreach ytd generate (case when \"{{cell(static_1.selection, 0, \"value\").asString()}}\" == \"Gross_Sales_Retail\" then 100*(sum(diy_ytd_curr['Damaged_Returns_Retail']) + sum(diy_ytd_curr['VDP_Damaged_Returns_Retail']))/(sum(diy_ytd_curr['Gross_Sales_Retail'])+sum(diy_ytd_curr['VDP_Gross_Sales_Retail'])+sum(diy_ytd_curr['Undamaged_Returns_Retail'])+sum(diy_ytd_curr['VDP_Undamaged_Returns_Retail']))/((sum(diy_ytd_prev['Damaged_Returns_Retail']) + sum(diy_ytd_prev['VDP_Damaged_Returns_Retail']))/(sum(diy_ytd_prev['Gross_Sales_Retail'])+sum(diy_ytd_prev['VDP_Gross_Sales_Retail'])+sum(diy_ytd_prev['Undamaged_Returns_Retail'])+sum(diy_ytd_prev['VDP_Undamaged_Returns_Retail']))) - 100 when \"{{cell(static_1.selection, 0, \"value\").asString()}}\" == \"Gross_Sales_QTY\" then 100*(sum(diy_ytd_curr['Damaged_Returns']) + sum(diy_ytd_curr['VDP_Damaged_Returns_QTY']))/(sum(diy_ytd_curr['Gross_Sales_QTY'])+sum(diy_ytd_curr['VDP_Gross_Sales_QTY'])+sum(diy_ytd_curr['Undamaged_Returns_QTY'])+sum(diy_ytd_curr['VDP_Undamaged_Returns_QTY']))/((sum(diy_ytd_prev['Damaged_Returns']) + sum(diy_ytd_prev['VDP_Damaged_Returns_QTY']))/(sum(diy_ytd_prev['Gross_Sales_QTY'])+sum(diy_ytd_prev['VDP_Gross_Sales_QTY'])+sum(diy_ytd_prev['Undamaged_Returns_QTY'])+sum(diy_ytd_prev['VDP_Undamaged_Returns_QTY']))) - 100 else 100*(sum(diy_ytd_curr['{{cell(static_1.selection, 0, \"value\").asObject()}}'])/sum(diy_ytd_prev['{{cell(static_1.selection, 0, \"value\").asObject()}}'])-1) end) as 'DIY_%Change', (case when \"{{cell(static_1.selection, 0, \"value\").asString()}}\" == \"Gross_Sales_Retail\" then 100*(sum(difm_ytd_curr['Damaged_Returns_Retail']) + sum(difm_ytd_curr['VDP_Damaged_Returns_Retail']))/(sum(difm_ytd_curr['Gross_Sales_Retail'])+sum(difm_ytd_curr['VDP_Gross_Sales_Retail'])+sum(difm_ytd_curr['Undamaged_Returns_Retail'])+sum(difm_ytd_curr['VDP_Undamaged_Returns_Retail']))/((sum(difm_ytd_prev['Damaged_Returns_Retail']) + sum(difm_ytd_prev['VDP_Damaged_Returns_Retail']))/(sum(difm_ytd_prev['Gross_Sales_Retail'])+sum(difm_ytd_prev['VDP_Gross_Sales_Retail'])+sum(difm_ytd_prev['Undamaged_Returns_Retail'])+sum(difm_ytd_prev['VDP_Undamaged_Returns_Retail']))) - 100 when \"{{cell(static_1.selection, 0, \"value\").asString()}}\" == \"Gross_Sales_QTY\" then 100*(sum(difm_ytd_curr['Damaged_Returns']) + sum(difm_ytd_curr['VDP_Damaged_Returns_QTY']))/(sum(difm_ytd_curr['Gross_Sales_QTY'])+sum(difm_ytd_curr['VDP_Gross_Sales_QTY'])+sum(difm_ytd_curr['Undamaged_Returns_QTY'])+sum(difm_ytd_curr['VDP_Undamaged_Returns_QTY']))/((sum(difm_ytd_prev['Damaged_Returns']) + sum(difm_ytd_prev['VDP_Damaged_Returns_QTY']))/(sum(difm_ytd_prev['Gross_Sales_QTY'])+sum(difm_ytd_prev['VDP_Gross_Sales_QTY'])+sum(difm_ytd_prev['Undamaged_Returns_QTY'])+sum(difm_ytd_prev['VDP_Undamaged_Returns_QTY']))) - 100 else 100*(sum(difm_ytd_curr['{{cell(static_1.selection, 0, \"value\").asObject()}}'])/sum(difm_ytd_prev['{{cell(static_1.selection, 0, \"value\").asObject()}}'])-1) end) as 'DIFM_%Change', (case when \"{{cell(static_1.selection, 0, \"value\").asString()}}\" == \"Gross_Sales_Retail\" then 100*(sum(ytd_curr['Damaged_Returns_Retail']) + sum(ytd_curr['VDP_Damaged_Returns_Retail']))/(sum(ytd_curr['Gross_Sales_Retail'])+sum(ytd_curr['VDP_Gross_Sales_Retail'])+sum(ytd_curr['Undamaged_Returns_Retail'])+sum(ytd_curr['VDP_Undamaged_Returns_Retail']))/((sum(ytd_prev['Damaged_Returns_Retail']) + sum(ytd_prev['VDP_Damaged_Returns_Retail']))/(sum(ytd_prev['Gross_Sales_Retail'])+sum(ytd_prev['VDP_Gross_Sales_Retail'])+sum(ytd_prev['Undamaged_Returns_Retail'])+sum(ytd_prev['VDP_Undamaged_Returns_Retail']))) - 100 when \"{{cell(static_1.selection, 0, \"value\").asString()}}\" == \"Gross_Sales_QTY\" then 100*(sum(ytd_curr['Damaged_Returns']) + sum(ytd_curr['VDP_Damaged_Returns_QTY']))/(sum(ytd_curr['Gross_Sales_QTY'])+sum(ytd_curr['VDP_Gross_Sales_QTY'])+sum(ytd_curr['Undamaged_Returns_QTY'])+sum(ytd_curr['VDP_Undamaged_Returns_QTY']))/((sum(ytd_prev['Damaged_Returns']) + sum(ytd_prev['VDP_Damaged_Returns_QTY']))/(sum(ytd_prev['Gross_Sales_QTY'])+sum(ytd_prev['VDP_Gross_Sales_QTY'])+sum(ytd_prev['Undamaged_Returns_QTY'])+sum(ytd_prev['VDP_Undamaged_Returns_QTY']))) - 100 else 100*(sum(ytd_curr['{{cell(static_1.selection, 0, \"value\").asObject()}}'])/sum(ytd_prev['{{cell(static_1.selection, 0, \"value\").asObject()}}'])-1) end) as 'DAP_%Change', ytd_curr['Region'] as 'Region';  R13 = group diy_R13_prev_1 by 'Region' full, diy_R13_curr_1 by 'Region' full, difm_R13_prev_1 by 'Region' full, difm_R13_curr_1 by 'Region' full, R13_prev_1 by 'Region' full, R13_curr_1 by 'Region' full, diy_R13_prev_2 by 'Region' full, diy_R13_curr_2 by 'Region' full, difm_R13_prev_2 by 'Region' full, difm_R13_curr_2 by 'Region' full, R13_prev_2 by 'Region' full, R13_curr_2 by 'Region';  R13 = foreach R13 generate (case when \"{{cell(static_1.selection, 0, \"value\").asString()}}\" == \"Gross_Sales_Retail\" then 100*(coalesce(sum(diy_R13_curr_1['Damaged_Returns_Retail']), 0) + coalesce(sum(diy_R13_curr_1['VDP_Damaged_Returns_Retail']), 0) + sum(diy_R13_curr_2['Damaged_Returns_Retail']) + sum(diy_R13_curr_2['VDP_Damaged_Returns_Retail']))/(coalesce(sum(diy_R13_curr_1['Gross_Sales_Retail']), 0)+coalesce(sum(diy_R13_curr_1['VDP_Gross_Sales_Retail']), 0)+coalesce(sum(diy_R13_curr_1['Undamaged_Returns_Retail']), 0)+coalesce(sum(diy_R13_curr_1['VDP_Undamaged_Returns_Retail']), 0) + sum(diy_R13_curr_2['Gross_Sales_Retail'])+sum(diy_R13_curr_2['VDP_Gross_Sales_Retail'])+sum(diy_R13_curr_2['Undamaged_Returns_Retail'])+sum(diy_R13_curr_2['VDP_Undamaged_Returns_Retail']))/((coalesce(sum(diy_R13_prev_1['Damaged_Returns_Retail']), 0) + coalesce(sum(diy_R13_prev_1['VDP_Damaged_Returns_Retail']), 0) + sum(diy_R13_prev_2['Damaged_Returns_Retail']) + sum(diy_R13_prev_2['VDP_Damaged_Returns_Retail']))/(coalesce(sum(diy_R13_prev_1['Gross_Sales_Retail']), 0)+coalesce(sum(diy_R13_prev_1['VDP_Gross_Sales_Retail']), 0)+coalesce(sum(diy_R13_prev_1['Undamaged_Returns_Retail']), 0)+coalesce(sum(diy_R13_prev_1['VDP_Undamaged_Returns_Retail']), 0) + sum(diy_R13_prev_2['Gross_Sales_Retail'])+sum(diy_R13_prev_2['VDP_Gross_Sales_Retail'])+sum(diy_R13_prev_2['Undamaged_Returns_Retail'])+sum(diy_R13_prev_2['VDP_Undamaged_Returns_Retail']))) - 100 when \"{{cell(static_1.selection, 0, \"value\").asString()}}\" == \"Gross_Sales_QTY\" then 100*(coalesce(sum(diy_R13_curr_1['Damaged_Returns']), 0) + coalesce(sum(diy_R13_curr_1['VDP_Damaged_Returns_QTY']), 0) + sum(diy_R13_curr_2['Damaged_Returns']) + sum(diy_R13_curr_2['VDP_Damaged_Returns_QTY']))/(coalesce(sum(diy_R13_curr_1['Gross_Sales_QTY']), 0)+coalesce(sum(diy_R13_curr_1['VDP_Gross_Sales_QTY']), 0)+coalesce(sum(diy_R13_curr_1['Undamaged_Returns_QTY']), 0)+coalesce(sum(diy_R13_curr_1['VDP_Undamaged_Returns_QTY']), 0) + sum(diy_R13_curr_2['Gross_Sales_QTY'])+sum(diy_R13_curr_2['VDP_Gross_Sales_QTY'])+sum(diy_R13_curr_2['Undamaged_Returns_QTY'])+sum(diy_R13_curr_2['VDP_Undamaged_Returns_QTY']))/((coalesce(sum(diy_R13_prev_1['Damaged_Returns']), 0) + coalesce(sum(diy_R13_prev_1['VDP_Damaged_Returns_QTY']), 0) + sum(diy_R13_prev_2['Damaged_Returns']) + sum(diy_R13_prev_2['VDP_Damaged_Returns_QTY']))/(coalesce(sum(diy_R13_prev_1['Gross_Sales_QTY']), 0)+coalesce(sum(diy_R13_prev_1['VDP_Gross_Sales_QTY']), 0)+coalesce(sum(diy_R13_prev_1['Undamaged_Returns_QTY']), 0)+coalesce(sum(diy_R13_prev_1['VDP_Undamaged_Returns_QTY']), 0) + sum(diy_R13_prev_2['Gross_Sales_QTY'])+sum(diy_R13_prev_2['VDP_Gross_Sales_QTY'])+sum(diy_R13_prev_2['Undamaged_Returns_QTY'])+sum(diy_R13_prev_2['VDP_Undamaged_Returns_QTY']))) - 100 else 100*((coalesce(sum(diy_R13_curr_1['{{cell(static_1.selection, 0, \"value\").asObject()}}']), 0)+sum(diy_R13_curr_2['{{cell(static_1.selection, 0, \"value\").asObject()}}']))/(coalesce(sum(diy_R13_prev_1['{{cell(static_1.selection, 0, \"value\").asObject()}}']), 0)+sum(diy_R13_prev_2['{{cell(static_1.selection, 0, \"value\").asObject()}}']))-1) end) as 'DIY_%Change', (case when \"{{cell(static_1.selection, 0, \"value\").asString()}}\" == \"Gross_Sales_Retail\" then 100*(coalesce(sum(difm_R13_curr_1['Damaged_Returns_Retail']), 0) + coalesce(sum(difm_R13_curr_1['VDP_Damaged_Returns_Retail']), 0) + sum(difm_R13_curr_2['Damaged_Returns_Retail']) + sum(difm_R13_curr_2['VDP_Damaged_Returns_Retail']))/(coalesce(sum(difm_R13_curr_1['Gross_Sales_Retail']), 0)+coalesce(sum(difm_R13_curr_1['VDP_Gross_Sales_Retail']), 0)+coalesce(sum(difm_R13_curr_1['Undamaged_Returns_Retail']), 0)+coalesce(sum(difm_R13_curr_1['VDP_Undamaged_Returns_Retail']), 0) + sum(difm_R13_curr_2['Gross_Sales_Retail'])+sum(difm_R13_curr_2['VDP_Gross_Sales_Retail'])+sum(difm_R13_curr_2['Undamaged_Returns_Retail'])+sum(difm_R13_curr_2['VDP_Undamaged_Returns_Retail']))/((coalesce(sum(difm_R13_prev_1['Damaged_Returns_Retail']), 0) + coalesce(sum(difm_R13_prev_1['VDP_Damaged_Returns_Retail']), 0) + sum(difm_R13_prev_2['Damaged_Returns_Retail']) + sum(difm_R13_prev_2['VDP_Damaged_Returns_Retail']))/(coalesce(sum(difm_R13_prev_1['Gross_Sales_Retail']), 0)+coalesce(sum(difm_R13_prev_1['VDP_Gross_Sales_Retail']), 0)+coalesce(sum(difm_R13_prev_1['Undamaged_Returns_Retail']), 0)+coalesce(sum(difm_R13_prev_1['VDP_Undamaged_Returns_Retail']), 0) + sum(difm_R13_prev_2['Gross_Sales_Retail'])+sum(difm_R13_prev_2['VDP_Gross_Sales_Retail'])+sum(difm_R13_prev_2['Undamaged_Returns_Retail'])+sum(difm_R13_prev_2['VDP_Undamaged_Returns_Retail']))) - 100 when \"{{cell(static_1.selection, 0, \"value\").asString()}}\" == \"Gross_Sales_QTY\" then 100*(coalesce(sum(difm_R13_curr_1['Damaged_Returns']), 0) + coalesce(sum(difm_R13_curr_1['VDP_Damaged_Returns_QTY']), 0) + sum(difm_R13_curr_2['Damaged_Returns']) + sum(difm_R13_curr_2['VDP_Damaged_Returns_QTY']))/(coalesce(sum(difm_R13_curr_1['Gross_Sales_QTY']), 0)+coalesce(sum(difm_R13_curr_1['VDP_Gross_Sales_QTY']), 0)+coalesce(sum(difm_R13_curr_1['Undamaged_Returns_QTY']), 0)+coalesce(sum(difm_R13_curr_1['VDP_Undamaged_Returns_QTY']), 0) + sum(difm_R13_curr_2['Gross_Sales_QTY'])+sum(difm_R13_curr_2['VDP_Gross_Sales_QTY'])+sum(difm_R13_curr_2['Undamaged_Returns_QTY'])+sum(difm_R13_curr_2['VDP_Undamaged_Returns_QTY']))/((coalesce(sum(difm_R13_prev_1['Damaged_Returns']), 0) + coalesce(sum(difm_R13_prev_1['VDP_Damaged_Returns_QTY']), 0) + sum(difm_R13_prev_2['Damaged_Returns']) + sum(difm_R13_prev_2['VDP_Damaged_Returns_QTY']))/(coalesce(sum(difm_R13_prev_1['Gross_Sales_QTY']), 0)+coalesce(sum(difm_R13_prev_1['VDP_Gross_Sales_QTY']), 0)+coalesce(sum(difm_R13_prev_1['Undamaged_Returns_QTY']), 0)+coalesce(sum(difm_R13_prev_1['VDP_Undamaged_Returns_QTY']), 0) + sum(difm_R13_prev_2['Gross_Sales_QTY'])+sum(difm_R13_prev_2['VDP_Gross_Sales_QTY'])+sum(difm_R13_prev_2['Undamaged_Returns_QTY'])+sum(difm_R13_prev_2['VDP_Undamaged_Returns_QTY']))) - 100 else 100*((coalesce(sum(difm_R13_curr_1['{{cell(static_1.selection, 0, \"value\").asObject()}}']), 0)+sum(difm_R13_curr_2['{{cell(static_1.selection, 0, \"value\").asObject()}}']))/(coalesce(sum(difm_R13_prev_1['{{cell(static_1.selection, 0, \"value\").asObject()}}']), 0)+sum(difm_R13_prev_2['{{cell(static_1.selection, 0, \"value\").asObject()}}']))-1) end) as 'DIFM_%Change', (case when \"{{cell(static_1.selection, 0, \"value\").asString()}}\" == \"Gross_Sales_Retail\" then 100*(coalesce(sum(R13_curr_1['Damaged_Returns_Retail']), 0) + coalesce(sum(R13_curr_1['VDP_Damaged_Returns_Retail']), 0) + sum(R13_curr_2['Damaged_Returns_Retail']) + sum(R13_curr_2['VDP_Damaged_Returns_Retail']))/(coalesce(sum(R13_curr_1['Gross_Sales_Retail']), 0)+coalesce(sum(R13_curr_1['VDP_Gross_Sales_Retail']), 0)+coalesce(sum(R13_curr_1['Undamaged_Returns_Retail']), 0)+coalesce(sum(R13_curr_1['VDP_Undamaged_Returns_Retail']), 0) + sum(R13_curr_2['Gross_Sales_Retail'])+sum(R13_curr_2['VDP_Gross_Sales_Retail'])+sum(R13_curr_2['Undamaged_Returns_Retail'])+sum(R13_curr_2['VDP_Undamaged_Returns_Retail']))/((coalesce(sum(R13_prev_1['Damaged_Returns_Retail']), 0) + coalesce(sum(R13_prev_1['VDP_Damaged_Returns_Retail']), 0) + sum(R13_prev_2['Damaged_Returns_Retail']) + sum(R13_prev_2['VDP_Damaged_Returns_Retail']))/(coalesce(sum(R13_prev_1['Gross_Sales_Retail']), 0)+coalesce(sum(R13_prev_1['VDP_Gross_Sales_Retail']), 0)+coalesce(sum(R13_prev_1['Undamaged_Returns_Retail']), 0)+coalesce(sum(R13_prev_1['VDP_Undamaged_Returns_Retail']), 0) + sum(R13_prev_2['Gross_Sales_Retail'])+sum(R13_prev_2['VDP_Gross_Sales_Retail'])+sum(R13_prev_2['Undamaged_Returns_Retail'])+sum(R13_prev_2['VDP_Undamaged_Returns_Retail']))) - 100 when \"{{cell(static_1.selection, 0, \"value\").asString()}}\" == \"Gross_Sales_QTY\" then 100*(coalesce(sum(R13_curr_1['Damaged_Returns']), 0) + coalesce(sum(R13_curr_1['VDP_Damaged_Returns_QTY']), 0) + sum(R13_curr_2['Damaged_Returns']) + sum(R13_curr_2['VDP_Damaged_Returns_QTY']))/(coalesce(sum(R13_curr_1['Gross_Sales_QTY']), 0)+coalesce(sum(R13_curr_1['VDP_Gross_Sales_QTY']), 0)+coalesce(sum(R13_curr_1['Undamaged_Returns_QTY']), 0)+coalesce(sum(R13_curr_1['VDP_Undamaged_Returns_QTY']), 0) + sum(R13_curr_2['Gross_Sales_QTY'])+sum(R13_curr_2['VDP_Gross_Sales_QTY'])+sum(R13_curr_2['Undamaged_Returns_QTY'])+sum(R13_curr_2['VDP_Undamaged_Returns_QTY']))/((coalesce(sum(R13_prev_1['Damaged_Returns']), 0) + coalesce(sum(R13_prev_1['VDP_Damaged_Returns_QTY']), 0) + sum(R13_prev_2['Damaged_Returns']) + sum(R13_prev_2['VDP_Damaged_Returns_QTY']))/(coalesce(sum(R13_prev_1['Gross_Sales_QTY']), 0)+coalesce(sum(R13_prev_1['VDP_Gross_Sales_QTY']), 0)+coalesce(sum(R13_prev_1['Undamaged_Returns_QTY']), 0)+coalesce(sum(R13_prev_1['VDP_Undamaged_Returns_QTY']), 0) + sum(R13_prev_2['Gross_Sales_QTY'])+sum(R13_prev_2['VDP_Gross_Sales_QTY'])+sum(R13_prev_2['Undamaged_Returns_QTY'])+sum(R13_prev_2['VDP_Undamaged_Returns_QTY']))) - 100 else 100*((coalesce(sum(R13_curr_1['{{cell(static_1.selection, 0, \"value\").asObject()}}']), 0)+sum(R13_curr_2['{{cell(static_1.selection, 0, \"value\").asObject()}}']))/(coalesce(sum(R13_prev_1['{{cell(static_1.selection, 0, \"value\").asObject()}}']), 0)+sum(R13_prev_2['{{cell(static_1.selection, 0, \"value\").asObject()}}']))-1) end) as 'DAP_%Change', R13_curr_2['Region'] as 'Region';  final = order {{cell(group_var.selection, 0, \"value\").asObject()}} by 'DAP_%Change' ",
+                    "measures": [
+                        [
+                            "count",
+                            "*",
+                            "DIY_%Change"
+                        ],
+                        [
+                            "count",
+                            "*",
+                            "DIFM_%Change"
+                        ],
+                        [
+                            "count",
+                            "*",
+                            "DAP_%Change"
+                        ]
+                    ],
+                    "groups": [
+                        [
+                            "Region"
+                        ]
+                    ]
+                },
+                "receiveFacetSource": {
+                    "mode": "all",
+                    "steps": []
+                },
+                "selectMode": "single",
+                "start": [],
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {}
+            },
+            "all_1": {
+                "broadcastFacet": true,
+                "datasets": [
+                    {
+                        "id": "0Fb1E0000004MgQSAU",
+                        "label": "AZ CC Merge Data",
+                        "name": "AZ_CC_Merge_Data",
+                        "url": "/services/data/v53.0/wave/datasets/0Fb1E0000004MgQSAU"
+                    }
+                ],
+                "isGlobal": false,
+                "query": {
+                    "measures": [
+                        [
+                            "count",
+                            "*"
+                        ]
+                    ]
+                },
+                "receiveFacetSource": {
+                    "mode": "all",
+                    "steps": []
+                },
+                "selectMode": "single",
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "parameters": {
+                        "autoFitMode": "keepLabels",
+                        "showValues": true,
+                        "bins": {
+                            "breakpoints": {
+                                "high": 100,
+                                "low": 0
+                            },
+                            "bands": {
+                                "high": {
+                                    "color": "#008000",
+                                    "label": ""
+                                },
+                                "low": {
+                                    "color": "#B22222",
+                                    "label": ""
+                                },
+                                "medium": {
+                                    "color": "#ffa500",
+                                    "label": ""
+                                }
+                            }
+                        },
+                        "legend": {
+                            "descOrder": false,
+                            "showHeader": true,
+                            "show": true,
+                            "customSize": "auto",
+                            "position": "right-top",
+                            "inside": false
+                        },
+                        "axisMode": "multi",
+                        "tooltip": {
+                            "content": {
+                                "legend": {
+                                    "showBinLabel": true,
+                                    "measures": [],
+                                    "showNullValues": true,
+                                    "customizeLegend": false,
+                                    "showPercentage": true,
+                                    "showDimensions": true,
+                                    "showMeasures": true,
+                                    "dimensions": []
+                                }
+                            }
+                        },
+                        "visualizationType": "hbar",
+                        "title": {
+                            "fontSize": 14,
+                            "subtitleFontSize": 11,
+                            "label": "",
+                            "align": "center",
+                            "subtitleLabel": ""
+                        },
+                        "binValues": false,
+                        "trellis": {
+                            "flipLabels": false,
+                            "showGridLines": true,
+                            "size": [
+                                100,
+                                100
+                            ],
+                            "enable": false,
+                            "type": "x",
+                            "chartsPerLine": 4
+                        },
+                        "columnMap": {
+                            "trellis": [],
+                            "dimensionAxis": [],
+                            "plots": [
+                                "count"
+                            ]
+                        },
+                        "showActionMenu": true,
+                        "measureAxis2": {
+                            "sqrtScale": false,
+                            "showTitle": true,
+                            "showAxis": true,
+                            "title": "",
+                            "customDomain": {
+                                "showDomain": false
+                            }
+                        },
+                        "measureAxis1": {
+                            "sqrtScale": false,
+                            "showTitle": true,
+                            "showAxis": true,
+                            "title": "",
+                            "customDomain": {
+                                "showDomain": false
+                            }
+                        },
+                        "theme": "wave",
+                        "dimensionAxis": {
+                            "showTitle": true,
+                            "customSize": "auto",
+                            "showAxis": true,
+                            "title": "",
+                            "icons": {
+                                "useIcons": false,
+                                "iconProps": {
+                                    "fit": "cover",
+                                    "column": "",
+                                    "type": "round"
+                                }
+                            }
+                        },
+                        "applyConditionalFormatting": true
+                    },
+                    "type": "chart"
+                }
+            },
+            "Market_1": {
+                "broadcastFacet": true,
+                "datasets": [
+                    {
+                        "id": "0Fb1E0000004MgQSAU",
+                        "label": "AZ CC Merge Data",
+                        "name": "AZ_CC_Merge_Data",
+                        "url": "/services/data/v53.0/wave/datasets/0Fb1E0000004MgQSAU"
+                    }
+                ],
+                "isGlobal": false,
+                "query": {
+                    "measures": [
+                        [
+                            "count",
+                            "*"
+                        ]
+                    ],
+                    "groups": [
+                        "Market"
+                    ]
+                },
+                "receiveFacetSource": {
+                    "mode": "all",
+                    "steps": []
+                },
+                "selectMode": "multi",
+                "start": [],
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {}
+            },
+            "all_2": {
+                "broadcastFacet": true,
+                "datasets": [
+                    {
+                        "id": "0Fb1E0000004MgQSAU",
+                        "label": "AZ CC Merge Data",
+                        "name": "AZ_CC_Merge_Data",
+                        "url": "/services/data/v53.0/wave/datasets/0Fb1E0000004MgQSAU"
+                    }
+                ],
+                "isGlobal": false,
+                "query": {
+                    "pigql": " data = load \"AZ_CC_Merge_Data\"; data = group data by all; data = filter data by 'Fiscal_Period' == number_to_string({{cell(max_year.result, 0, \"Current Period\").asObject()}},\"00\"); data = foreach data generate max('Fiscal_Period_Num') as 'test'",
+                    "measures": [
+                        [
+                            "count",
+                            "*",
+                            "test"
+                        ]
+                    ]
+                },
+                "receiveFacetSource": {
+                    "mode": "all",
+                    "steps": []
+                },
+                "selectMode": "single",
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {}
+            },
+            "Product_Description_1": {
+                "broadcastFacet": true,
+                "datasets": [
+                    {
+                        "id": "0Fb1E0000004MgQSAU",
+                        "label": "AZ CC Merge Data",
+                        "name": "AZ_CC_Merge_Data",
+                        "url": "/services/data/v53.0/wave/datasets/0Fb1E0000004MgQSAU"
+                    }
+                ],
+                "isGlobal": false,
+                "query": {
+                    "measures": [
+                        [
+                            "count",
+                            "*"
+                        ]
+                    ],
+                    "groups": [
+                        "Product_Description"
+                    ]
+                },
+                "receiveFacetSource": {
+                    "mode": "all",
+                    "steps": []
+                },
+                "selectMode": "multi",
+                "start": [],
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {}
+            },
+            "chart_name": {
+                "broadcastFacet": true,
+                "datasets": [
+                    {
+                        "id": "0Fb1E0000004MgQSAU",
+                        "label": "AZ CC Merge Data",
+                        "name": "AZ_CC_Merge_Data",
+                        "url": "/services/data/v53.0/wave/datasets/0Fb1E0000004MgQSAU"
+                    }
+                ],
+                "isGlobal": false,
+                "query": {
+                    "pigql": " data = load \"AZ_CC_Merge_Data\"; data = group data by all; data = foreach data generate (case when \"{{cell(group_var.selection, 0, \"value\").asObject()}}\" == \"period\" then number_to_string({{cell(year_selector.selection, 0, \"value\").asObject()}} - 1,\"0000\") + \" P\" + number_to_string({{cell(period_selector.selection, 0, \"Fiscal_Period\").asObject()}}, \"00\") + \"  to  \" +  number_to_string({{cell(year_selector.selection, 0, \"value\").asObject()}},\"0000\") + \" P\" + number_to_string({{cell(period_selector.selection, 0, \"Fiscal_Period\").asObject()}}, \"00\") when \"{{cell(group_var.selection, 0, \"value\").asObject()}}\" == \"ytd\" then number_to_string({{cell(year_selector.selection, 0, \"value\").asObject()}}-1,\"0000\") + \" YTD  to  \"  + number_to_string({{cell(year_selector.selection, 0, \"value\").asObject()}},\"0000\") + \" YTD\" else \"{{cell(max_year.result, 0, \"Previous R13\").asObject()}}\" + \" to \" + \"{{cell(max_year.result, 0, \"Current R13\").asObject()}}\" end) as 'Chart Name'; data = limit data 1",
+                    "measures": [
+                        [
+                            "count",
+                            "*",
+                            "Chart Name"
+                        ]
+                    ]
+                },
+                "receiveFacetSource": {
+                    "mode": "all",
+                    "steps": []
+                },
+                "selectMode": "single",
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {}
+            },
+            "grouping_selector": {
+                "broadcastFacet": true,
+                "columns": {},
+                "isGlobal": false,
+                "selectMode": "singlerequired",
+                "start": {
+                    "display": [
+                        "Region"
+                    ]
+                },
+                "type": "staticflex",
+                "useGlobal": false,
+                "values": [
+                    {
+                        "display": "Region",
+                        "value": "Region"
+                    },
+                    {
+                        "display": "State",
+                        "value": "State"
+                    },
+                    {
+                        "display": "City",
+                        "value": "City"
+                    },
+                    {
+                        "display": "Store Number",
+                        "value": "Store_Number"
+                    },
+                    {
+                        "display": "Supplier",
+                        "value": "Supplier_Name"
+                    },
+                    {
+                        "display": "Major Dept",
+                        "value": "Major_Dept_Desc"
+                    },
+                    {
+                        "display": "Minor Dept",
+                        "value": "Minor_Dept_Desc"
+                    },
+                    {
+                        "display": "Part Num",
+                        "value": "Part_Number"
+                    },
+                    {
+                        "display": "SKU",
+                        "value": "Sku_Number"
+                    }
+                ]
+            },
+            "period_selector": {
+                "broadcastFacet": false,
+                "datasets": [
+                    {
+                        "id": "0Fb1E0000004MgQSAU",
+                        "label": "AZ CC Merge Data",
+                        "name": "AZ_CC_Merge_Data",
+                        "url": "/services/data/v53.0/wave/datasets/0Fb1E0000004MgQSAU"
+                    }
+                ],
+                "isGlobal": false,
+                "query": {
+                    "measures": [
+                        [
+                            "count",
+                            "*"
+                        ]
+                    ],
+                    "groups": [
+                        "Fiscal_Period"
+                    ],
+                    "filters": [
+                        [
+                            "FY",
+                            [
+                                "{{cell(year_selector.selection, 0, \"value\").asObject()}}"
+                            ],
+                            "in"
+                        ]
+                    ]
+                },
+                "receiveFacetSource": {
+                    "mode": "all",
+                    "steps": []
+                },
+                "selectMode": "single",
+                "start": [
+                    "13"
+                ],
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {}
+            },
+            "Climate_Desc_1": {
+                "broadcastFacet": true,
+                "datasets": [
+                    {
+                        "id": "0Fb1E0000004MgQSAU",
+                        "label": "AZ CC Merge Data",
+                        "name": "AZ_CC_Merge_Data",
+                        "url": "/services/data/v53.0/wave/datasets/0Fb1E0000004MgQSAU"
+                    }
+                ],
+                "isGlobal": false,
+                "query": {
+                    "measures": [
+                        [
+                            "count",
+                            "*"
+                        ]
+                    ],
+                    "groups": [
+                        "Climate_Desc"
+                    ]
+                },
+                "receiveFacetSource": {
+                    "mode": "all",
+                    "steps": []
+                },
+                "selectMode": "multi",
+                "start": [],
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {}
+            },
+            "Part_Number_1": {
+                "broadcastFacet": true,
+                "datasets": [
+                    {
+                        "id": "0Fb1E0000004MgQSAU",
+                        "label": "AZ CC Merge Data",
+                        "name": "AZ_CC_Merge_Data",
+                        "url": "/services/data/v53.0/wave/datasets/0Fb1E0000004MgQSAU"
+                    }
+                ],
+                "isGlobal": false,
+                "query": {
+                    "measures": [
+                        [
+                            "count",
+                            "*"
+                        ]
+                    ],
+                    "groups": [
+                        "Part_Number"
+                    ]
+                },
+                "receiveFacetSource": {
+                    "mode": "all",
+                    "steps": []
+                },
+                "selectMode": "multi",
+                "start": [],
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {}
+            },
+            "year_selector": {
+                "broadcastFacet": true,
+                "columns": {},
+                "isGlobal": false,
+                "selectMode": "singlerequired",
+                "start": {
+                    "display": [
+                        "2021"
+                    ]
+                },
+                "type": "staticflex",
+                "useGlobal": false,
+                "values": [
+                    {
+                        "display": "2018",
+                        "value": "2018"
+                    },
+                    {
+                        "display": "2019",
+                        "value": "2019"
+                    },
+                    {
+                        "display": "2020",
+                        "value": "2020"
+                    },
+                    {
+                        "display": "2021",
+                        "value": "2021"
+                    }
+                ]
+            },
+            "max_year": {
+                "broadcastFacet": true,
+                "datasets": [
+                    {
+                        "id": "0Fb1E0000004MgQSAU",
+                        "label": "AZ CC Merge Data",
+                        "name": "AZ_CC_Merge_Data",
+                        "url": "/services/data/v53.0/wave/datasets/0Fb1E0000004MgQSAU"
+                    }
+                ],
+                "isGlobal": false,
+                "query": {
+                    "pigql": " data = load \"AZ_CC_Merge_Data\"; data = group data by all; data = foreach data generate number_to_string({{cell(period_selector.selection, 0, \"Fiscal_Period\").asObject()}}, \"00\") as 'Current Period', number_to_string({{cell(year_selector.selection, 0, \"value\").asObject()}},\"0000\") as 'Current Year', number_to_string({{cell(year_selector.selection, 0, \"value\").asObject()}}-1,\"0000\") as 'Previous Year', number_to_string({{cell(year_selector.selection, 0, \"value\").asObject()}},\"0000\") + \" P\" + number_to_string({{cell(period_selector.selection, 0, \"Fiscal_Period\").asObject()}}, \"00\") as 'Current Year-Period', number_to_string({{cell(year_selector.selection, 0, \"value\").asObject()}} - 1,\"0000\") + \" P\" + number_to_string({{cell(period_selector.selection, 0, \"Fiscal_Period\").asObject()}}, \"00\") as 'Previous Year-Period', (case when {{cell(period_selector.selection, 0, \"Fiscal_Period\").asObject()}} == 13 then number_to_string({{cell(year_selector.selection, 0, \"value\").asObject()}} - 1,\"0000\") + \" P01\" + \" - \" + number_to_string({{cell(year_selector.selection, 0, \"value\").asObject()}} - 1,\"0000\") + \" P\" + number_to_string({{cell(period_selector.selection, 0, \"Fiscal_Period\").asObject()}}, \"00\") else number_to_string({{cell(year_selector.selection, 0, \"value\").asObject()}} - 2,\"0000\") + \" P\" + number_to_string({{cell(period_selector.selection, 0, \"Fiscal_Period\").asObject()}} + 1, \"00\") + \" - \" + number_to_string({{cell(year_selector.selection, 0, \"value\").asObject()}} - 1,\"0000\") + \" P\" + number_to_string({{cell(period_selector.selection, 0, \"Fiscal_Period\").asObject()}}, \"00\") end) as 'Previous R13', (case when {{cell(period_selector.selection, 0, \"Fiscal_Period\").asObject()}} == 13 then number_to_string({{cell(year_selector.selection, 0, \"value\").asObject()}},\"0000\") + \" P01\" + \" - \" + number_to_string({{cell(year_selector.selection, 0, \"value\").asObject()}},\"0000\") + \" P\" + number_to_string({{cell(period_selector.selection, 0, \"Fiscal_Period\").asObject()}}, \"00\") else number_to_string({{cell(year_selector.selection, 0, \"value\").asObject()}} - 1,\"0000\") + \" P\" + number_to_string({{cell(period_selector.selection, 0, \"Fiscal_Period\").asObject()}} + 1, \"00\") + \" - \" + number_to_string({{cell(year_selector.selection, 0, \"value\").asObject()}},\"0000\") + \" P\" + number_to_string({{cell(period_selector.selection, 0, \"Fiscal_Period\").asObject()}}, \"00\") end) as 'Current R13', (case when \"{{cell(group_var.selection, 0, \"value\").asObject()}}\" == \"period\" then number_to_string({{cell(year_selector.selection, 0, \"value\").asObject()}} - 1,\"0000\") + \" P\" + number_to_string({{cell(period_selector.selection, 0, \"Fiscal_Period\").asObject()}}, \"00\") + \"  to  \" +  number_to_string({{cell(year_selector.selection, 0, \"value\").asObject()}},\"0000\") + \" P\" + number_to_string({{cell(period_selector.selection, 0, \"Fiscal_Period\").asObject()}}, \"00\") when \"{{cell(group_var.selection, 0, \"value\").asObject()}}\" == \"ytd\" then number_to_string({{cell(year_selector.selection, 0, \"value\").asObject()}}-1,\"0000\") + \" YTD  to  \"  + number_to_string({{cell(year_selector.selection, 0, \"value\").asObject()}},\"0000\") + \" YTD\" else number_to_string({{cell(year_selector.selection, 0, \"value\").asObject()}} - 2,\"0000\") + \" P\" + number_to_string({{cell(period_selector.selection, 0, \"Fiscal_Period\").asObject()}} + 1, \"00\") + \" - \" + number_to_string({{cell(year_selector.selection, 0, \"value\").asObject()}} - 1,\"0000\") + \" P\" + number_to_string({{cell(period_selector.selection, 0, \"Fiscal_Period\").asObject()}}, \"00\") + \"  to  \" + number_to_string({{cell(year_selector.selection, 0, \"value\").asObject()}} - 1,\"0000\") + \" P\" + number_to_string({{cell(period_selector.selection, 0, \"Fiscal_Period\").asObject()}} + 1, \"00\") + \" - \" + number_to_string({{cell(year_selector.selection, 0, \"value\").asObject()}},\"0000\") + \" P\" + number_to_string({{cell(period_selector.selection, 0, \"Fiscal_Period\").asObject()}}, \"00\") end) as 'sort var', \"DIY \" + \"{{cell(static_1.selection, 0, \"display\").asString()}}\" + \" \"+  number_to_string({{cell(year_selector.selection, 0, \"value\").asObject()}},\"0000\") + \" P\" + number_to_string({{cell(period_selector.selection, 0, \"Fiscal_Period\").asObject()}}, \"00\")  as 'Current Year-Period diy', \"DIY \" + \"{{cell(static_1.selection, 0, \"display\").asString()}}\" + \" \"+  number_to_string({{cell(year_selector.selection, 0, \"value\").asObject()}} - 1,\"0000\") + \" P\" + number_to_string({{cell(period_selector.selection, 0, \"Fiscal_Period\").asObject()}}, \"00\") as 'Previous Year-Period diy'; data = limit data 1",
+                    "measures": [
+                        [
+                            "count",
+                            "*",
+                            "Current Period"
+                        ]
+                    ]
+                },
+                "receiveFacetSource": {
+                    "mode": "all",
+                    "steps": []
+                },
+                "selectMode": "single",
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {}
+            },
+            "TG_flag_1": {
+                "broadcastFacet": true,
+                "datasets": [
+                    {
+                        "id": "0Fb1E0000004MgQSAU",
+                        "label": "AZ CC Merge Data",
+                        "name": "AZ_CC_Merge_Data",
+                        "url": "/services/data/v53.0/wave/datasets/0Fb1E0000004MgQSAU"
+                    }
+                ],
+                "isGlobal": false,
+                "query": {
+                    "measures": [
+                        [
+                            "count",
+                            "*"
+                        ]
+                    ],
+                    "groups": [
+                        "TG_flag"
+                    ]
+                },
+                "receiveFacetSource": {
+                    "mode": "all",
+                    "steps": []
+                },
+                "selectMode": "single",
+                "start": [],
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {}
+            },
+            "max_period": {
+                "broadcastFacet": true,
+                "datasets": [
+                    {
+                        "id": "0Fb1E0000004MgQSAU",
+                        "label": "AZ CC Merge Data",
+                        "name": "AZ_CC_Merge_Data",
+                        "url": "/services/data/v53.0/wave/datasets/0Fb1E0000004MgQSAU"
+                    }
+                ],
+                "isGlobal": false,
+                "query": {
+                    "pigql": " data = load \"AZ_CC_Merge_Data\"; data = group data by all; data = filter data by 'FY' == number_to_string({{cell(year_selector.selection, 0, \"value\").asObject()}},\"####\"); data = foreach data generate max('Fiscal_Period_Num') as 'Max Period' ; data = limit data 1",
+                    "measures": [
+                        [
+                            "count",
+                            "*",
+                            "Max Period"
+                        ]
+                    ]
+                },
+                "receiveFacetSource": {
+                    "mode": "all",
+                    "steps": []
+                },
+                "selectMode": "single",
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {}
+            },
+            "Region_1": {
+                "broadcastFacet": true,
+                "datasets": [
+                    {
+                        "id": "0Fb1E0000004MgQSAU",
+                        "label": "AZ CC Merge Data",
+                        "name": "AZ_CC_Merge_Data",
+                        "url": "/services/data/v53.0/wave/datasets/0Fb1E0000004MgQSAU"
+                    }
+                ],
+                "isGlobal": false,
+                "query": {
+                    "measures": [
+                        [
+                            "count",
+                            "*"
+                        ]
+                    ],
+                    "groups": [
+                        "Region"
+                    ]
+                },
+                "receiveFacetSource": {
+                    "mode": "all",
+                    "steps": []
+                },
+                "selectMode": "multi",
+                "start": [],
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {}
+            },
+            "Region_2": {
+                "broadcastFacet": true,
+                "datasets": [
+                    {
+                        "id": "0Fb1E0000004MgQSAU",
+                        "label": "AZ CC Merge Data",
+                        "name": "AZ_CC_Merge_Data",
+                        "url": "/services/data/v53.0/wave/datasets/0Fb1E0000004MgQSAU"
+                    }
+                ],
+                "isGlobal": false,
+                "query": {
+                    "measures": [
+                        [
+                            "count",
+                            "*"
+                        ]
+                    ],
+                    "groups": [
+                        "Region"
+                    ]
+                },
+                "receiveFacetSource": {
+                    "mode": "all",
+                    "steps": []
+                },
+                "selectMode": "multi",
+                "start": [],
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {}
+            },
+            "static_1": {
+                "broadcastFacet": true,
+                "columns": {},
+                "isGlobal": false,
+                "selectMode": "singlerequired",
+                "start": {
+                    "display": [
+                        "Net Retail"
+                    ]
+                },
+                "type": "staticflex",
+                "useGlobal": false,
+                "values": [
+                    {
+                        "display": "Net Retail",
+                        "value": "Total_Net_Retail"
+                    },
+                    {
+                        "display": "Net Units",
+                        "value": "Total_Net_Units"
+                    },
+                    {
+                        "display": "Retail Warranty Rate",
+                        "value": "Gross_Sales_Retail"
+                    },
+                    {
+                        "display": "Units Warranty Rate",
+                        "value": "Gross_Sales_QTY"
+                    }
+                ]
+            },
+            "region_table": {
+                "broadcastFacet": true,
+                "datasets": [
+                    {
+                        "id": "0Fb1E0000004MgQSAU",
+                        "label": "AZ CC Merge Data",
+                        "name": "AZ_CC_Merge_Data",
+                        "url": "/services/data/v53.0/wave/datasets/0Fb1E0000004MgQSAU"
+                    }
+                ],
+                "isGlobal": false,
+                "query": {
+                    "pigql": " data = load \"AZ_CC_Merge_Data\"; data = filter data by 'Region' != \"Unknown\"; diy_data = filter data by 'Sales_Type' == \"DIY\"; difm_data = filter data by 'Sales_Type' == \"DIFM\";  diy_period_prev = filter diy_data by 'FY' == number_to_string({{cell(year_selector.selection, 0, \"value\").asObject()}}-1,\"####\"); diy_period_prev = filter diy_period_prev by 'Fiscal_Period' == number_to_string({{cell(max_year.result, 0, \"Current Period\").asObject()}},\"00\"); diy_period_curr = filter diy_data by 'FY' == number_to_string({{cell(year_selector.selection, 0, \"value\").asObject()}},\"####\"); diy_period_curr = filter diy_period_curr by 'Fiscal_Period' == number_to_string({{cell(max_year.result, 0, \"Current Period\").asObject()}},\"00\"); difm_period_prev = filter difm_data by 'FY' == number_to_string({{cell(year_selector.selection, 0, \"value\").asObject()}}-1,\"####\"); difm_period_prev = filter difm_period_prev by 'Fiscal_Period' == number_to_string({{cell(max_year.result, 0, \"Current Period\").asObject()}},\"00\"); difm_period_curr = filter difm_data by 'FY' == number_to_string({{cell(year_selector.selection, 0, \"value\").asObject()}},\"####\"); difm_period_curr = filter difm_period_curr by 'Fiscal_Period' == number_to_string({{cell(max_year.result, 0, \"Current Period\").asObject()}},\"00\"); period_prev = filter data by 'FY' == number_to_string({{cell(year_selector.selection, 0, \"value\").asObject()}}-1,\"####\"); period_prev = filter period_prev by 'Fiscal_Period' == number_to_string({{cell(max_year.result, 0, \"Current Period\").asObject()}},\"00\"); period_curr = filter data by 'FY' == number_to_string({{cell(year_selector.selection, 0, \"value\").asObject()}},\"####\"); period_curr = filter period_curr by 'Fiscal_Period' == number_to_string({{cell(max_year.result, 0, \"Current Period\").asObject()}},\"00\");  diy_ytd_prev = filter diy_data by 'FY' == number_to_string({{cell(year_selector.selection, 0, \"value\").asObject()}}-1,\"####\"); diy_ytd_prev = filter diy_ytd_prev by 'Fiscal_Period_Num' <= {{cell(max_year.result, 0, \"Current Period\").asObject()}};  diy_ytd_curr = filter diy_data by 'FY' == number_to_string({{cell(year_selector.selection, 0, \"value\").asObject()}},\"####\"); difm_ytd_prev = filter difm_data by 'FY' == number_to_string({{cell(year_selector.selection, 0, \"value\").asObject()}}-1,\"####\"); difm_ytd_prev = filter difm_ytd_prev by 'Fiscal_Period_Num' <= {{cell(max_year.result, 0, \"Current Period\").asObject()}}; difm_ytd_curr = filter difm_data by 'FY' == number_to_string({{cell(year_selector.selection, 0, \"value\").asObject()}},\"####\"); ytd_prev = filter data by 'FY' == number_to_string({{cell(year_selector.selection, 0, \"value\").asObject()}}-1,\"####\"); ytd_prev = filter ytd_prev by 'Fiscal_Period_Num' <= {{cell(max_year.result, 0, \"Current Period\").asObject()}};  ytd_curr = filter data by 'FY' == number_to_string({{cell(year_selector.selection, 0, \"value\").asObject()}},\"####\");  diy_R13_prev_1 = filter diy_data by 'FY' == number_to_string({{cell(year_selector.selection, 0, \"value\").asObject()}}-2,\"####\"); diy_R13_prev_1 = filter diy_R13_prev_1 by 'Fiscal_Period_Num' > {{cell(max_year.result, 0, \"Current Period\").asObject()}}; diy_R13_curr_1 = filter diy_data by 'FY' == number_to_string({{cell(year_selector.selection, 0, \"value\").asObject()}}-1,\"####\"); diy_R13_curr_1 = filter diy_R13_curr_1 by 'Fiscal_Period_Num' > {{cell(max_year.result, 0, \"Current Period\").asObject()}}; difm_R13_prev_1 = filter difm_data by 'FY' == number_to_string({{cell(year_selector.selection, 0, \"value\").asObject()}}-2,\"####\"); difm_R13_prev_1 = filter difm_R13_prev_1 by 'Fiscal_Period_Num' > {{cell(max_year.result, 0, \"Current Period\").asObject()}}; difm_R13_curr_1 = filter difm_data by 'FY' == number_to_string({{cell(year_selector.selection, 0, \"value\").asObject()}}-1,\"####\"); difm_R13_curr_1 = filter difm_R13_curr_1 by 'Fiscal_Period_Num' > {{cell(max_year.result, 0, \"Current Period\").asObject()}}; R13_prev_1 = filter data by 'FY' == number_to_string({{cell(year_selector.selection, 0, \"value\").asObject()}}-2,\"####\"); R13_prev_1 = filter R13_prev_1 by 'Fiscal_Period_Num' > {{cell(max_year.result, 0, \"Current Period\").asObject()}}; R13_curr_1 = filter data by 'FY' == number_to_string({{cell(year_selector.selection, 0, \"value\").asObject()}}-1,\"####\"); R13_curr_1 = filter R13_curr_1 by 'Fiscal_Period_Num' > {{cell(max_year.result, 0, \"Current Period\").asObject()}};        diy_R13_prev_2 = filter diy_data by 'FY' == number_to_string({{cell(year_selector.selection, 0, \"value\").asObject()}}-1,\"####\"); diy_R13_prev_2 = filter diy_R13_prev_2 by 'Fiscal_Period_Num' <= {{cell(max_year.result, 0, \"Current Period\").asObject()}}; diy_R13_curr_2 = filter diy_data by 'FY' == number_to_string({{cell(year_selector.selection, 0, \"value\").asObject()}},\"####\"); diy_R13_curr_2 = filter diy_R13_curr_2 by 'Fiscal_Period_Num' <= {{cell(max_year.result, 0, \"Current Period\").asObject()}}; difm_R13_prev_2 = filter difm_data by 'FY' == number_to_string({{cell(year_selector.selection, 0, \"value\").asObject()}}-1,\"####\"); difm_R13_prev_2 = filter difm_R13_prev_2 by 'Fiscal_Period_Num' <= {{cell(max_year.result, 0, \"Current Period\").asObject()}}; difm_R13_curr_2 = filter difm_data by 'FY' == number_to_string({{cell(year_selector.selection, 0, \"value\").asObject()}},\"####\"); difm_R13_curr_2 = filter difm_R13_curr_2 by 'Fiscal_Period_Num' <= {{cell(max_year.result, 0, \"Current Period\").asObject()}}; R13_prev_2 = filter data by 'FY' == number_to_string({{cell(year_selector.selection, 0, \"value\").asObject()}}-1,\"####\"); R13_prev_2 = filter R13_prev_2 by 'Fiscal_Period_Num' <= {{cell(max_year.result, 0, \"Current Period\").asObject()}}; R13_curr_2 = filter data by 'FY' == number_to_string({{cell(year_selector.selection, 0, \"value\").asObject()}},\"####\"); R13_curr_2 = filter R13_curr_2 by 'Fiscal_Period_Num' <= {{cell(max_year.result, 0, \"Current Period\").asObject()}};  period = group diy_period_prev by {{cell(grouping_selector.selection, 0, \"value\").asOrder()}} full, diy_period_curr by {{cell(grouping_selector.selection, 0, \"value\").asOrder()}} full, difm_period_prev by {{cell(grouping_selector.selection, 0, \"value\").asOrder()}} full, difm_period_curr by {{cell(grouping_selector.selection, 0, \"value\").asOrder()}} full, period_prev by {{cell(grouping_selector.selection, 0, \"value\").asOrder()}} full, period_curr by {{cell(grouping_selector.selection, 0, \"value\").asOrder()}};  period = foreach period generate number_to_string((case when \"{{cell(static_1.selection, 0, \"value\").asString()}}\" == \"Gross_Sales_Retail\" then 100*(sum(diy_period_curr['Damaged_Returns_Retail']) + sum(diy_period_curr['VDP_Damaged_Returns_Retail']))/(sum(diy_period_curr['Gross_Sales_Retail'])+sum(diy_period_curr['VDP_Gross_Sales_Retail'])+sum(diy_period_curr['Undamaged_Returns_Retail'])+sum(diy_period_curr['VDP_Undamaged_Returns_Retail']))/((sum(diy_period_prev['Damaged_Returns_Retail']) + sum(diy_period_prev['VDP_Damaged_Returns_Retail']))/(sum(diy_period_prev['Gross_Sales_Retail'])+sum(diy_period_prev['VDP_Gross_Sales_Retail'])+sum(diy_period_prev['Undamaged_Returns_Retail'])+sum(diy_period_prev['VDP_Undamaged_Returns_Retail']))) - 100 when \"{{cell(static_1.selection, 0, \"value\").asString()}}\" == \"Gross_Sales_QTY\" then 100*(sum(diy_period_curr['Damaged_Returns']) + sum(diy_period_curr['VDP_Damaged_Returns_QTY']))/(sum(diy_period_curr['Gross_Sales_QTY'])+sum(diy_period_curr['VDP_Gross_Sales_QTY'])+sum(diy_period_curr['Undamaged_Returns_QTY'])+sum(diy_period_curr['VDP_Undamaged_Returns_QTY']))/((sum(diy_period_prev['Damaged_Returns']) + sum(diy_period_prev['VDP_Damaged_Returns_QTY']))/(sum(diy_period_prev['Gross_Sales_QTY'])+sum(diy_period_prev['VDP_Gross_Sales_QTY'])+sum(diy_period_prev['Undamaged_Returns_QTY'])+sum(diy_period_prev['VDP_Undamaged_Returns_QTY']))) - 100 else 100*(sum(diy_period_curr['{{cell(static_1.selection, 0, \"value\").asObject()}}'])/sum(diy_period_prev['{{cell(static_1.selection, 0, \"value\").asObject()}}'])-1) end)/100, \"#.0%\") as 'DIY_%Change',  number_to_string((case when \"{{cell(static_1.selection, 0, \"value\").asString()}}\" == \"Gross_Sales_Retail\" then 100*(sum(diy_period_curr['Damaged_Returns_Retail']) + sum(diy_period_curr['VDP_Damaged_Returns_Retail']))/(sum(diy_period_curr['Gross_Sales_Retail'])+sum(diy_period_curr['VDP_Gross_Sales_Retail'])+sum(diy_period_curr['Undamaged_Returns_Retail'])+sum(diy_period_curr['VDP_Undamaged_Returns_Retail'])) when \"{{cell(static_1.selection, 0, \"value\").asString()}}\" == \"Gross_Sales_QTY\" then 100*(sum(diy_period_curr['Damaged_Returns']) + sum(diy_period_curr['VDP_Damaged_Returns_QTY']))/(sum(diy_period_curr['Gross_Sales_QTY'])+sum(diy_period_curr['VDP_Gross_Sales_QTY'])+sum(diy_period_curr['Undamaged_Returns_QTY'])+sum(diy_period_curr['VDP_Undamaged_Returns_QTY'])) else sum(diy_period_curr['{{cell(static_1.selection, 0, \"value\").asObject()}}']) end), \"#,###\") as 'Current DIY' , number_to_string((case when \"{{cell(static_1.selection, 0, \"value\").asString()}}\" == \"Gross_Sales_Retail\" then 100*(sum(diy_period_prev['Damaged_Returns_Retail']) + sum(diy_period_prev['VDP_Damaged_Returns_Retail']))/(sum(diy_period_prev['Gross_Sales_Retail'])+sum(diy_period_prev['VDP_Gross_Sales_Retail'])+sum(diy_period_prev['Undamaged_Returns_Retail'])+sum(diy_period_prev['VDP_Undamaged_Returns_Retail'])) when \"{{cell(static_1.selection, 0, \"value\").asString()}}\" == \"Gross_Sales_QTY\" then 100*(sum(diy_period_prev['Damaged_Returns']) + sum(diy_period_prev['VDP_Damaged_Returns_QTY']))/(sum(diy_period_prev['Gross_Sales_QTY'])+sum(diy_period_prev['VDP_Gross_Sales_QTY'])+sum(diy_period_prev['Undamaged_Returns_QTY'])+sum(diy_period_prev['VDP_Undamaged_Returns_QTY'])) else sum(diy_period_prev['{{cell(static_1.selection, 0, \"value\").asObject()}}']) end), \"#,###\") as 'Prior DIY', number_to_string((case when \"{{cell(static_1.selection, 0, \"value\").asString()}}\" == \"Gross_Sales_Retail\" then 100*(sum(difm_period_curr['Damaged_Returns_Retail']) + sum(difm_period_curr['VDP_Damaged_Returns_Retail']))/(sum(difm_period_curr['Gross_Sales_Retail'])+sum(difm_period_curr['VDP_Gross_Sales_Retail'])+sum(difm_period_curr['Undamaged_Returns_Retail'])+sum(difm_period_curr['VDP_Undamaged_Returns_Retail']))/((sum(difm_period_prev['Damaged_Returns_Retail']) + sum(difm_period_prev['VDP_Damaged_Returns_Retail']))/(sum(difm_period_prev['Gross_Sales_Retail'])+sum(difm_period_prev['VDP_Gross_Sales_Retail'])+sum(difm_period_prev['Undamaged_Returns_Retail'])+sum(difm_period_prev['VDP_Undamaged_Returns_Retail']))) - 100 when \"{{cell(static_1.selection, 0, \"value\").asString()}}\" == \"Gross_Sales_QTY\" then 100*(sum(difm_period_curr['Damaged_Returns']) + sum(difm_period_curr['VDP_Damaged_Returns_QTY']))/(sum(difm_period_curr['Gross_Sales_QTY'])+sum(difm_period_curr['VDP_Gross_Sales_QTY'])+sum(difm_period_curr['Undamaged_Returns_QTY'])+sum(difm_period_curr['VDP_Undamaged_Returns_QTY']))/((sum(difm_period_prev['Damaged_Returns']) + sum(difm_period_prev['VDP_Damaged_Returns_QTY']))/(sum(difm_period_prev['Gross_Sales_QTY'])+sum(difm_period_prev['VDP_Gross_Sales_QTY'])+sum(difm_period_prev['Undamaged_Returns_QTY'])+sum(difm_period_prev['VDP_Undamaged_Returns_QTY']))) - 100 else 100*(sum(difm_period_curr['{{cell(static_1.selection, 0, \"value\").asObject()}}'])/sum(difm_period_prev['{{cell(static_1.selection, 0, \"value\").asObject()}}'])-1) end)/100, \"#.0%\") as 'DIFM_%Change', number_to_string((case when \"{{cell(static_1.selection, 0, \"value\").asString()}}\" == \"Gross_Sales_Retail\" then 100*(sum(difm_period_curr['Damaged_Returns_Retail']) + sum(difm_period_curr['VDP_Damaged_Returns_Retail']))/(sum(difm_period_curr['Gross_Sales_Retail'])+sum(difm_period_curr['VDP_Gross_Sales_Retail'])+sum(difm_period_curr['Undamaged_Returns_Retail'])+sum(difm_period_curr['VDP_Undamaged_Returns_Retail'])) when \"{{cell(static_1.selection, 0, \"value\").asString()}}\" == \"Gross_Sales_QTY\" then 100*(sum(difm_period_curr['Damaged_Returns']) + sum(difm_period_curr['VDP_Damaged_Returns_QTY']))/(sum(difm_period_curr['Gross_Sales_QTY'])+sum(difm_period_curr['VDP_Gross_Sales_QTY'])+sum(difm_period_curr['Undamaged_Returns_QTY'])+sum(difm_period_curr['VDP_Undamaged_Returns_QTY'])) else sum(difm_period_curr['{{cell(static_1.selection, 0, \"value\").asObject()}}']) end), \"#,###\") as 'Current DIFM' , number_to_string((case when \"{{cell(static_1.selection, 0, \"value\").asString()}}\" == \"Gross_Sales_Retail\" then 100*(sum(difm_period_prev['Damaged_Returns_Retail']) + sum(difm_period_prev['VDP_Damaged_Returns_Retail']))/(sum(difm_period_prev['Gross_Sales_Retail'])+sum(difm_period_prev['VDP_Gross_Sales_Retail'])+sum(difm_period_prev['Undamaged_Returns_Retail'])+sum(difm_period_prev['VDP_Undamaged_Returns_Retail'])) when \"{{cell(static_1.selection, 0, \"value\").asString()}}\" == \"Gross_Sales_QTY\" then 100*(sum(difm_period_prev['Damaged_Returns']) + sum(difm_period_prev['VDP_Damaged_Returns_QTY']))/(sum(difm_period_prev['Gross_Sales_QTY'])+sum(difm_period_prev['VDP_Gross_Sales_QTY'])+sum(difm_period_prev['Undamaged_Returns_QTY'])+sum(difm_period_prev['VDP_Undamaged_Returns_QTY'])) else sum(difm_period_prev['{{cell(static_1.selection, 0, \"value\").asObject()}}']) end), \"#,###\") as 'Prior DIFM', number_to_string((case when \"{{cell(static_1.selection, 0, \"value\").asString()}}\" == \"Gross_Sales_Retail\" then 100*(sum(period_curr['Damaged_Returns_Retail']) + sum(period_curr['VDP_Damaged_Returns_Retail']))/(sum(period_curr['Gross_Sales_Retail'])+sum(period_curr['VDP_Gross_Sales_Retail'])+sum(period_curr['Undamaged_Returns_Retail'])+sum(period_curr['VDP_Undamaged_Returns_Retail']))/((sum(period_prev['Damaged_Returns_Retail']) + sum(period_prev['VDP_Damaged_Returns_Retail']))/(sum(period_prev['Gross_Sales_Retail'])+sum(period_prev['VDP_Gross_Sales_Retail'])+sum(period_prev['Undamaged_Returns_Retail'])+sum(period_prev['VDP_Undamaged_Returns_Retail']))) - 100 when \"{{cell(static_1.selection, 0, \"value\").asString()}}\" == \"Gross_Sales_QTY\" then 100*(sum(period_curr['Damaged_Returns']) + sum(period_curr['VDP_Damaged_Returns_QTY']))/(sum(period_curr['Gross_Sales_QTY'])+sum(period_curr['VDP_Gross_Sales_QTY'])+sum(period_curr['Undamaged_Returns_QTY'])+sum(period_curr['VDP_Undamaged_Returns_QTY']))/((sum(period_prev['Damaged_Returns']) + sum(period_prev['VDP_Damaged_Returns_QTY']))/(sum(period_prev['Gross_Sales_QTY'])+sum(period_prev['VDP_Gross_Sales_QTY'])+sum(period_prev['Undamaged_Returns_QTY'])+sum(period_prev['VDP_Undamaged_Returns_QTY']))) - 100 else 100*(sum(period_curr['{{cell(static_1.selection, 0, \"value\").asObject()}}'])/sum(period_prev['{{cell(static_1.selection, 0, \"value\").asObject()}}'])-1) end)/100, \"#.0%\") as 'DAP_%Change', number_to_string((case when \"{{cell(static_1.selection, 0, \"value\").asString()}}\" == \"Gross_Sales_Retail\" then 100*(sum(period_curr['Damaged_Returns_Retail']) + sum(period_curr['VDP_Damaged_Returns_Retail']))/(sum(period_curr['Gross_Sales_Retail'])+sum(period_curr['VDP_Gross_Sales_Retail'])+sum(period_curr['Undamaged_Returns_Retail'])+sum(period_curr['VDP_Undamaged_Returns_Retail'])) when \"{{cell(static_1.selection, 0, \"value\").asString()}}\" == \"Gross_Sales_QTY\" then 100*(sum(period_curr['Damaged_Returns']) + sum(period_curr['VDP_Damaged_Returns_QTY']))/(sum(period_curr['Gross_Sales_QTY'])+sum(period_curr['VDP_Gross_Sales_QTY'])+sum(period_curr['Undamaged_Returns_QTY'])+sum(period_curr['VDP_Undamaged_Returns_QTY'])) else sum(period_curr['{{cell(static_1.selection, 0, \"value\").asObject()}}']) end), \"#,###\") as 'Current DAP' , number_to_string((case when \"{{cell(static_1.selection, 0, \"value\").asString()}}\" == \"Gross_Sales_Retail\" then 100*(sum(period_prev['Damaged_Returns_Retail']) + sum(period_prev['VDP_Damaged_Returns_Retail']))/(sum(period_prev['Gross_Sales_Retail'])+sum(period_prev['VDP_Gross_Sales_Retail'])+sum(period_prev['Undamaged_Returns_Retail'])+sum(period_prev['VDP_Undamaged_Returns_Retail'])) when \"{{cell(static_1.selection, 0, \"value\").asString()}}\" == \"Gross_Sales_QTY\" then 100*(sum(period_prev['Damaged_Returns']) + sum(period_prev['VDP_Damaged_Returns_QTY']))/(sum(period_prev['Gross_Sales_QTY'])+sum(period_prev['VDP_Gross_Sales_QTY'])+sum(period_prev['Undamaged_Returns_QTY'])+sum(period_prev['VDP_Undamaged_Returns_QTY'])) else sum(period_prev['{{cell(static_1.selection, 0, \"value\").asObject()}}']) end), \"#,###\") as 'Prior DAP',          (case when \"{{cell(static_1.selection, 0, \"value\").asString()}}\" == \"Gross_Sales_Retail\" then 100*(sum(period_curr['Damaged_Returns_Retail']) + sum(period_curr['VDP_Damaged_Returns_Retail']))/(sum(period_curr['Gross_Sales_Retail'])+sum(period_curr['VDP_Gross_Sales_Retail'])+sum(period_curr['Undamaged_Returns_Retail'])+sum(period_curr['VDP_Undamaged_Returns_Retail']))/((sum(period_prev['Damaged_Returns_Retail']) + sum(period_prev['VDP_Damaged_Returns_Retail']))/(sum(period_prev['Gross_Sales_Retail'])+sum(period_prev['VDP_Gross_Sales_Retail'])+sum(period_prev['Undamaged_Returns_Retail'])+sum(period_prev['VDP_Undamaged_Returns_Retail']))) - 100 when \"{{cell(static_1.selection, 0, \"value\").asString()}}\" == \"Gross_Sales_QTY\" then 100*(sum(period_curr['Damaged_Returns']) + sum(period_curr['VDP_Damaged_Returns_QTY']))/(sum(period_curr['Gross_Sales_QTY'])+sum(period_curr['VDP_Gross_Sales_QTY'])+sum(period_curr['Undamaged_Returns_QTY'])+sum(period_curr['VDP_Undamaged_Returns_QTY']))/((sum(period_prev['Damaged_Returns']) + sum(period_prev['VDP_Damaged_Returns_QTY']))/(sum(period_prev['Gross_Sales_QTY'])+sum(period_prev['VDP_Gross_Sales_QTY'])+sum(period_prev['Undamaged_Returns_QTY'])+sum(period_prev['VDP_Undamaged_Returns_QTY']))) - 100 else 100*(sum(period_curr['{{cell(static_1.selection, 0, \"value\").asObject()}}'])/sum(period_prev['{{cell(static_1.selection, 0, \"value\").asObject()}}'])-1) end) as 'sort var' , period_curr::{{cell(grouping_selector.selection, 0, \"value\").asObject()}} as {{cell(grouping_selector.selection, 0, \"value\").asOrder()}};  ytd = group diy_ytd_prev by {{cell(grouping_selector.selection, 0, \"value\").asOrder()}} full, diy_ytd_curr by {{cell(grouping_selector.selection, 0, \"value\").asOrder()}} full, difm_ytd_prev by {{cell(grouping_selector.selection, 0, \"value\").asOrder()}} full, difm_ytd_curr by {{cell(grouping_selector.selection, 0, \"value\").asOrder()}} full, ytd_prev by {{cell(grouping_selector.selection, 0, \"value\").asOrder()}} full, ytd_curr by {{cell(grouping_selector.selection, 0, \"value\").asOrder()}};  ytd = foreach ytd generate number_to_string((case when \"{{cell(static_1.selection, 0, \"value\").asString()}}\" == \"Gross_Sales_Retail\" then 100*(sum(diy_ytd_curr['Damaged_Returns_Retail']) + sum(diy_ytd_curr['VDP_Damaged_Returns_Retail']))/(sum(diy_ytd_curr['Gross_Sales_Retail'])+sum(diy_ytd_curr['VDP_Gross_Sales_Retail'])+sum(diy_ytd_curr['Undamaged_Returns_Retail'])+sum(diy_ytd_curr['VDP_Undamaged_Returns_Retail']))/((sum(diy_ytd_prev['Damaged_Returns_Retail']) + sum(diy_ytd_prev['VDP_Damaged_Returns_Retail']))/(sum(diy_ytd_prev['Gross_Sales_Retail'])+sum(diy_ytd_prev['VDP_Gross_Sales_Retail'])+sum(diy_ytd_prev['Undamaged_Returns_Retail'])+sum(diy_ytd_prev['VDP_Undamaged_Returns_Retail']))) - 100 when \"{{cell(static_1.selection, 0, \"value\").asString()}}\" == \"Gross_Sales_QTY\" then 100*(sum(diy_ytd_curr['Damaged_Returns']) + sum(diy_ytd_curr['VDP_Damaged_Returns_QTY']))/(sum(diy_ytd_curr['Gross_Sales_QTY'])+sum(diy_ytd_curr['VDP_Gross_Sales_QTY'])+sum(diy_ytd_curr['Undamaged_Returns_QTY'])+sum(diy_ytd_curr['VDP_Undamaged_Returns_QTY']))/((sum(diy_ytd_prev['Damaged_Returns']) + sum(diy_ytd_prev['VDP_Damaged_Returns_QTY']))/(sum(diy_ytd_prev['Gross_Sales_QTY'])+sum(diy_ytd_prev['VDP_Gross_Sales_QTY'])+sum(diy_ytd_prev['Undamaged_Returns_QTY'])+sum(diy_ytd_prev['VDP_Undamaged_Returns_QTY']))) - 100 else 100*(sum(diy_ytd_curr['{{cell(static_1.selection, 0, \"value\").asObject()}}'])/sum(diy_ytd_prev['{{cell(static_1.selection, 0, \"value\").asObject()}}'])-1) end)/100, \"#.0%\") as 'DIY_%Change', number_to_string((case when \"{{cell(static_1.selection, 0, \"value\").asString()}}\" == \"Gross_Sales_Retail\" then 100*(sum(diy_ytd_curr['Damaged_Returns_Retail']) + sum(diy_ytd_curr['VDP_Damaged_Returns_Retail']))/(sum(diy_ytd_curr['Gross_Sales_Retail'])+sum(diy_ytd_curr['VDP_Gross_Sales_Retail'])+sum(diy_ytd_curr['Undamaged_Returns_Retail'])+sum(diy_ytd_curr['VDP_Undamaged_Returns_Retail'])) when \"{{cell(static_1.selection, 0, \"value\").asString()}}\" == \"Gross_Sales_QTY\" then 100*(sum(diy_ytd_curr['Damaged_Returns']) + sum(diy_ytd_curr['VDP_Damaged_Returns_QTY']))/(sum(diy_ytd_curr['Gross_Sales_QTY'])+sum(diy_ytd_curr['VDP_Gross_Sales_QTY'])+sum(diy_ytd_curr['Undamaged_Returns_QTY'])+sum(diy_ytd_curr['VDP_Undamaged_Returns_QTY'])) else sum(diy_ytd_curr['{{cell(static_1.selection, 0, \"value\").asObject()}}']) end), \"#,###\") as 'Current DIY',  number_to_string((case when \"{{cell(static_1.selection, 0, \"value\").asString()}}\" == \"Gross_Sales_Retail\" then 100*(sum(diy_ytd_prev['Damaged_Returns_Retail']) + sum(diy_ytd_prev['VDP_Damaged_Returns_Retail']))/(sum(diy_ytd_prev['Gross_Sales_Retail'])+sum(diy_ytd_prev['VDP_Gross_Sales_Retail'])+sum(diy_ytd_prev['Undamaged_Returns_Retail'])+sum(diy_ytd_prev['VDP_Undamaged_Returns_Retail'])) when \"{{cell(static_1.selection, 0, \"value\").asString()}}\" == \"Gross_Sales_QTY\" then 100*(sum(diy_ytd_prev['Damaged_Returns']) + sum(diy_ytd_prev['VDP_Damaged_Returns_QTY']))/(sum(diy_ytd_prev['Gross_Sales_QTY'])+sum(diy_ytd_prev['VDP_Gross_Sales_QTY'])+sum(diy_ytd_prev['Undamaged_Returns_QTY'])+sum(diy_ytd_prev['VDP_Undamaged_Returns_QTY'])) else sum(diy_ytd_prev['{{cell(static_1.selection, 0, \"value\").asObject()}}']) end), \"#,###\") as 'Prior DIY' , number_to_string((case when \"{{cell(static_1.selection, 0, \"value\").asString()}}\" == \"Gross_Sales_Retail\" then 100*(sum(difm_ytd_curr['Damaged_Returns_Retail']) + sum(difm_ytd_curr['VDP_Damaged_Returns_Retail']))/(sum(difm_ytd_curr['Gross_Sales_Retail'])+sum(difm_ytd_curr['VDP_Gross_Sales_Retail'])+sum(difm_ytd_curr['Undamaged_Returns_Retail'])+sum(difm_ytd_curr['VDP_Undamaged_Returns_Retail'])) when \"{{cell(static_1.selection, 0, \"value\").asString()}}\" == \"Gross_Sales_QTY\" then 100*(sum(difm_ytd_curr['Damaged_Returns']) + sum(difm_ytd_curr['VDP_Damaged_Returns_QTY']))/(sum(difm_ytd_curr['Gross_Sales_QTY'])+sum(difm_ytd_curr['VDP_Gross_Sales_QTY'])+sum(difm_ytd_curr['Undamaged_Returns_QTY'])+sum(difm_ytd_curr['VDP_Undamaged_Returns_QTY'])) else sum(difm_ytd_curr['{{cell(static_1.selection, 0, \"value\").asObject()}}']) end), \"#,###\") as 'Current DIFM',  number_to_string((case when \"{{cell(static_1.selection, 0, \"value\").asString()}}\" == \"Gross_Sales_Retail\" then 100*(sum(difm_ytd_prev['Damaged_Returns_Retail']) + sum(difm_ytd_prev['VDP_Damaged_Returns_Retail']))/(sum(difm_ytd_prev['Gross_Sales_Retail'])+sum(difm_ytd_prev['VDP_Gross_Sales_Retail'])+sum(difm_ytd_prev['Undamaged_Returns_Retail'])+sum(difm_ytd_prev['VDP_Undamaged_Returns_Retail'])) when \"{{cell(static_1.selection, 0, \"value\").asString()}}\" == \"Gross_Sales_QTY\" then 100*(sum(difm_ytd_prev['Damaged_Returns']) + sum(difm_ytd_prev['VDP_Damaged_Returns_QTY']))/(sum(difm_ytd_prev['Gross_Sales_QTY'])+sum(difm_ytd_prev['VDP_Gross_Sales_QTY'])+sum(difm_ytd_prev['Undamaged_Returns_QTY'])+sum(difm_ytd_prev['VDP_Undamaged_Returns_QTY'])) else sum(difm_ytd_prev['{{cell(static_1.selection, 0, \"value\").asObject()}}']) end), \"#,###\") as 'Prior DIFM' ,  number_to_string((case when \"{{cell(static_1.selection, 0, \"value\").asString()}}\" == \"Gross_Sales_Retail\" then 100*(sum(difm_ytd_curr['Damaged_Returns_Retail']) + sum(difm_ytd_curr['VDP_Damaged_Returns_Retail']))/(sum(difm_ytd_curr['Gross_Sales_Retail'])+sum(difm_ytd_curr['VDP_Gross_Sales_Retail'])+sum(difm_ytd_curr['Undamaged_Returns_Retail'])+sum(difm_ytd_curr['VDP_Undamaged_Returns_Retail']))/((sum(difm_ytd_prev['Damaged_Returns_Retail']) + sum(difm_ytd_prev['VDP_Damaged_Returns_Retail']))/(sum(difm_ytd_prev['Gross_Sales_Retail'])+sum(difm_ytd_prev['VDP_Gross_Sales_Retail'])+sum(difm_ytd_prev['Undamaged_Returns_Retail'])+sum(difm_ytd_prev['VDP_Undamaged_Returns_Retail']))) - 100 when \"{{cell(static_1.selection, 0, \"value\").asString()}}\" == \"Gross_Sales_QTY\" then 100*(sum(difm_ytd_curr['Damaged_Returns']) + sum(difm_ytd_curr['VDP_Damaged_Returns_QTY']))/(sum(difm_ytd_curr['Gross_Sales_QTY'])+sum(difm_ytd_curr['VDP_Gross_Sales_QTY'])+sum(difm_ytd_curr['Undamaged_Returns_QTY'])+sum(difm_ytd_curr['VDP_Undamaged_Returns_QTY']))/((sum(difm_ytd_prev['Damaged_Returns']) + sum(difm_ytd_prev['VDP_Damaged_Returns_QTY']))/(sum(difm_ytd_prev['Gross_Sales_QTY'])+sum(difm_ytd_prev['VDP_Gross_Sales_QTY'])+sum(difm_ytd_prev['Undamaged_Returns_QTY'])+sum(difm_ytd_prev['VDP_Undamaged_Returns_QTY']))) - 100 else 100*(sum(difm_ytd_curr['{{cell(static_1.selection, 0, \"value\").asObject()}}'])/sum(difm_ytd_prev['{{cell(static_1.selection, 0, \"value\").asObject()}}'])-1) end)/100, \"#.0%\") as 'DIFM_%Change', number_to_string((case when \"{{cell(static_1.selection, 0, \"value\").asString()}}\" == \"Gross_Sales_Retail\" then 100*(sum(ytd_curr['Damaged_Returns_Retail']) + sum(ytd_curr['VDP_Damaged_Returns_Retail']))/(sum(ytd_curr['Gross_Sales_Retail'])+sum(ytd_curr['VDP_Gross_Sales_Retail'])+sum(ytd_curr['Undamaged_Returns_Retail'])+sum(ytd_curr['VDP_Undamaged_Returns_Retail']))/((sum(ytd_prev['Damaged_Returns_Retail']) + sum(ytd_prev['VDP_Damaged_Returns_Retail']))/(sum(ytd_prev['Gross_Sales_Retail'])+sum(ytd_prev['VDP_Gross_Sales_Retail'])+sum(ytd_prev['Undamaged_Returns_Retail'])+sum(ytd_prev['VDP_Undamaged_Returns_Retail']))) - 100 when \"{{cell(static_1.selection, 0, \"value\").asString()}}\" == \"Gross_Sales_QTY\" then 100*(sum(ytd_curr['Damaged_Returns']) + sum(ytd_curr['VDP_Damaged_Returns_QTY']))/(sum(ytd_curr['Gross_Sales_QTY'])+sum(ytd_curr['VDP_Gross_Sales_QTY'])+sum(ytd_curr['Undamaged_Returns_QTY'])+sum(ytd_curr['VDP_Undamaged_Returns_QTY']))/((sum(ytd_prev['Damaged_Returns']) + sum(ytd_prev['VDP_Damaged_Returns_QTY']))/(sum(ytd_prev['Gross_Sales_QTY'])+sum(ytd_prev['VDP_Gross_Sales_QTY'])+sum(ytd_prev['Undamaged_Returns_QTY'])+sum(ytd_prev['VDP_Undamaged_Returns_QTY']))) - 100 else 100*(sum(ytd_curr['{{cell(static_1.selection, 0, \"value\").asObject()}}'])/sum(ytd_prev['{{cell(static_1.selection, 0, \"value\").asObject()}}'])-1) end)/100, \"#.0%\") as 'DAP_%Change', number_to_string((case when \"{{cell(static_1.selection, 0, \"value\").asString()}}\" == \"Gross_Sales_Retail\" then 100*(sum(ytd_curr['Damaged_Returns_Retail']) + sum(ytd_curr['VDP_Damaged_Returns_Retail']))/(sum(ytd_curr['Gross_Sales_Retail'])+sum(ytd_curr['VDP_Gross_Sales_Retail'])+sum(ytd_curr['Undamaged_Returns_Retail'])+sum(ytd_curr['VDP_Undamaged_Returns_Retail'])) when \"{{cell(static_1.selection, 0, \"value\").asString()}}\" == \"Gross_Sales_QTY\" then 100*(sum(ytd_curr['Damaged_Returns']) + sum(ytd_curr['VDP_Damaged_Returns_QTY']))/(sum(ytd_curr['Gross_Sales_QTY'])+sum(ytd_curr['VDP_Gross_Sales_QTY'])+sum(ytd_curr['Undamaged_Returns_QTY'])+sum(ytd_curr['VDP_Undamaged_Returns_QTY'])) else sum(ytd_curr['{{cell(static_1.selection, 0, \"value\").asObject()}}']) end), \"#,###\") as 'Current DAP',  number_to_string((case when \"{{cell(static_1.selection, 0, \"value\").asString()}}\" == \"Gross_Sales_Retail\" then 100*(sum(ytd_prev['Damaged_Returns_Retail']) + sum(ytd_prev['VDP_Damaged_Returns_Retail']))/(sum(ytd_prev['Gross_Sales_Retail'])+sum(ytd_prev['VDP_Gross_Sales_Retail'])+sum(ytd_prev['Undamaged_Returns_Retail'])+sum(ytd_prev['VDP_Undamaged_Returns_Retail'])) when \"{{cell(static_1.selection, 0, \"value\").asString()}}\" == \"Gross_Sales_QTY\" then 100*(sum(ytd_prev['Damaged_Returns']) + sum(ytd_prev['VDP_Damaged_Returns_QTY']))/(sum(ytd_prev['Gross_Sales_QTY'])+sum(ytd_prev['VDP_Gross_Sales_QTY'])+sum(ytd_prev['Undamaged_Returns_QTY'])+sum(ytd_prev['VDP_Undamaged_Returns_QTY'])) else sum(ytd_prev['{{cell(static_1.selection, 0, \"value\").asObject()}}']) end), \"#,###\") as 'Prior DAP' , (case when \"{{cell(static_1.selection, 0, \"value\").asString()}}\" == \"Gross_Sales_Retail\" then 100*(sum(ytd_curr['Damaged_Returns_Retail']) + sum(ytd_curr['VDP_Damaged_Returns_Retail']))/(sum(ytd_curr['Gross_Sales_Retail'])+sum(ytd_curr['VDP_Gross_Sales_Retail'])+sum(ytd_curr['Undamaged_Returns_Retail'])+sum(ytd_curr['VDP_Undamaged_Returns_Retail']))/((sum(ytd_prev['Damaged_Returns_Retail']) + sum(ytd_prev['VDP_Damaged_Returns_Retail']))/(sum(ytd_prev['Gross_Sales_Retail'])+sum(ytd_prev['VDP_Gross_Sales_Retail'])+sum(ytd_prev['Undamaged_Returns_Retail'])+sum(ytd_prev['VDP_Undamaged_Returns_Retail']))) - 100 when \"{{cell(static_1.selection, 0, \"value\").asString()}}\" == \"Gross_Sales_QTY\" then 100*(sum(ytd_curr['Damaged_Returns']) + sum(ytd_curr['VDP_Damaged_Returns_QTY']))/(sum(ytd_curr['Gross_Sales_QTY'])+sum(ytd_curr['VDP_Gross_Sales_QTY'])+sum(ytd_curr['Undamaged_Returns_QTY'])+sum(ytd_curr['VDP_Undamaged_Returns_QTY']))/((sum(ytd_prev['Damaged_Returns']) + sum(ytd_prev['VDP_Damaged_Returns_QTY']))/(sum(ytd_prev['Gross_Sales_QTY'])+sum(ytd_prev['VDP_Gross_Sales_QTY'])+sum(ytd_prev['Undamaged_Returns_QTY'])+sum(ytd_prev['VDP_Undamaged_Returns_QTY']))) - 100 else 100*(sum(ytd_curr['{{cell(static_1.selection, 0, \"value\").asObject()}}'])/sum(ytd_prev['{{cell(static_1.selection, 0, \"value\").asObject()}}'])-1) end) as 'sort var', ytd_curr::{{cell(grouping_selector.selection, 0, \"value\").asObject()}} as {{cell(grouping_selector.selection, 0, \"value\").asOrder()}};  R13 = group diy_R13_prev_1 by {{cell(grouping_selector.selection, 0, \"value\").asOrder()}} full, diy_R13_curr_1 by {{cell(grouping_selector.selection, 0, \"value\").asOrder()}} full, difm_R13_prev_1 by {{cell(grouping_selector.selection, 0, \"value\").asOrder()}} full, difm_R13_curr_1 by {{cell(grouping_selector.selection, 0, \"value\").asOrder()}} full, R13_prev_1 by {{cell(grouping_selector.selection, 0, \"value\").asOrder()}} full, R13_curr_1 by {{cell(grouping_selector.selection, 0, \"value\").asOrder()}} full, diy_R13_prev_2 by {{cell(grouping_selector.selection, 0, \"value\").asOrder()}} full, diy_R13_curr_2 by {{cell(grouping_selector.selection, 0, \"value\").asOrder()}} full, difm_R13_prev_2 by {{cell(grouping_selector.selection, 0, \"value\").asOrder()}} full, difm_R13_curr_2 by {{cell(grouping_selector.selection, 0, \"value\").asOrder()}} full, R13_prev_2 by {{cell(grouping_selector.selection, 0, \"value\").asOrder()}} full, R13_curr_2 by {{cell(grouping_selector.selection, 0, \"value\").asOrder()}};  R13 = foreach R13 generate number_to_string((case when \"{{cell(static_1.selection, 0, \"value\").asString()}}\" == \"Gross_Sales_Retail\" then 100*(coalesce(sum(diy_R13_curr_1['Damaged_Returns_Retail']), 0) + coalesce(sum(diy_R13_curr_1['VDP_Damaged_Returns_Retail']), 0) + sum(diy_R13_curr_2['Damaged_Returns_Retail']) + sum(diy_R13_curr_2['VDP_Damaged_Returns_Retail']))/(coalesce(sum(diy_R13_curr_1['Gross_Sales_Retail']), 0)+coalesce(sum(diy_R13_curr_1['VDP_Gross_Sales_Retail']), 0)+coalesce(sum(diy_R13_curr_1['Undamaged_Returns_Retail']), 0)+coalesce(sum(diy_R13_curr_1['VDP_Undamaged_Returns_Retail']), 0) + sum(diy_R13_curr_2['Gross_Sales_Retail'])+sum(diy_R13_curr_2['VDP_Gross_Sales_Retail'])+sum(diy_R13_curr_2['Undamaged_Returns_Retail'])+sum(diy_R13_curr_2['VDP_Undamaged_Returns_Retail']))/((coalesce(sum(diy_R13_prev_1['Damaged_Returns_Retail']), 0) + coalesce(sum(diy_R13_prev_1['VDP_Damaged_Returns_Retail']), 0) + sum(diy_R13_prev_2['Damaged_Returns_Retail']) + sum(diy_R13_prev_2['VDP_Damaged_Returns_Retail']))/(coalesce(sum(diy_R13_prev_1['Gross_Sales_Retail']), 0)+coalesce(sum(diy_R13_prev_1['VDP_Gross_Sales_Retail']), 0)+coalesce(sum(diy_R13_prev_1['Undamaged_Returns_Retail']), 0)+coalesce(sum(diy_R13_prev_1['VDP_Undamaged_Returns_Retail']), 0) + sum(diy_R13_prev_2['Gross_Sales_Retail'])+sum(diy_R13_prev_2['VDP_Gross_Sales_Retail'])+sum(diy_R13_prev_2['Undamaged_Returns_Retail'])+sum(diy_R13_prev_2['VDP_Undamaged_Returns_Retail']))) - 100 when \"{{cell(static_1.selection, 0, \"value\").asString()}}\" == \"Gross_Sales_QTY\" then 100*(coalesce(sum(diy_R13_curr_1['Damaged_Returns']), 0) + coalesce(sum(diy_R13_curr_1['VDP_Damaged_Returns_QTY']), 0) + sum(diy_R13_curr_2['Damaged_Returns']) + sum(diy_R13_curr_2['VDP_Damaged_Returns_QTY']))/(coalesce(sum(diy_R13_curr_1['Gross_Sales_QTY']), 0)+coalesce(sum(diy_R13_curr_1['VDP_Gross_Sales_QTY']), 0)+coalesce(sum(diy_R13_curr_1['Undamaged_Returns_QTY']), 0)+coalesce(sum(diy_R13_curr_1['VDP_Undamaged_Returns_QTY']), 0) + sum(diy_R13_curr_2['Gross_Sales_QTY'])+sum(diy_R13_curr_2['VDP_Gross_Sales_QTY'])+sum(diy_R13_curr_2['Undamaged_Returns_QTY'])+sum(diy_R13_curr_2['VDP_Undamaged_Returns_QTY']))/((coalesce(sum(diy_R13_prev_1['Damaged_Returns']), 0) + coalesce(sum(diy_R13_prev_1['VDP_Damaged_Returns_QTY']), 0) + sum(diy_R13_prev_2['Damaged_Returns']) + sum(diy_R13_prev_2['VDP_Damaged_Returns_QTY']))/(coalesce(sum(diy_R13_prev_1['Gross_Sales_QTY']), 0)+coalesce(sum(diy_R13_prev_1['VDP_Gross_Sales_QTY']), 0)+coalesce(sum(diy_R13_prev_1['Undamaged_Returns_QTY']), 0)+coalesce(sum(diy_R13_prev_1['VDP_Undamaged_Returns_QTY']), 0) + sum(diy_R13_prev_2['Gross_Sales_QTY'])+sum(diy_R13_prev_2['VDP_Gross_Sales_QTY'])+sum(diy_R13_prev_2['Undamaged_Returns_QTY'])+sum(diy_R13_prev_2['VDP_Undamaged_Returns_QTY']))) - 100 else 100*((coalesce(sum(diy_R13_curr_1['{{cell(static_1.selection, 0, \"value\").asObject()}}']), 0)+sum(diy_R13_curr_2['{{cell(static_1.selection, 0, \"value\").asObject()}}']))/(coalesce(sum(diy_R13_prev_1['{{cell(static_1.selection, 0, \"value\").asObject()}}']), 0)+sum(diy_R13_prev_2['{{cell(static_1.selection, 0, \"value\").asObject()}}']))-1) end)/100, \"#.0%\") as 'DIY_%Change', number_to_string((case when \"{{cell(static_1.selection, 0, \"value\").asString()}}\" == \"Gross_Sales_Retail\" then 100*(coalesce(sum(diy_R13_curr_1['Damaged_Returns_Retail']), 0) + coalesce(sum(diy_R13_curr_1['VDP_Damaged_Returns_Retail']), 0) + sum(diy_R13_curr_2['Damaged_Returns_Retail']) + sum(diy_R13_curr_2['VDP_Damaged_Returns_Retail']))/(coalesce(sum(diy_R13_curr_1['Gross_Sales_Retail']), 0)+coalesce(sum(diy_R13_curr_1['VDP_Gross_Sales_Retail']), 0)+coalesce(sum(diy_R13_curr_1['Undamaged_Returns_Retail']), 0)+coalesce(sum(diy_R13_curr_1['VDP_Undamaged_Returns_Retail']), 0) + sum(diy_R13_curr_2['Gross_Sales_Retail'])+sum(diy_R13_curr_2['VDP_Gross_Sales_Retail'])+sum(diy_R13_curr_2['Undamaged_Returns_Retail'])+sum(diy_R13_curr_2['VDP_Undamaged_Returns_Retail'])) when \"{{cell(static_1.selection, 0, \"value\").asString()}}\" == \"Gross_Sales_QTY\" then 100*(coalesce(sum(diy_R13_curr_1['Damaged_Returns']), 0) + coalesce(sum(diy_R13_curr_1['VDP_Damaged_Returns_QTY']), 0) + sum(diy_R13_curr_2['Damaged_Returns']) + sum(diy_R13_curr_2['VDP_Damaged_Returns_QTY']))/(coalesce(sum(diy_R13_curr_1['Gross_Sales_QTY']), 0)+coalesce(sum(diy_R13_curr_1['VDP_Gross_Sales_QTY']), 0)+coalesce(sum(diy_R13_curr_1['Undamaged_Returns_QTY']), 0)+coalesce(sum(diy_R13_curr_1['VDP_Undamaged_Returns_QTY']), 0) + sum(diy_R13_curr_2['Gross_Sales_QTY'])+sum(diy_R13_curr_2['VDP_Gross_Sales_QTY'])+sum(diy_R13_curr_2['Undamaged_Returns_QTY'])+sum(diy_R13_curr_2['VDP_Undamaged_Returns_QTY'])) else (coalesce(sum(diy_R13_curr_1['{{cell(static_1.selection, 0, \"value\").asObject()}}']), 0)+sum(diy_R13_curr_2['{{cell(static_1.selection, 0, \"value\").asObject()}}'])) end), \"#,###\") as 'Current DIY', number_to_string((case when \"{{cell(static_1.selection, 0, \"value\").asString()}}\" == \"Gross_Sales_Retail\" then 100*(coalesce(sum(diy_R13_prev_1['Damaged_Returns_Retail']), 0) + coalesce(sum(diy_R13_prev_1['VDP_Damaged_Returns_Retail']), 0) + sum(diy_R13_prev_2['Damaged_Returns_Retail']) + sum(diy_R13_prev_2['VDP_Damaged_Returns_Retail']))/(coalesce(sum(diy_R13_prev_1['Gross_Sales_Retail']), 0)+coalesce(sum(diy_R13_prev_1['VDP_Gross_Sales_Retail']), 0)+coalesce(sum(diy_R13_prev_1['Undamaged_Returns_Retail']), 0)+coalesce(sum(diy_R13_prev_1['VDP_Undamaged_Returns_Retail']), 0) + sum(diy_R13_prev_2['Gross_Sales_Retail'])+sum(diy_R13_prev_2['VDP_Gross_Sales_Retail'])+sum(diy_R13_prev_2['Undamaged_Returns_Retail'])+sum(diy_R13_prev_2['VDP_Undamaged_Returns_Retail'])) when \"{{cell(static_1.selection, 0, \"value\").asString()}}\" == \"Gross_Sales_QTY\" then 100*(coalesce(sum(diy_R13_prev_1['Damaged_Returns']), 0) + coalesce(sum(diy_R13_prev_1['VDP_Damaged_Returns_QTY']), 0) + sum(diy_R13_prev_2['Damaged_Returns']) + sum(diy_R13_prev_2['VDP_Damaged_Returns_QTY']))/(coalesce(sum(diy_R13_prev_1['Gross_Sales_QTY']), 0)+coalesce(sum(diy_R13_prev_1['VDP_Gross_Sales_QTY']), 0)+coalesce(sum(diy_R13_prev_1['Undamaged_Returns_QTY']), 0)+coalesce(sum(diy_R13_prev_1['VDP_Undamaged_Returns_QTY']), 0) + sum(diy_R13_prev_2['Gross_Sales_QTY'])+sum(diy_R13_prev_2['VDP_Gross_Sales_QTY'])+sum(diy_R13_prev_2['Undamaged_Returns_QTY'])+sum(diy_R13_prev_2['VDP_Undamaged_Returns_QTY'])) else (coalesce(sum(diy_R13_prev_1['{{cell(static_1.selection, 0, \"value\").asObject()}}']), 0)+sum(diy_R13_prev_2['{{cell(static_1.selection, 0, \"value\").asObject()}}'])) end), \"#,###\") as 'Prior DIY', number_to_string((case when \"{{cell(static_1.selection, 0, \"value\").asString()}}\" == \"Gross_Sales_Retail\" then 100*(coalesce(sum(difm_R13_curr_1['Damaged_Returns_Retail']), 0) + coalesce(sum(difm_R13_curr_1['VDP_Damaged_Returns_Retail']), 0) + sum(difm_R13_curr_2['Damaged_Returns_Retail']) + sum(difm_R13_curr_2['VDP_Damaged_Returns_Retail']))/(coalesce(sum(difm_R13_curr_1['Gross_Sales_Retail']), 0)+coalesce(sum(difm_R13_curr_1['VDP_Gross_Sales_Retail']), 0)+coalesce(sum(difm_R13_curr_1['Undamaged_Returns_Retail']), 0)+coalesce(sum(difm_R13_curr_1['VDP_Undamaged_Returns_Retail']), 0) + sum(difm_R13_curr_2['Gross_Sales_Retail'])+sum(difm_R13_curr_2['VDP_Gross_Sales_Retail'])+sum(difm_R13_curr_2['Undamaged_Returns_Retail'])+sum(difm_R13_curr_2['VDP_Undamaged_Returns_Retail'])) when \"{{cell(static_1.selection, 0, \"value\").asString()}}\" == \"Gross_Sales_QTY\" then 100*(coalesce(sum(difm_R13_curr_1['Damaged_Returns']), 0) + coalesce(sum(difm_R13_curr_1['VDP_Damaged_Returns_QTY']), 0) + sum(difm_R13_curr_2['Damaged_Returns']) + sum(difm_R13_curr_2['VDP_Damaged_Returns_QTY']))/(coalesce(sum(difm_R13_curr_1['Gross_Sales_QTY']), 0)+coalesce(sum(difm_R13_curr_1['VDP_Gross_Sales_QTY']), 0)+coalesce(sum(difm_R13_curr_1['Undamaged_Returns_QTY']), 0)+coalesce(sum(difm_R13_curr_1['VDP_Undamaged_Returns_QTY']), 0) + sum(difm_R13_curr_2['Gross_Sales_QTY'])+sum(difm_R13_curr_2['VDP_Gross_Sales_QTY'])+sum(difm_R13_curr_2['Undamaged_Returns_QTY'])+sum(difm_R13_curr_2['VDP_Undamaged_Returns_QTY'])) else (coalesce(sum(difm_R13_curr_1['{{cell(static_1.selection, 0, \"value\").asObject()}}']), 0)+sum(difm_R13_curr_2['{{cell(static_1.selection, 0, \"value\").asObject()}}'])) end), \"#,###\") as 'Current DIFM', number_to_string((case when \"{{cell(static_1.selection, 0, \"value\").asString()}}\" == \"Gross_Sales_Retail\" then 100*(coalesce(sum(difm_R13_prev_1['Damaged_Returns_Retail']), 0) + coalesce(sum(difm_R13_prev_1['VDP_Damaged_Returns_Retail']), 0) + sum(difm_R13_prev_2['Damaged_Returns_Retail']) + sum(difm_R13_prev_2['VDP_Damaged_Returns_Retail']))/(coalesce(sum(difm_R13_prev_1['Gross_Sales_Retail']), 0)+coalesce(sum(difm_R13_prev_1['VDP_Gross_Sales_Retail']), 0)+coalesce(sum(difm_R13_prev_1['Undamaged_Returns_Retail']), 0)+coalesce(sum(difm_R13_prev_1['VDP_Undamaged_Returns_Retail']), 0) + sum(difm_R13_prev_2['Gross_Sales_Retail'])+sum(difm_R13_prev_2['VDP_Gross_Sales_Retail'])+sum(difm_R13_prev_2['Undamaged_Returns_Retail'])+sum(difm_R13_prev_2['VDP_Undamaged_Returns_Retail'])) when \"{{cell(static_1.selection, 0, \"value\").asString()}}\" == \"Gross_Sales_QTY\" then 100*(coalesce(sum(difm_R13_prev_1['Damaged_Returns']), 0) + coalesce(sum(difm_R13_prev_1['VDP_Damaged_Returns_QTY']), 0) + sum(difm_R13_prev_2['Damaged_Returns']) + sum(difm_R13_prev_2['VDP_Damaged_Returns_QTY']))/(coalesce(sum(difm_R13_prev_1['Gross_Sales_QTY']), 0)+coalesce(sum(difm_R13_prev_1['VDP_Gross_Sales_QTY']), 0)+coalesce(sum(difm_R13_prev_1['Undamaged_Returns_QTY']), 0)+coalesce(sum(difm_R13_prev_1['VDP_Undamaged_Returns_QTY']), 0) + sum(difm_R13_prev_2['Gross_Sales_QTY'])+sum(difm_R13_prev_2['VDP_Gross_Sales_QTY'])+sum(difm_R13_prev_2['Undamaged_Returns_QTY'])+sum(difm_R13_prev_2['VDP_Undamaged_Returns_QTY'])) else (coalesce(sum(difm_R13_prev_1['{{cell(static_1.selection, 0, \"value\").asObject()}}']), 0)+sum(difm_R13_prev_2['{{cell(static_1.selection, 0, \"value\").asObject()}}'])) end), \"#,###\") as 'Prior DIFM', number_to_string((case when \"{{cell(static_1.selection, 0, \"value\").asString()}}\" == \"Gross_Sales_Retail\" then 100*(coalesce(sum(difm_R13_curr_1['Damaged_Returns_Retail']), 0) + coalesce(sum(difm_R13_curr_1['VDP_Damaged_Returns_Retail']), 0) + sum(difm_R13_curr_2['Damaged_Returns_Retail']) + sum(difm_R13_curr_2['VDP_Damaged_Returns_Retail']))/(coalesce(sum(difm_R13_curr_1['Gross_Sales_Retail']), 0)+coalesce(sum(difm_R13_curr_1['VDP_Gross_Sales_Retail']), 0)+coalesce(sum(difm_R13_curr_1['Undamaged_Returns_Retail']), 0)+coalesce(sum(difm_R13_curr_1['VDP_Undamaged_Returns_Retail']), 0) + sum(difm_R13_curr_2['Gross_Sales_Retail'])+sum(difm_R13_curr_2['VDP_Gross_Sales_Retail'])+sum(difm_R13_curr_2['Undamaged_Returns_Retail'])+sum(difm_R13_curr_2['VDP_Undamaged_Returns_Retail']))/((coalesce(sum(difm_R13_prev_1['Damaged_Returns_Retail']), 0) + coalesce(sum(difm_R13_prev_1['VDP_Damaged_Returns_Retail']), 0) + sum(difm_R13_prev_2['Damaged_Returns_Retail']) + sum(difm_R13_prev_2['VDP_Damaged_Returns_Retail']))/(coalesce(sum(difm_R13_prev_1['Gross_Sales_Retail']), 0)+coalesce(sum(difm_R13_prev_1['VDP_Gross_Sales_Retail']), 0)+coalesce(sum(difm_R13_prev_1['Undamaged_Returns_Retail']), 0)+coalesce(sum(difm_R13_prev_1['VDP_Undamaged_Returns_Retail']), 0) + sum(difm_R13_prev_2['Gross_Sales_Retail'])+sum(difm_R13_prev_2['VDP_Gross_Sales_Retail'])+sum(difm_R13_prev_2['Undamaged_Returns_Retail'])+sum(difm_R13_prev_2['VDP_Undamaged_Returns_Retail']))) - 100 when \"{{cell(static_1.selection, 0, \"value\").asString()}}\" == \"Gross_Sales_QTY\" then 100*(coalesce(sum(difm_R13_curr_1['Damaged_Returns']), 0) + coalesce(sum(difm_R13_curr_1['VDP_Damaged_Returns_QTY']), 0) + sum(difm_R13_curr_2['Damaged_Returns']) + sum(difm_R13_curr_2['VDP_Damaged_Returns_QTY']))/(coalesce(sum(difm_R13_curr_1['Gross_Sales_QTY']), 0)+coalesce(sum(difm_R13_curr_1['VDP_Gross_Sales_QTY']), 0)+coalesce(sum(difm_R13_curr_1['Undamaged_Returns_QTY']), 0)+coalesce(sum(difm_R13_curr_1['VDP_Undamaged_Returns_QTY']), 0) + sum(difm_R13_curr_2['Gross_Sales_QTY'])+sum(difm_R13_curr_2['VDP_Gross_Sales_QTY'])+sum(difm_R13_curr_2['Undamaged_Returns_QTY'])+sum(difm_R13_curr_2['VDP_Undamaged_Returns_QTY']))/((coalesce(sum(difm_R13_prev_1['Damaged_Returns']), 0) + coalesce(sum(difm_R13_prev_1['VDP_Damaged_Returns_QTY']), 0) + sum(difm_R13_prev_2['Damaged_Returns']) + sum(difm_R13_prev_2['VDP_Damaged_Returns_QTY']))/(coalesce(sum(difm_R13_prev_1['Gross_Sales_QTY']), 0)+coalesce(sum(difm_R13_prev_1['VDP_Gross_Sales_QTY']), 0)+coalesce(sum(difm_R13_prev_1['Undamaged_Returns_QTY']), 0)+coalesce(sum(difm_R13_prev_1['VDP_Undamaged_Returns_QTY']), 0) + sum(difm_R13_prev_2['Gross_Sales_QTY'])+sum(difm_R13_prev_2['VDP_Gross_Sales_QTY'])+sum(difm_R13_prev_2['Undamaged_Returns_QTY'])+sum(difm_R13_prev_2['VDP_Undamaged_Returns_QTY']))) - 100 else 100*((coalesce(sum(difm_R13_curr_1['{{cell(static_1.selection, 0, \"value\").asObject()}}']), 0)+sum(difm_R13_curr_2['{{cell(static_1.selection, 0, \"value\").asObject()}}']))/(coalesce(sum(difm_R13_prev_1['{{cell(static_1.selection, 0, \"value\").asObject()}}']), 0)+sum(difm_R13_prev_2['{{cell(static_1.selection, 0, \"value\").asObject()}}']))-1) end)/100, \"#.0%\") as 'DIFM_%Change', number_to_string((case when \"{{cell(static_1.selection, 0, \"value\").asString()}}\" == \"Gross_Sales_Retail\" then 100*(coalesce(sum(R13_curr_1['Damaged_Returns_Retail']), 0) + coalesce(sum(R13_curr_1['VDP_Damaged_Returns_Retail']), 0) + sum(R13_curr_2['Damaged_Returns_Retail']) + sum(R13_curr_2['VDP_Damaged_Returns_Retail']))/(coalesce(sum(R13_curr_1['Gross_Sales_Retail']), 0)+coalesce(sum(R13_curr_1['VDP_Gross_Sales_Retail']), 0)+coalesce(sum(R13_curr_1['Undamaged_Returns_Retail']), 0)+coalesce(sum(R13_curr_1['VDP_Undamaged_Returns_Retail']), 0) + sum(R13_curr_2['Gross_Sales_Retail'])+sum(R13_curr_2['VDP_Gross_Sales_Retail'])+sum(R13_curr_2['Undamaged_Returns_Retail'])+sum(R13_curr_2['VDP_Undamaged_Returns_Retail']))/((coalesce(sum(R13_prev_1['Damaged_Returns_Retail']), 0) + coalesce(sum(R13_prev_1['VDP_Damaged_Returns_Retail']), 0) + sum(R13_prev_2['Damaged_Returns_Retail']) + sum(R13_prev_2['VDP_Damaged_Returns_Retail']))/(coalesce(sum(R13_prev_1['Gross_Sales_Retail']), 0)+coalesce(sum(R13_prev_1['VDP_Gross_Sales_Retail']), 0)+coalesce(sum(R13_prev_1['Undamaged_Returns_Retail']), 0)+coalesce(sum(R13_prev_1['VDP_Undamaged_Returns_Retail']), 0) + sum(R13_prev_2['Gross_Sales_Retail'])+sum(R13_prev_2['VDP_Gross_Sales_Retail'])+sum(R13_prev_2['Undamaged_Returns_Retail'])+sum(R13_prev_2['VDP_Undamaged_Returns_Retail']))) - 100 when \"{{cell(static_1.selection, 0, \"value\").asString()}}\" == \"Gross_Sales_QTY\" then 100*(coalesce(sum(R13_curr_1['Damaged_Returns']), 0) + coalesce(sum(R13_curr_1['VDP_Damaged_Returns_QTY']), 0) + sum(R13_curr_2['Damaged_Returns']) + sum(R13_curr_2['VDP_Damaged_Returns_QTY']))/(coalesce(sum(R13_curr_1['Gross_Sales_QTY']), 0)+coalesce(sum(R13_curr_1['VDP_Gross_Sales_QTY']), 0)+coalesce(sum(R13_curr_1['Undamaged_Returns_QTY']), 0)+coalesce(sum(R13_curr_1['VDP_Undamaged_Returns_QTY']), 0) + sum(R13_curr_2['Gross_Sales_QTY'])+sum(R13_curr_2['VDP_Gross_Sales_QTY'])+sum(R13_curr_2['Undamaged_Returns_QTY'])+sum(R13_curr_2['VDP_Undamaged_Returns_QTY']))/((coalesce(sum(R13_prev_1['Damaged_Returns']), 0) + coalesce(sum(R13_prev_1['VDP_Damaged_Returns_QTY']), 0) + sum(R13_prev_2['Damaged_Returns']) + sum(R13_prev_2['VDP_Damaged_Returns_QTY']))/(coalesce(sum(R13_prev_1['Gross_Sales_QTY']), 0)+coalesce(sum(R13_prev_1['VDP_Gross_Sales_QTY']), 0)+coalesce(sum(R13_prev_1['Undamaged_Returns_QTY']), 0)+coalesce(sum(R13_prev_1['VDP_Undamaged_Returns_QTY']), 0) + sum(R13_prev_2['Gross_Sales_QTY'])+sum(R13_prev_2['VDP_Gross_Sales_QTY'])+sum(R13_prev_2['Undamaged_Returns_QTY'])+sum(R13_prev_2['VDP_Undamaged_Returns_QTY']))) - 100 else 100*((coalesce(sum(R13_curr_1['{{cell(static_1.selection, 0, \"value\").asObject()}}']), 0)+sum(R13_curr_2['{{cell(static_1.selection, 0, \"value\").asObject()}}']))/(coalesce(sum(R13_prev_1['{{cell(static_1.selection, 0, \"value\").asObject()}}']), 0)+sum(R13_prev_2['{{cell(static_1.selection, 0, \"value\").asObject()}}']))-1) end)/100, \"#.0%\") as 'DAP_%Change', number_to_string((case when \"{{cell(static_1.selection, 0, \"value\").asString()}}\" == \"Gross_Sales_Retail\" then 100*(coalesce(sum(R13_curr_1['Damaged_Returns_Retail']), 0) + coalesce(sum(R13_curr_1['VDP_Damaged_Returns_Retail']), 0) + sum(R13_curr_2['Damaged_Returns_Retail']) + sum(R13_curr_2['VDP_Damaged_Returns_Retail']))/(coalesce(sum(R13_curr_1['Gross_Sales_Retail']), 0)+coalesce(sum(R13_curr_1['VDP_Gross_Sales_Retail']), 0)+coalesce(sum(R13_curr_1['Undamaged_Returns_Retail']), 0)+coalesce(sum(R13_curr_1['VDP_Undamaged_Returns_Retail']), 0) + sum(R13_curr_2['Gross_Sales_Retail'])+sum(R13_curr_2['VDP_Gross_Sales_Retail'])+sum(R13_curr_2['Undamaged_Returns_Retail'])+sum(R13_curr_2['VDP_Undamaged_Returns_Retail'])) when \"{{cell(static_1.selection, 0, \"value\").asString()}}\" == \"Gross_Sales_QTY\" then 100*(coalesce(sum(R13_curr_1['Damaged_Returns']), 0) + coalesce(sum(R13_curr_1['VDP_Damaged_Returns_QTY']), 0) + sum(R13_curr_2['Damaged_Returns']) + sum(R13_curr_2['VDP_Damaged_Returns_QTY']))/(coalesce(sum(R13_curr_1['Gross_Sales_QTY']), 0)+coalesce(sum(R13_curr_1['VDP_Gross_Sales_QTY']), 0)+coalesce(sum(R13_curr_1['Undamaged_Returns_QTY']), 0)+coalesce(sum(R13_curr_1['VDP_Undamaged_Returns_QTY']), 0) + sum(R13_curr_2['Gross_Sales_QTY'])+sum(R13_curr_2['VDP_Gross_Sales_QTY'])+sum(R13_curr_2['Undamaged_Returns_QTY'])+sum(R13_curr_2['VDP_Undamaged_Returns_QTY'])) else (coalesce(sum(R13_curr_1['{{cell(static_1.selection, 0, \"value\").asObject()}}']), 0)+sum(R13_curr_2['{{cell(static_1.selection, 0, \"value\").asObject()}}'])) end), \"#,###\") as 'Current DAP', number_to_string((case when \"{{cell(static_1.selection, 0, \"value\").asString()}}\" == \"Gross_Sales_Retail\" then 100*(coalesce(sum(R13_prev_1['Damaged_Returns_Retail']), 0) + coalesce(sum(R13_prev_1['VDP_Damaged_Returns_Retail']), 0) + sum(R13_prev_2['Damaged_Returns_Retail']) + sum(R13_prev_2['VDP_Damaged_Returns_Retail']))/(coalesce(sum(R13_prev_1['Gross_Sales_Retail']), 0)+coalesce(sum(R13_prev_1['VDP_Gross_Sales_Retail']), 0)+coalesce(sum(R13_prev_1['Undamaged_Returns_Retail']), 0)+coalesce(sum(R13_prev_1['VDP_Undamaged_Returns_Retail']), 0) + sum(R13_prev_2['Gross_Sales_Retail'])+sum(R13_prev_2['VDP_Gross_Sales_Retail'])+sum(R13_prev_2['Undamaged_Returns_Retail'])+sum(R13_prev_2['VDP_Undamaged_Returns_Retail'])) when \"{{cell(static_1.selection, 0, \"value\").asString()}}\" == \"Gross_Sales_QTY\" then 100*(coalesce(sum(R13_prev_1['Damaged_Returns']), 0) + coalesce(sum(R13_prev_1['VDP_Damaged_Returns_QTY']), 0) + sum(R13_prev_2['Damaged_Returns']) + sum(R13_prev_2['VDP_Damaged_Returns_QTY']))/(coalesce(sum(R13_prev_1['Gross_Sales_QTY']), 0)+coalesce(sum(R13_prev_1['VDP_Gross_Sales_QTY']), 0)+coalesce(sum(R13_prev_1['Undamaged_Returns_QTY']), 0)+coalesce(sum(R13_prev_1['VDP_Undamaged_Returns_QTY']), 0) + sum(R13_prev_2['Gross_Sales_QTY'])+sum(R13_prev_2['VDP_Gross_Sales_QTY'])+sum(R13_prev_2['Undamaged_Returns_QTY'])+sum(R13_prev_2['VDP_Undamaged_Returns_QTY'])) else (coalesce(sum(R13_prev_1['{{cell(static_1.selection, 0, \"value\").asObject()}}']), 0)+sum(R13_prev_2['{{cell(static_1.selection, 0, \"value\").asObject()}}'])) end), \"#,###\") as 'Prior DAP', (case when \"{{cell(static_1.selection, 0, \"value\").asString()}}\" == \"Gross_Sales_Retail\" then 100*(coalesce(sum(R13_curr_1['Damaged_Returns_Retail']), 0) + coalesce(sum(R13_curr_1['VDP_Damaged_Returns_Retail']), 0) + sum(R13_curr_2['Damaged_Returns_Retail']) + sum(R13_curr_2['VDP_Damaged_Returns_Retail']))/(coalesce(sum(R13_curr_1['Gross_Sales_Retail']), 0)+coalesce(sum(R13_curr_1['VDP_Gross_Sales_Retail']), 0)+coalesce(sum(R13_curr_1['Undamaged_Returns_Retail']), 0)+coalesce(sum(R13_curr_1['VDP_Undamaged_Returns_Retail']), 0) + sum(R13_curr_2['Gross_Sales_Retail'])+sum(R13_curr_2['VDP_Gross_Sales_Retail'])+sum(R13_curr_2['Undamaged_Returns_Retail'])+sum(R13_curr_2['VDP_Undamaged_Returns_Retail']))/((coalesce(sum(R13_prev_1['Damaged_Returns_Retail']), 0) + coalesce(sum(R13_prev_1['VDP_Damaged_Returns_Retail']), 0) + sum(R13_prev_2['Damaged_Returns_Retail']) + sum(R13_prev_2['VDP_Damaged_Returns_Retail']))/(coalesce(sum(R13_prev_1['Gross_Sales_Retail']), 0)+coalesce(sum(R13_prev_1['VDP_Gross_Sales_Retail']), 0)+coalesce(sum(R13_prev_1['Undamaged_Returns_Retail']), 0)+coalesce(sum(R13_prev_1['VDP_Undamaged_Returns_Retail']), 0) + sum(R13_prev_2['Gross_Sales_Retail'])+sum(R13_prev_2['VDP_Gross_Sales_Retail'])+sum(R13_prev_2['Undamaged_Returns_Retail'])+sum(R13_prev_2['VDP_Undamaged_Returns_Retail']))) - 100 when \"{{cell(static_1.selection, 0, \"value\").asString()}}\" == \"Gross_Sales_QTY\" then 100*(coalesce(sum(R13_curr_1['Damaged_Returns']), 0) + coalesce(sum(R13_curr_1['VDP_Damaged_Returns_QTY']), 0) + sum(R13_curr_2['Damaged_Returns']) + sum(R13_curr_2['VDP_Damaged_Returns_QTY']))/(coalesce(sum(R13_curr_1['Gross_Sales_QTY']), 0)+coalesce(sum(R13_curr_1['VDP_Gross_Sales_QTY']), 0)+coalesce(sum(R13_curr_1['Undamaged_Returns_QTY']), 0)+coalesce(sum(R13_curr_1['VDP_Undamaged_Returns_QTY']), 0) + sum(R13_curr_2['Gross_Sales_QTY'])+sum(R13_curr_2['VDP_Gross_Sales_QTY'])+sum(R13_curr_2['Undamaged_Returns_QTY'])+sum(R13_curr_2['VDP_Undamaged_Returns_QTY']))/((coalesce(sum(R13_prev_1['Damaged_Returns']), 0) + coalesce(sum(R13_prev_1['VDP_Damaged_Returns_QTY']), 0) + sum(R13_prev_2['Damaged_Returns']) + sum(R13_prev_2['VDP_Damaged_Returns_QTY']))/(coalesce(sum(R13_prev_1['Gross_Sales_QTY']), 0)+coalesce(sum(R13_prev_1['VDP_Gross_Sales_QTY']), 0)+coalesce(sum(R13_prev_1['Undamaged_Returns_QTY']), 0)+coalesce(sum(R13_prev_1['VDP_Undamaged_Returns_QTY']), 0) + sum(R13_prev_2['Gross_Sales_QTY'])+sum(R13_prev_2['VDP_Gross_Sales_QTY'])+sum(R13_prev_2['Undamaged_Returns_QTY'])+sum(R13_prev_2['VDP_Undamaged_Returns_QTY']))) - 100 else 100*((coalesce(sum(R13_curr_1['{{cell(static_1.selection, 0, \"value\").asObject()}}']), 0)+sum(R13_curr_2['{{cell(static_1.selection, 0, \"value\").asObject()}}']))/(coalesce(sum(R13_prev_1['{{cell(static_1.selection, 0, \"value\").asObject()}}']), 0)+sum(R13_prev_2['{{cell(static_1.selection, 0, \"value\").asObject()}}']))-1) end) as 'sort var', R13_curr_2::{{cell(grouping_selector.selection, 0, \"value\").asObject()}} as {{cell(grouping_selector.selection, 0, \"value\").asOrder()}};  final = order {{cell(group_var.selection, 0, \"value\").asObject()}} by 'sort var' desc ",
+                    "measures": [
+                        [
+                            "count",
+                            "*",
+                            "Prior DIY"
+                        ],
+                        [
+                            "count",
+                            "*",
+                            "Current DIY"
+                        ],
+                        [
+                            "count",
+                            "*",
+                            "DIY_%Change"
+                        ],
+                        [
+                            "count",
+                            "*",
+                            "Prior DIFM"
+                        ],
+                        [
+                            "count",
+                            "*",
+                            "Current DIFM"
+                        ],
+                        [
+                            "count",
+                            "*",
+                            "DIFM_%Change"
+                        ],
+                        [
+                            "count",
+                            "*",
+                            "Prior DAP"
+                        ],
+                        [
+                            "count",
+                            "*",
+                            "Current DAP"
+                        ],
+                        [
+                            "count",
+                            "*",
+                            "DAP_%Change"
+                        ]
+                    ],
+                    "groups": [
+                        [
+                            "{{cell(grouping_selector.selection, 0, \"value\").asObject()}}"
+                        ]
+                    ]
+                },
+                "receiveFacetSource": {
+                    "mode": "all",
+                    "steps": []
+                },
+                "selectMode": "single",
+                "start": [],
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {}
+            },
+            "Store_Number_1": {
+                "broadcastFacet": true,
+                "datasets": [
+                    {
+                        "id": "0Fb1E0000004MgQSAU",
+                        "label": "AZ CC Merge Data",
+                        "name": "AZ_CC_Merge_Data",
+                        "url": "/services/data/v53.0/wave/datasets/0Fb1E0000004MgQSAU"
+                    }
+                ],
+                "isGlobal": false,
+                "query": {
+                    "measures": [
+                        [
+                            "count",
+                            "*"
+                        ]
+                    ],
+                    "groups": [
+                        "Store_Number"
+                    ]
+                },
+                "receiveFacetSource": {
+                    "mode": "all",
+                    "steps": []
+                },
+                "selectMode": "multi",
+                "start": [],
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {}
+            },
+            "Sales_Type_1": {
+                "broadcastFacet": true,
+                "datasets": [
+                    {
+                        "id": "0Fb1E0000004MgQSAU",
+                        "label": "AZ CC Merge Data",
+                        "name": "AZ_CC_Merge_Data",
+                        "url": "/services/data/v53.0/wave/datasets/0Fb1E0000004MgQSAU"
+                    }
+                ],
+                "isGlobal": false,
+                "query": {
+                    "measures": [
+                        [
+                            "count",
+                            "*"
+                        ]
+                    ],
+                    "groups": [
+                        "Sales_Type"
+                    ]
+                },
+                "receiveFacetSource": {
+                    "mode": "all",
+                    "steps": []
+                },
+                "selectMode": "multi",
+                "start": [],
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {}
+            }
+        },
+        "widgetStyle": {
+            "backgroundColor": "#FFFFFF",
+            "borderColor": "#E6ECF2",
+            "borderEdges": [],
+            "borderRadius": 0,
+            "borderWidth": 1
+        },
+        "widgets": {
+            "container_2": {
+                "parameters": {
+                    "alignmentX": "left",
+                    "alignmentY": "top",
+                    "fit": "original"
+                },
+                "type": "container"
+            },
+            "container_3": {
+                "parameters": {
+                    "alignmentX": "left",
+                    "alignmentY": "top",
+                    "fit": "original"
+                },
+                "type": "container"
+            },
+            "container_4": {
+                "parameters": {
+                    "alignmentX": "left",
+                    "alignmentY": "top",
+                    "fit": "original"
+                },
+                "type": "container"
+            },
+            "container_5": {
+                "parameters": {
+                    "alignmentX": "left",
+                    "alignmentY": "top",
+                    "fit": "original"
+                },
+                "type": "container"
+            },
+            "text_3": {
+                "parameters": {
+                    "content": {
+                        "richTextContent": [
+                            {
+                                "attributes": {
+                                    "size": "24px",
+                                    "color": "#0000ff"
+                                },
+                                "insert": "Table and Chart Contents"
+                            },
+                            {
+                                "attributes": {
+                                    "align": "center"
+                                },
+                                "insert": "\n"
+                            }
+                        ]
+                    },
+                    "showActionMenu": false
+                },
+                "type": "text"
+            },
+            "text_2": {
+                "parameters": {
+                    "content": {
+                        "richTextContent": [
+                            {
+                                "attributes": {
+                                    "size": "24px",
+                                    "color": "rgb(0, 0, 255)"
+                                },
+                                "insert": "Table Grouping Selector"
+                            },
+                            {
+                                "attributes": {
+                                    "align": "center"
+                                },
+                                "insert": "\n"
+                            }
+                        ]
+                    },
+                    "showActionMenu": false
+                },
+                "type": "text"
+            },
+            "text_4": {
+                "parameters": {
+                    "content": {
+                        "richTextContent": [
+                            {
+                                "attributes": {
+                                    "size": "18px",
+                                    "color": "#091a3e"
+                                },
+                                "insert": "Year & Period Selector"
+                            },
+                            {
+                                "attributes": {
+                                    "align": "center"
+                                },
+                                "insert": "\n"
+                            }
+                        ]
+                    },
+                    "showActionMenu": false
+                },
+                "type": "text"
+            },
+            "chart_1": {
+                "parameters": {
+                    "autoFitMode": "keepLabels",
+                    "showPoints": false,
+                    "legend": {
+                        "descOrder": false,
+                        "showHeader": true,
+                        "show": true,
+                        "customSize": "auto",
+                        "position": "top-center",
+                        "inside": false
+                    },
+                    "axisMode": "sync",
+                    "tooltip": {
+                        "content": {
+                            "legend": {
+                                "showBinLabel": true,
+                                "measures": [],
+                                "showNullValues": true,
+                                "customizeLegend": false,
+                                "showPercentage": true,
+                                "showDimensions": true,
+                                "showMeasures": true,
+                                "dimensions": []
+                            }
+                        }
+                    },
+                    "visualizationType": "line",
+                    "dashLine": {
+                        "measures": "",
+                        "showDashLine": false
+                    },
+                    "exploreLink": true,
+                    "title": {
+                        "fontSize": 18,
+                        "subtitleFontSize": 18,
+                        "label": "{{cell(chart_name.result, 0, \"Chart Name\").asObject()}}",
+                        "align": "center",
+                        "subtitleLabel": "{{cell(static_1.selection, 0, \"display\").asString()}}"
+                    },
+                    "trellis": {
+                        "flipLabels": false,
+                        "showGridLines": true,
+                        "size": [
+                            100,
+                            100
+                        ],
+                        "enable": false,
+                        "type": "x",
+                        "chartsPerLine": 4
+                    },
+                    "fillArea": true,
+                    "columnMap": {
+                        "split": [],
+                        "trellis": [],
+                        "dimensionAxis": [
+                            "Region"
+                        ],
+                        "plots": [
+                            "DIY_%Change",
+                            "DIFM_%Change",
+                            "DAP_%Change"
+                        ]
+                    },
+                    "showActionMenu": true,
+                    "showZero": true,
+                    "measureAxis2": {
+                        "sqrtScale": false,
+                        "showTitle": true,
+                        "showAxis": true,
+                        "title": "",
+                        "customDomain": {
+                            "showDomain": false
+                        }
+                    },
+                    "measureAxis1": {
+                        "sqrtScale": false,
+                        "showTitle": false,
+                        "showAxis": true,
+                        "title": "",
+                        "customDomain": {
+                            "showDomain": false
+                        }
+                    },
+                    "valueType": "none",
+                    "theme": "wave",
+                    "step": "region_chart",
+                    "dimensionAxis": {
+                        "showTitle": false,
+                        "customSize": "auto",
+                        "showAxis": true,
+                        "title": "",
+                        "icons": {
+                            "useIcons": false,
+                            "iconProps": {
+                                "fit": "cover",
+                                "column": "",
+                                "type": "round"
+                            }
+                        }
+                    },
+                    "applyConditionalFormatting": true,
+                    "drawArea": {
+                        "measure": "DIY_%Change",
+                        "showDrawArea": false,
+                        "bounding1": "DIY_%Change",
+                        "bounding2": "DIY_%Change"
+                    }
+                },
+                "type": "chart"
+            },
+            "listselector_7": {
+                "parameters": {
+                    "compact": false,
+                    "displayMode": "combo",
+                    "exploreLink": false,
+                    "filterStyle": {
+                        "titleColor": "#091A3E",
+                        "valueColor": "#17324D"
+                    },
+                    "instant": true,
+                    "measureField": "count",
+                    "showActionMenu": false,
+                    "step": "Sales_Type_1",
+                    "title": "Sales Type"
+                },
+                "type": "listselector"
+            },
+            "listselector_6": {
+                "parameters": {
+                    "compact": false,
+                    "displayMode": "combo",
+                    "exploreLink": false,
+                    "filterStyle": {
+                        "titleColor": "#091A3E",
+                        "valueColor": "#17324D"
+                    },
+                    "instant": true,
+                    "measureField": "count",
+                    "showActionMenu": false,
+                    "step": "Sku_Number_1",
+                    "title": "SKU"
+                },
+                "type": "listselector"
+            },
+            "listselector_9": {
+                "parameters": {
+                    "compact": false,
+                    "displayMode": "combo",
+                    "exploreLink": false,
+                    "filterStyle": {
+                        "titleColor": "#091A3E",
+                        "valueColor": "#091A3E"
+                    },
+                    "instant": true,
+                    "measureField": "count",
+                    "showActionMenu": false,
+                    "step": "year_selector",
+                    "title": "FY"
+                },
+                "type": "listselector"
+            },
+            "listselector_8": {
+                "parameters": {
+                    "compact": false,
+                    "displayMode": "combo",
+                    "exploreLink": false,
+                    "filterStyle": {
+                        "titleColor": "#091A3E",
+                        "valueColor": "#091A3E"
+                    },
+                    "instant": true,
+                    "measureField": "count",
+                    "showActionMenu": false,
+                    "step": "period_selector",
+                    "title": "Fiscal Period"
+                },
+                "type": "listselector"
+            },
+            "listselector_3": {
+                "parameters": {
+                    "compact": false,
+                    "displayMode": "combo",
+                    "exploreLink": false,
+                    "filterStyle": {
+                        "titleColor": "#091A3E",
+                        "valueColor": "#17324D"
+                    },
+                    "instant": true,
+                    "measureField": "count",
+                    "showActionMenu": false,
+                    "step": "Minor_Dept_Desc_1",
+                    "title": "Minor Dept"
+                },
+                "type": "listselector"
+            },
+            "listselector_2": {
+                "parameters": {
+                    "compact": false,
+                    "displayMode": "combo",
+                    "exploreLink": false,
+                    "filterStyle": {
+                        "titleColor": "#091A3E",
+                        "valueColor": "#17324D"
+                    },
+                    "instant": true,
+                    "measureField": "count",
+                    "showActionMenu": false,
+                    "step": "Major_Dept_Desc_1",
+                    "title": "Major Dept"
+                },
+                "type": "listselector"
+            },
+            "listselector_5": {
+                "parameters": {
+                    "compact": false,
+                    "displayMode": "combo",
+                    "exploreLink": false,
+                    "filterStyle": {
+                        "titleColor": "#091A3E",
+                        "valueColor": "#17324D"
+                    },
+                    "instant": true,
+                    "measureField": "count",
+                    "showActionMenu": false,
+                    "step": "Part_Number_1",
+                    "title": "Part Number"
+                },
+                "type": "listselector"
+            },
+            "text_1": {
+                "parameters": {
+                    "content": {
+                        "richTextContent": [
+                            {
+                                "attributes": {
+                                    "size": "24px",
+                                    "color": "#0000ff"
+                                },
+                                "insert": "Filters (table and chart)"
+                            },
+                            {
+                                "attributes": {
+                                    "align": "center"
+                                },
+                                "insert": "\n"
+                            }
+                        ]
+                    },
+                    "showActionMenu": false
+                },
+                "type": "text"
+            },
+            "listselector_4": {
+                "parameters": {
+                    "compact": false,
+                    "displayMode": "combo",
+                    "exploreLink": false,
+                    "filterStyle": {
+                        "titleColor": "#091A3E",
+                        "valueColor": "#091A3E"
+                    },
+                    "instant": true,
+                    "measureField": "count",
+                    "showActionMenu": false,
+                    "step": "State_1",
+                    "title": "State"
+                },
+                "type": "listselector"
+            },
+            "table_4": {
+                "parameters": {
+                    "borderColor": "#e0e5ee",
+                    "borderWidth": 1,
+                    "cell": {
+                        "backgroundColor": "#ffffff",
+                        "fontColor": "#16325c",
+                        "fontSize": 12
+                    },
+                    "columnProperties": {},
+                    "columns": [],
+                    "customBulkActions": [],
+                    "exploreLink": true,
+                    "header": {
+                        "backgroundColor": "#f4f6f9",
+                        "fontColor": "#16325c",
+                        "fontSize": 12
+                    },
+                    "innerMajorBorderColor": "#a8b7c7",
+                    "innerMinorBorderColor": "#e0e5ee",
+                    "mode": "fittocontainer",
+                    "numberOfLines": 1,
+                    "showActionMenu": true,
+                    "showRowIndexColumn": false,
+                    "step": "region_table",
+                    "verticalPadding": 8
+                },
+                "type": "table"
+            },
+            "pillbox_2": {
+                "parameters": {
+                    "compact": false,
+                    "exploreLink": false,
+                    "fontSize": 14,
+                    "measureField": "count",
+                    "selectedTab": {
+                        "backgroundColor": "rgb(0, 0, 255)",
+                        "borderColor": "#C6D3E1",
+                        "borderEdges": [
+                            "all"
+                        ],
+                        "borderWidth": 1,
+                        "textColor": "#FFFFFF"
+                    },
+                    "showActionMenu": false,
+                    "step": "grouping_selector",
+                    "textColor": "rgb(0, 0, 255)"
+                },
+                "type": "pillbox"
+            },
+            "pillbox_1": {
+                "parameters": {
+                    "compact": false,
+                    "exploreLink": false,
+                    "fontSize": 14,
+                    "measureField": "count",
+                    "selectedTab": {
+                        "backgroundColor": "rgb(0, 0, 255)",
+                        "borderColor": "#C6D3E1",
+                        "borderEdges": [
+                            "all"
+                        ],
+                        "borderWidth": 1,
+                        "textColor": "#FFFFFF"
+                    },
+                    "showActionMenu": false,
+                    "step": "group_var",
+                    "textColor": "rgb(0, 0, 255)"
+                },
+                "type": "pillbox"
+            },
+            "pillbox_3": {
+                "parameters": {
+                    "compact": false,
+                    "exploreLink": false,
+                    "fontSize": 14,
+                    "measureField": "count",
+                    "selectedTab": {
+                        "backgroundColor": "rgb(0, 0, 255)",
+                        "borderColor": "#C6D3E1",
+                        "borderEdges": [
+                            "all"
+                        ],
+                        "borderWidth": 1,
+                        "textColor": "#FFFFFF"
+                    },
+                    "showActionMenu": false,
+                    "step": "static_1",
+                    "textColor": "rgb(0, 0, 255)"
+                },
+                "type": "pillbox"
+            },
+            "listselector_12": {
+                "parameters": {
+                    "compact": false,
+                    "displayMode": "combo",
+                    "exploreLink": false,
+                    "filterStyle": {
+                        "titleColor": "#091A3E",
+                        "valueColor": "#091A3E"
+                    },
+                    "instant": true,
+                    "measureField": "count",
+                    "showActionMenu": false,
+                    "step": "Store_Number_1",
+                    "title": "Store Number"
+                },
+                "type": "listselector"
+            },
+            "listselector_11": {
+                "parameters": {
+                    "compact": false,
+                    "displayMode": "combo",
+                    "exploreLink": false,
+                    "filterStyle": {
+                        "titleColor": "#091A3E",
+                        "valueColor": "#091A3E"
+                    },
+                    "instant": true,
+                    "measureField": "count",
+                    "showActionMenu": false,
+                    "step": "Market_1",
+                    "title": "Market"
+                },
+                "type": "listselector"
+            },
+            "listselector_1": {
+                "parameters": {
+                    "compact": false,
+                    "displayMode": "combo",
+                    "exploreLink": false,
+                    "filterStyle": {
+                        "titleColor": "#091A3E",
+                        "valueColor": "#17324D"
+                    },
+                    "instant": true,
+                    "measureField": "count",
+                    "showActionMenu": false,
+                    "step": "Supplier_Name_1",
+                    "title": "Supplier"
+                },
+                "type": "listselector"
+            },
+            "listselector_10": {
+                "parameters": {
+                    "compact": false,
+                    "displayMode": "combo",
+                    "exploreLink": false,
+                    "filterStyle": {
+                        "titleColor": "#091A3E",
+                        "valueColor": "#091A3E"
+                    },
+                    "instant": true,
+                    "measureField": "count",
+                    "showActionMenu": false,
+                    "step": "TG_flag_1",
+                    "title": "TruGrade Flag"
+                },
+                "type": "listselector"
+            },
+            "listselector_13": {
+                "parameters": {
+                    "compact": false,
+                    "displayMode": "combo",
+                    "exploreLink": false,
+                    "filterStyle": {
+                        "titleColor": "#091A3E",
+                        "valueColor": "#091A3E"
+                    },
+                    "instant": true,
+                    "measureField": "count",
+                    "showActionMenu": false,
+                    "step": "Region_2",
+                    "title": "Region"
+                },
+                "type": "listselector"
+            }
+        }
+    },
+    "datasets": [
+        {
+            "id": "0Fb1E0000004MgQSAU",
+            "label": "AZ CC Merge Data",
+            "name": "AZ_CC_Merge_Data",
+            "url": "/services/data/v53.0/wave/datasets/0Fb1E0000004MgQSAU"
+        }
+    ]
+}
